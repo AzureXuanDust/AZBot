@@ -1,0 +1,67 @@
+name: Test LanZouCloud Login
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  test-lanzou-login:
+    name: Test LanZouCloud login
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Checkout LanZouCloud API repository
+        uses: actions/checkout@v5
+        with:
+          repository: AzureXuanVerse/LanZouCloud-API
+          token: ${{ secrets.GH_PAT }}
+          path: lanzou-api-repo
+
+      - name: Install LanZouCloud API dependencies
+        run: |
+          pip install --quiet --upgrade pip
+          pip install --quiet requests requests_toolbelt aiohttp asyncio
+          SITE_PACKAGES=$(python -c "import site; print(site.getsitepackages()[0])")
+          cp -r lanzou-api-repo/lanzou_windfollowingheart "$SITE_PACKAGES/"
+          python -c "from lanzou_windfollowingheart.api import LanZouCloud"
+
+      - name: Test LanZouCloud login
+        env:
+          LANZOU_YLOGIN: ${{ secrets.LANZOU_YLOGIN }}
+          LANZOU_PHPDISK_INFO: ${{ secrets.LANZOU_PHPDISK_INFO }}
+        run: |
+          python - <<'PY'
+          import os
+          from lanzou_windfollowingheart.api import LanZouCloud
+
+          ylogin = os.environ.get("LANZOU_YLOGIN", "").strip()
+          phpdisk_info = os.environ.get("LANZOU_PHPDISK_INFO", "").strip()
+
+          if not ylogin:
+              raise SystemExit("LANZOU_YLOGIN is empty")
+          if not phpdisk_info:
+              raise SystemExit("LANZOU_PHPDISK_INFO is empty")
+
+          lzy = LanZouCloud()
+          result = lzy.login_by_cookie(ylogin, phpdisk_info)
+
+          print(f"login result: {result!r}")
+
+          if result is False or result is None:
+              raise SystemExit("LanZouCloud login failed")
+
+          print("LanZouCloud login succeeded")
+          PY
