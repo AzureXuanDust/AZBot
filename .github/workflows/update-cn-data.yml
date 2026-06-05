@@ -2,6 +2,12 @@ name: Update CN data
 
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: Force regeneration even when AzurLaneLuaScripts has not changed
+        required: false
+        type: boolean
+        default: false
   schedule:
     - cron: '0 */6 * * *'
 
@@ -26,14 +32,6 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Restore AzurLaneLuaScripts cache
-        uses: actions/cache@v4
-        with:
-          path: AzurLaneLuaScripts
-          key: azurlane-lua-scripts-cn-${{ github.run_id }}
-          restore-keys: |
-            azurlane-lua-scripts-cn-
-
       - name: Checkout AzurLaneLuaScripts
         uses: actions/checkout@v5
         with:
@@ -45,12 +43,37 @@ jobs:
             versions
           sparse-checkout-cone-mode: true
 
+      - name: Check upstream revision
+        id: upstream
+        run: |
+          current_commit="$(git -C "${GITHUB_WORKSPACE}/AzurLaneLuaScripts" rev-parse HEAD)"
+          previous_commit=""
+          if [ -f "${GITHUB_WORKSPACE}/generated/source.json" ]; then
+            previous_commit="$(sed -n 's/.*"commit": "\([^"]*\)".*/\1/p' "${GITHUB_WORKSPACE}/generated/source.json" | head -n 1)"
+          fi
+
+          echo "current_commit=${current_commit}" >> "${GITHUB_OUTPUT}"
+          echo "previous_commit=${previous_commit}" >> "${GITHUB_OUTPUT}"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            echo "should_generate=true" >> "${GITHUB_OUTPUT}"
+            echo "Force regeneration requested."
+          elif [ -n "${previous_commit}" ] && [ "${current_commit}" = "${previous_commit}" ]; then
+            echo "should_generate=false" >> "${GITHUB_OUTPUT}"
+            echo "AzurLaneLuaScripts unchanged: ${current_commit}"
+          else
+            echo "should_generate=true" >> "${GITHUB_OUTPUT}"
+            echo "AzurLaneLuaScripts changed: ${previous_commit:-<none>} -> ${current_commit}"
+          fi
+
       - name: Set up Node.js
+        if: steps.upstream.outputs.should_generate == 'true'
         uses: actions/setup-node@v5
         with:
           node-version: '24'
 
       - name: Generate CN data
+        if: steps.upstream.outputs.should_generate == 'true'
         run: |
           node "azurlua2json-node/cli.mjs" \
             --server CN \
@@ -60,11 +83,22 @@ jobs:
             --force \
             --compare
           rm -f "${GITHUB_WORKSPACE}/generated/change_report.txt"
+          cat > "${GITHUB_WORKSPACE}/generated/source.json" <<EOF
+          {
+            "AzurLaneLuaScripts": {
+              "repository": "AzurLaneTools/AzurLaneLuaScripts",
+              "server": "CN",
+              "commit": "${{ steps.upstream.outputs.current_commit }}"
+            }
+          }
+          EOF
 
       - name: Show changes
+        if: steps.upstream.outputs.should_generate == 'true'
         run: git status --short -- generated
 
       - name: Commit updated CN data
+        if: steps.upstream.outputs.should_generate == 'true'
         run: |
           if git diff --quiet -- generated && [ -z "$(git status --short -- generated)" ]; then
             echo "No generated data changes."
