@@ -12,6 +12,7 @@ on:
     - cron: '0 */6 * * *'
 
 permissions:
+  actions: write
   contents: write
 
 env:
@@ -110,3 +111,20 @@ jobs:
           git add -A generated
           git commit -m "Update generated CN data"
           git push
+
+      - name: Keep latest 5 workflow runs
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run list \
+            --repo "${GITHUB_REPOSITORY}" \
+            --workflow "update-cn-data.yml" \
+            --limit 100 \
+            --json databaseId,status,createdAt \
+            --jq 'sort_by(.createdAt) | reverse | .[5:][] | select(.status == "completed") | .databaseId' \
+            | while read -r run_id; do
+                if [ -n "${run_id}" ]; then
+                  gh run delete "${run_id}" --repo "${GITHUB_REPOSITORY}"
+                fi
+              done
