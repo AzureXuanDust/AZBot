@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 concurrency:
   group: update-cn-data
   cancel-in-progress: false
@@ -19,25 +22,33 @@ jobs:
 
     steps:
       - name: Checkout data repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+
+      - name: Restore AzurLaneLuaScripts cache
+        uses: actions/cache@v4
+        with:
+          path: AzurLaneLuaScripts
+          key: azurlane-lua-scripts-cn-${{ github.run_id }}
+          restore-keys: |
+            azurlane-lua-scripts-cn-
 
       - name: Checkout AzurLaneLuaScripts
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: AzurLaneTools/AzurLaneLuaScripts
           path: AzurLaneLuaScripts
           filter: blob:none
           sparse-checkout: |
             CN
-            versions/CN.txt
-          sparse-checkout-cone-mode: false
+            versions
+          sparse-checkout-cone-mode: true
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version: '24'
 
       - name: Generate CN data
         run: |
@@ -54,7 +65,7 @@ jobs:
           rsync -a --delete --exclude='change_report.txt' "out/generated/" "data/"
 
       - name: Show changes
-        run: git status --short
+        run: git status --short -- data
 
       - name: Commit updated CN data
         run: |
