@@ -99,10 +99,12 @@ jobs:
         run: git status --short -- generated
 
       - name: Commit updated CN data
+        id: commit_generated
         if: steps.upstream.outputs.should_generate == 'true'
         run: |
           if git diff --quiet -- generated && [ -z "$(git status --short -- generated)" ]; then
             echo "No generated data changes."
+            echo "has_changes=false" >> "${GITHUB_OUTPUT}"
             exit 0
           fi
 
@@ -111,6 +113,41 @@ jobs:
           git add -A generated
           git commit -m "Update generated CN data"
           git push
+          echo "has_changes=true" >> "${GITHUB_OUTPUT}"
+
+      - name: 生成版本号
+        id: version
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        run: |
+          if [ -n "${{ github.ref_name }}" ] && [[ "${{ github.ref_name }}" =~ ^v[0-9] ]]; then
+            VERSION="${{ github.ref_name }}"
+          else
+            DATE_VERSION=$(TZ=Asia/Shanghai date +%Y.%m.%d-%H.%M)
+            SHORT_SHA="${{ github.sha }}"
+            SHORT_SHA="${SHORT_SHA:0:7}"
+            VERSION="v${DATE_VERSION}-${SHORT_SHA}"
+          fi
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+          echo "版本号: ${VERSION}"
+
+      - name: Package release zip
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        run: |
+          rm -rf release
+          mkdir -p release/Resources
+          cp "generated/versions.json" "release/Resources/versions.json"
+          cp -R "generated/CN" "release/Resources/CN"
+          (cd release && zip -r "${VERSION}.zip" Resources)
+
+      - name: Publish release
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${VERSION}" \
+            "release/${VERSION}.zip#${VERSION}.zip" \
+            --title "${VERSION}" \
+            --notes "CN data generated from AzurLaneLuaScripts ${{ steps.upstream.outputs.current_commit }}"
 
       - name: Keep latest 5 workflow runs
         if: always()
