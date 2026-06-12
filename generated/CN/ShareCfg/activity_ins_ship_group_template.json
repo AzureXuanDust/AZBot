@@ -145,6 +145,15 @@
   },
   {
     "background": "",
+    "name": "Craven",
+    "nationality": 1,
+    "sculpture": "keleiwen",
+    "sculpture_ii": "",
+    "ship_group": 10106,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "McCall",
     "nationality": 1,
     "sculpture": "maikaoer",
@@ -1761,6 +1770,15 @@
     "sculpture": "safuke",
     "sculpture_ii": "",
     "ship_group": 20304,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Sussex",
+    "nationality": 2,
+    "sculpture": "susaikesi",
+    "sculpture_ii": "",
+    "ship_group": 20309,
     "type": 1
   },
   {

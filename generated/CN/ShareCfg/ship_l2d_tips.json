@@ -56,6 +56,111 @@
         ]
       }
     ],
+    "id": 105172,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchDrag4",
+          "TouchDrag5",
+          "TouchDrag6",
+          "TouchDrag7",
+          "TouchDrag8"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "anim_white_list": [
+      {
+        "drawable": [
+          "TouchDrag99"
+        ],
+        "white_list": [
+          "touch_drag1"
+        ]
+      }
+    ],
+    "id": 199031,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "anim_white_list": [
+      {
+        "drawable": [
+          "TouchDrag99"
+        ],
+        "white_list": [
+          "touch_drag1"
+        ]
+      }
+    ],
     "id": 201355,
     "idle_black_list": [
       {
@@ -610,6 +715,71 @@
         ]
       }
     ],
+    "id": 307075,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchDrag ",
+          "TouchDrag4",
+          "TouchDrag5",
+          "TouchIdle",
+          "TouchIdle1"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [
+          "TouchIdle"
+        ],
+        "offset": [
+          -22.6,
+          24.3
+        ]
+      },
+      {
+        "drawable": [
+          "TouchDrag2"
+        ],
+        "offset": [
+          32.6,
+          -35.1
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "anim_white_list": [
+      {
+        "drawable": [
+          "TouchDrag99"
+        ],
+        "white_list": [
+          "touch_drag1"
+        ]
+      }
+    ],
     "id": 307152,
     "idle_black_list": [
       {
@@ -740,6 +910,55 @@
           "TouchIdle40",
           "TouchIdle43"
         ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "anim_white_list": [
+      {
+        "drawable": [
+          "TouchDrag99"
+        ],
+        "white_list": [
+          "touch_drag1"
+        ]
+      }
+    ],
+    "id": 402101,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchDrag2"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [],
         "scale": [
           1,
           1,

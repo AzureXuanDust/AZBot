@@ -9598,6 +9598,28 @@
   },
   {
     "auto_unlock": [],
+    "group_id": [
+      10000
+    ],
+    "icon": "title_chara_lafeier",
+    "id": 623,
+    "link_event": 0,
+    "memories": [
+      5231,
+      5232,
+      5233,
+      5234,
+      5235,
+      5236,
+      5237
+    ],
+    "ship_group": 60508,
+    "subtype": 0,
+    "title": "心之所绘",
+    "type": 3
+  },
+  {
+    "auto_unlock": [],
     "group_id": [],
     "icon": "title_event",
     "id": 1000,

@@ -6176,6 +6176,212 @@
     "help_pictures": []
   },
   {
+    "chapter_id": 2100582,
+    "event_list": [
+      801,
+      802,
+      807
+    ],
+    "event_list_loop": [
+      801,
+      804
+    ],
+    "help_open": 1,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100583,
+    "event_list": [
+      801,
+      802,
+      809
+    ],
+    "event_list_loop": [
+      801,
+      804
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100584,
+    "event_list": [
+      801,
+      802,
+      810
+    ],
+    "event_list_loop": [
+      801,
+      805
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100585,
+    "event_list": [
+      801,
+      802,
+      811
+    ],
+    "event_list_loop": [
+      801,
+      805
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100586,
+    "event_list": [
+      801,
+      806
+    ],
+    "event_list_loop": [
+      801,
+      806
+    ],
+    "help_open": 0,
+    "help_pictures": []
+  },
+  {
+    "chapter_id": 2100587,
+    "event_list": [
+      801,
+      802,
+      808
+    ],
+    "event_list_loop": [],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100588,
+    "event_list": [
+      801,
+      802,
+      812
+    ],
+    "event_list_loop": [],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100592,
+    "event_list": [
+      801,
+      802,
+      807
+    ],
+    "event_list_loop": [
+      801,
+      804
+    ],
+    "help_open": 1,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100593,
+    "event_list": [
+      801,
+      802,
+      809
+    ],
+    "event_list_loop": [
+      801,
+      804
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100594,
+    "event_list": [
+      801,
+      802,
+      810
+    ],
+    "event_list_loop": [
+      801,
+      805
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100595,
+    "event_list": [
+      801,
+      802,
+      811
+    ],
+    "event_list_loop": [
+      801,
+      805
+    ],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100596,
+    "event_list": [
+      801,
+      806
+    ],
+    "event_list_loop": [
+      801,
+      806
+    ],
+    "help_open": 0,
+    "help_pictures": []
+  },
+  {
+    "chapter_id": 2100597,
+    "event_list": [
+      801,
+      802,
+      808
+    ],
+    "event_list_loop": [],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
+    "chapter_id": 2100598,
+    "event_list": [
+      801,
+      802,
+      812
+    ],
+    "event_list_loop": [],
+    "help_open": 0,
+    "help_pictures": [
+      "helpbg/battle_bisimaiz"
+    ]
+  },
+  {
     "chapter_id": 2200071,
     "event_list": [],
     "event_list_loop": [],

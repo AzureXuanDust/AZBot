@@ -158147,7 +158147,12 @@
     "quick_finish": 0,
     "ryza_icon": "",
     "ryza_type": 0,
-    "scene": [],
+    "scene": [
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
+    ],
     "story_icon": "",
     "story_icon_shift": [],
     "story_id": "",
@@ -158187,7 +158192,12 @@
     "quick_finish": 0,
     "ryza_icon": "",
     "ryza_type": 0,
-    "scene": [],
+    "scene": [
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
+    ],
     "story_icon": "",
     "story_icon_shift": [],
     "story_id": "",
@@ -158227,7 +158237,12 @@
     "quick_finish": 0,
     "ryza_icon": "",
     "ryza_type": 0,
-    "scene": [],
+    "scene": [
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
+    ],
     "story_icon": "",
     "story_icon_shift": [],
     "story_id": "",
@@ -158267,7 +158282,12 @@
     "quick_finish": 0,
     "ryza_icon": "",
     "ryza_type": 0,
-    "scene": [],
+    "scene": [
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
+    ],
     "story_icon": "",
     "story_icon_shift": [],
     "story_id": "",
@@ -158307,7 +158327,12 @@
     "quick_finish": 0,
     "ryza_icon": "",
     "ryza_type": 0,
-    "scene": [],
+    "scene": [
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
+    ],
     "story_icon": "",
     "story_icon_shift": [],
     "story_id": "",
@@ -158348,7 +158373,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -158392,10 +158420,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "ACTIVITY",
-      {
-        "id": 50617
-      }
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -158437,7 +158465,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -158949,7 +158980,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "LEVEL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -158991,7 +159025,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159035,7 +159072,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159079,7 +159119,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159123,7 +159166,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159167,7 +159213,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159211,7 +159260,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159255,7 +159307,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159299,7 +159354,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159343,7 +159401,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159387,7 +159448,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159431,7 +159495,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159482,7 +159549,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159531,7 +159601,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159580,7 +159653,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159629,7 +159705,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159678,7 +159757,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -159727,7 +159809,10 @@
     "ryza_icon": "",
     "ryza_type": 0,
     "scene": [
-      "MALL"
+      "ACTIVITY_MAP",
+      [
+        50327
+      ]
     ],
     "story_icon": "",
     "story_icon_shift": [],
@@ -366000,6 +366085,339 @@
     "story_id": "MEIKELUNBAO7",
     "sub_type": 1013,
     "target_id": "49910",
+    "target_id_2": [],
+    "target_num": 100,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500251,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "提交3个《鱼雷天妇罗》",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500251,
+    "is_head": 1,
+    "level": 1,
+    "name": "画不出的神韵",
+    "next_task": "500252",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [
+      "BACKYARD"
+    ],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER1",
+    "sub_type": 1000,
+    "target_id": "50003",
+    "target_id_2": [],
+    "target_num": 3,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500252,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "强化任意角色10次",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500252,
+    "is_head": 0,
+    "level": 1,
+    "name": "最不可或缺之物",
+    "next_task": "500253",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER2",
+    "sub_type": 34,
+    "target_id": "0",
+    "target_id_2": [],
+    "target_num": 10,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500253,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "拉斐尔上阵出击(关卡)胜利20次",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500253,
+    "is_head": 0,
+    "level": 1,
+    "name": "莫非是间接接吻？",
+    "next_task": "500254",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER3",
+    "sub_type": 18,
+    "target_id": "60508",
+    "target_id_2": [],
+    "target_num": 20,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500254,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "累计消耗石油500",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500254,
+    "is_head": 0,
+    "level": 1,
+    "name": "不同寻常的风景",
+    "next_task": "500255",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER4",
+    "sub_type": 121,
+    "target_id": "0",
+    "target_id_2": [],
+    "target_num": 500,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500255,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ],
+      [
+        1,
+        6,
+        5
+      ],
+      [
+        2,
+        18023,
+        1
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "拉斐尔好感度达到100",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500255,
+    "is_head": 0,
+    "level": 1,
+    "name": "寻找“咚”的旅程",
+    "next_task": "500256",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER5",
+    "sub_type": 1012,
+    "target_id": "60508",
+    "target_id_2": [],
+    "target_num": 10000,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500256,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ],
+      [
+        1,
+        6,
+        10
+      ],
+      [
+        2,
+        18023,
+        2
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "拉斐尔突破至满星",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500256,
+    "is_head": 0,
+    "level": 1,
+    "name": "寻找自然的姿态",
+    "next_task": "500257",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER6",
+    "sub_type": 33,
+    "target_id": "60508",
+    "target_id_2": [],
+    "target_num": 6,
+    "task_fold": 0,
+    "tutorial_handbook_pic": "",
+    "type": 5,
+    "visibility": 1
+  },
+  {
+    "activity_client_config": {},
+    "added_tip": 1,
+    "auto_commit": 0,
+    "award": 500257,
+    "award_choice": [],
+    "award_display": [
+      [
+        1,
+        1,
+        100
+      ],
+      [
+        1,
+        6,
+        10
+      ],
+      [
+        2,
+        16024,
+        1
+      ]
+    ],
+    "count_inherit": 0,
+    "desc": "拉斐尔等级达到100",
+    "fix_task": 0,
+    "guild_coin_award": 0,
+    "id": 500257,
+    "is_head": 0,
+    "level": 1,
+    "name": "只要尽情地抒发",
+    "next_task": "0",
+    "open_need": [],
+    "priority_type": 0,
+    "quick_finish": 0,
+    "ryza_icon": "",
+    "ryza_type": 0,
+    "scene": [],
+    "story_icon": "lafeier",
+    "story_icon_shift": [
+      0,
+      100
+    ],
+    "story_id": "LAFEIER7",
+    "sub_type": 1013,
+    "target_id": "60508",
     "target_id_2": [],
     "target_num": 100,
     "task_fold": 0,
