@@ -9798,6 +9798,90 @@
   },
   {
     "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2040013,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        40
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2040113,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        60
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2040213,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        80
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2041013,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        100
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2041113,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        120
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2041213,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        180
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2044013,
+    "pt_drop_display": [
+      [
+        50651,
+        726,
+        800
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
     "bonus_time": 1,
     "id": 3000013,
     "pt_drop_display": []

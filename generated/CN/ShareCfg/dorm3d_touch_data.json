@@ -1099,6 +1099,102 @@
         1013
       ]
     ],
+    "id": 7990210,
+    "ik_status": [
+      700110
+    ]
+  },
+  {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
+    "id": 7990220,
+    "ik_status": [
+      700210
+    ]
+  },
+  {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
+    "id": 7990230,
+    "ik_status": [
+      700310
+    ]
+  },
+  {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
+    "id": 7990240,
+    "ik_status": [
+      700410
+    ]
+  },
+  {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
     "id": 10100104,
     "ik_status": [
       100410

@@ -529,5 +529,131 @@
     "trigger_num": 12,
     "trigger_type": 101,
     "type": 2
+  },
+  {
+    "content": 79902101,
+    "id": 79902101,
+    "text": "纳希莫夫海军上将进入宿舍1天",
+    "trigger_id": 0,
+    "trigger_num": 1,
+    "trigger_type": 152,
+    "type": 1
+  },
+  {
+    "content": 79902102,
+    "id": 79902102,
+    "text": "纳希莫夫海军上将解锁宿舍2天",
+    "trigger_id": 0,
+    "trigger_num": 2,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 79902103,
+    "id": 79902103,
+    "text": "纳希莫夫海军上将解锁宿舍4天",
+    "trigger_id": 0,
+    "trigger_num": 4,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 79902104,
+    "id": 79902104,
+    "text": "收集物品解锁20个",
+    "trigger_id": 0,
+    "trigger_num": 20,
+    "trigger_type": 153,
+    "type": 1
+  },
+  {
+    "content": 79902105,
+    "id": 79902105,
+    "text": "累计互动3次",
+    "trigger_id": 0,
+    "trigger_num": 3,
+    "trigger_type": 156,
+    "type": 1
+  },
+  {
+    "content": 79902106,
+    "id": 79902106,
+    "text": "纳希莫夫海军上将累计赠礼5次",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 157,
+    "type": 1
+  },
+  {
+    "content": 79902107,
+    "id": 79902107,
+    "text": "纳希莫夫海军上将解锁宿舍7天",
+    "trigger_id": 0,
+    "trigger_num": 7,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 79902108,
+    "id": 79902108,
+    "text": "累计对话15次 ",
+    "trigger_id": 0,
+    "trigger_num": 15,
+    "trigger_type": 155,
+    "type": 1
+  },
+  {
+    "content": 79902109,
+    "id": 79902109,
+    "text": "累计互动5次 ",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 156,
+    "type": 1
+  },
+  {
+    "content": 79902110,
+    "id": 79902110,
+    "text": "纳希莫夫海军上将累计赠礼10次",
+    "trigger_id": 0,
+    "trigger_num": 10,
+    "trigger_type": 157,
+    "type": 1
+  },
+  {
+    "content": 79902201,
+    "id": 79902201,
+    "text": "纳希莫夫海军上将契合度5级",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 101,
+    "type": 3
+  },
+  {
+    "content": 79902202,
+    "id": 79902202,
+    "text": "纳希莫夫海军上将契合度10级",
+    "trigger_id": 0,
+    "trigger_num": 10,
+    "trigger_type": 101,
+    "type": 3
+  },
+  {
+    "content": 79902301,
+    "id": 79902301,
+    "text": "纳希莫夫海军上将进入宿舍1天",
+    "trigger_id": 0,
+    "trigger_num": 1,
+    "trigger_type": 152,
+    "type": 2
+  },
+  {
+    "content": 79902302,
+    "id": 79902302,
+    "text": "纳希莫夫海军上将契合度12级",
+    "trigger_id": 0,
+    "trigger_num": 12,
+    "trigger_type": 101,
+    "type": 2
   }
 ]

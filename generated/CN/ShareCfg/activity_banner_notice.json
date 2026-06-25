@@ -344,5 +344,14 @@
         "warp": "WARP_TO_DESIGN"
       }
     ]
+  },
+  {
+    "id": 42,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "DreamTourCoreActivityUI"
+      }
+    ]
   }
 ]

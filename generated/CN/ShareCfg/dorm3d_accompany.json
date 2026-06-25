@@ -286,5 +286,49 @@
       16,
       49905
     ]
+  },
+  {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 211,
+    "image": "naximofu_accompany_room",
+    "jump_trigger": [],
+    "name": "日常相伴",
+    "performance_time": 20,
+    "resource_room": 21,
+    "sceneInfo": "map_naximofu_01|Naximofu_DB/Naximofuhostel",
+    "ship_id": 79902,
+    "timeline": "Xiangban_personal_79902",
+    "unlock": []
+  },
+  {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 212,
+    "image": "carwash_accompany",
+    "jump_trigger": [],
+    "name": "休闲相伴",
+    "performance_time": 20,
+    "resource_room": 26,
+    "sceneInfo": "map_carwash_01|Carwash",
+    "ship_id": 79902,
+    "timeline": "Xiangban_carwash_79902",
+    "unlock": [
+      5,
+      21,
+      79902
+    ]
   }
 ]

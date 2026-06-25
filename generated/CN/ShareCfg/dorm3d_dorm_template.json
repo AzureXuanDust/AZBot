@@ -46,5 +46,13 @@
     "id": 49905,
     "name": "埃吉尔",
     "skin_model": 499051
+  },
+  {
+    "asset_name": "Naximofu_DB",
+    "bind_room": 21,
+    "default_appellation": "指挥官",
+    "id": 79902,
+    "name": "纳希莫夫海军上将",
+    "skin_model": 799021
   }
 ]

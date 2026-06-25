@@ -368,5 +368,65 @@
     ],
     "type_prioritys": [],
     "watch_camera": "tianlangxing"
+  },
+  {
+    "id": 21001,
+    "is_global": 0,
+    "name": "卧室",
+    "room_id": 21,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Bed"
+  },
+  {
+    "id": 21002,
+    "is_global": 0,
+    "name": "工房",
+    "room_id": 21,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Table"
+  },
+  {
+    "id": 21003,
+    "is_global": 0,
+    "name": "客厅",
+    "room_id": 21,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Chair"
+  },
+  {
+    "id": 26001,
+    "is_global": 0,
+    "name": "停车间",
+    "room_id": 26,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Parking"
+  },
+  {
+    "id": 26002,
+    "is_global": 0,
+    "name": "休息区",
+    "room_id": 26,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Relax"
+  },
+  {
+    "id": 26003,
+    "is_global": 0,
+    "name": "训练区",
+    "room_id": 26,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Train"
   }
 ]

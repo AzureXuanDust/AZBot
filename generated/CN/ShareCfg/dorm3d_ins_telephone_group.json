@@ -70,5 +70,29 @@
     "ship_group": 49905,
     "type": 1,
     "unlock_desc": "{namecode:480}契合度12级"
+  },
+  {
+    "background": "voice_placeholder",
+    "content": [
+      21,
+      210601
+    ],
+    "id": 79902301,
+    "name": "纳希莫夫海军上将视频通话",
+    "ship_group": 79902,
+    "type": 1,
+    "unlock_desc": "进入纳希莫夫海军上将宿舍"
+  },
+  {
+    "background": "voice_placeholder",
+    "content": [
+      21,
+      210602
+    ],
+    "id": 79902302,
+    "name": "纳希莫夫海军上将视频通话",
+    "ship_group": 79902,
+    "type": 1,
+    "unlock_desc": "纳希莫夫海军上将契合度12级"
   }
 ]

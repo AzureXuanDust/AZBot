@@ -46,5 +46,13 @@
     "sculpture": "aijier",
     "ship_group": 49905,
     "type": 1
+  },
+  {
+    "background": "",
+    "name": "Admiral_Nakhimov",
+    "nationality": 0,
+    "sculpture": "naximofu",
+    "ship_group": 79902,
+    "type": 1
   }
 ]

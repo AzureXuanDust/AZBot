@@ -481,6 +481,76 @@
       "type": 1
     }
   ],
+  "dormlvperformance2101": [
+    {
+      "params": [
+        210511
+      ],
+      "type": 1
+    }
+  ],
+  "dormlvperformance2102": [
+    {
+      "params": [
+        210521
+      ],
+      "type": 1
+    }
+  ],
+  "dormlvperformance2103": [
+    {
+      "params": [
+        210531
+      ],
+      "type": 1
+    }
+  ],
+  "dormlvperformance2104": [
+    {
+      "name": "load",
+      "params": {
+        "name": "FFliwu_79902_01",
+        "wait_timeline": false
+      },
+      "type": 9
+    },
+    {
+      "name": "other",
+      "params": {
+        "scene": "map_naximofu_01",
+        "sceneRoot": "Naximofu_DB/Naximofuhostel"
+      },
+      "type": 8
+    },
+    {
+      "name": "Role Camera",
+      "type": 7
+    },
+    {
+      "params": [
+        210542
+      ],
+      "type": 1
+    },
+    {
+      "params": [
+        210543
+      ],
+      "type": 1
+    },
+    {
+      "name": "base",
+      "type": 8
+    },
+    {
+      "name": "unload",
+      "params": {
+        "name": "FFliwu_79902_01",
+        "wait_timeline": false
+      },
+      "type": 9
+    }
+  ],
   "dormlvperformance301": [
     {
       "params": [

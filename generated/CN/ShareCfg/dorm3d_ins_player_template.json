@@ -196,5 +196,41 @@
     "npc_reply": [
       22
     ]
+  },
+  {
+    "id": 23,
+    "message": [
+      "naximofu_1_1"
+    ],
+    "npc_reply": [
+      23
+    ]
+  },
+  {
+    "id": 24,
+    "message": [
+      "naximofu_1_2"
+    ],
+    "npc_reply": [
+      24
+    ]
+  },
+  {
+    "id": 25,
+    "message": [
+      "naximofu_2_1"
+    ],
+    "npc_reply": [
+      25
+    ]
+  },
+  {
+    "id": 26,
+    "message": [
+      "naximofu_2_2"
+    ],
+    "npc_reply": [
+      26
+    ]
   }
 ]

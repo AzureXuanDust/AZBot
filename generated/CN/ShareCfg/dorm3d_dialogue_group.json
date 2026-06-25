@@ -15074,6 +15074,2025 @@
     ]
   },
   {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210001,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21001",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210002,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21002",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210003,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21003",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210004,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21004",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210005,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21005",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210006,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21006",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210007,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21007",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210008,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21008",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210009,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21009",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210010,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21010",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210011,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21011",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210012,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21012",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210013,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21013",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210014,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21014",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210015,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21015",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210016,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21016",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210017,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21017",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210018,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21018",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210019,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21019",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210020,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21020",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210021,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21021",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210022,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21022",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210023,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21023",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210024,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21024",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210025,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21025",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      6
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210026,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21026",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210027,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21027",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210028,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21028",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210029,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21029",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210030,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21030",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210031,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21031",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210032,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21032",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210033,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21033",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210034,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21034",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210035,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21035",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210036,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21036",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210037,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21037",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210038,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21038",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210039,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21039",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210040,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21040",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210041,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21041",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210042,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21042",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210043,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21043",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210044,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21044",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210045,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21045",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210046,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21046",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210047,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21047",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210048,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21048",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210049,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21049",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210050,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DDAILYCONVERSATION21050",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      11
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210051,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 26,
+    "story": "DORM3DDAILYCONVERSATION21051",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210052,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 26,
+    "story": "DORM3DDAILYCONVERSATION21052",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210053,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 26,
+    "story": "DORM3DDAILYCONVERSATION21053",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210054,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 26,
+    "story": "DORM3DDAILYCONVERSATION21054",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210055,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 26,
+    "story": "DORM3DDAILYCONVERSATION21055",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 200,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210101,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21001",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210102,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21002",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210103,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21003",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210104,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21004",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210105,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21005",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210106,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21006",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210107,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21007",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210108,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21008",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210109,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21009",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210110,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21010",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210111,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21011",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210112,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21012",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210113,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21013",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210114,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21014",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210115,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DHELLO21015",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 104,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210201,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21001",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210202,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21002",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210203,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21003",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210204,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21004",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210205,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21005",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210206,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21006",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210207,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21007",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210208,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21008",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210209,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21009",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210210,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21010",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210211,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21011",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210212,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21012",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210220,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21020",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210221,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21021",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210222,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21022",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210223,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21023",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210224,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21024",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210225,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21025",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210226,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21026",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210227,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21027",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210228,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DTOUCH21028",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210301,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DGIFTFEEDBACK2101",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 402,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210302,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DGIFTFEEDBACK2102",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 402,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210303,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DGIFTFEEDBACK2103",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 402,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210304,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DGIFTFEEDBACK2104",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 402,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 1,
+    "id": 210510,
+    "performance_type": 1,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DormLvPerformance2101",
+    "trigger_area": "",
+    "trigger_config": [
+      21
+    ],
+    "type": 700,
+    "unlock": [
+      1,
+      79902,
+      4
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210511,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3TIMELINE21001",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 600,
+    "unlock": [
+      1,
+      79902,
+      4
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 1,
+    "id": 210520,
+    "performance_type": 1,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DormLvPerformance2102",
+    "trigger_area": "",
+    "trigger_config": [
+      21
+    ],
+    "type": 700,
+    "unlock": [
+      1,
+      79902,
+      8
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210521,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3TIMELINE21002",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 600,
+    "unlock": [
+      1,
+      79902,
+      8
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 1,
+    "id": 210530,
+    "performance_type": 1,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DormLvPerformance2103",
+    "trigger_area": "",
+    "trigger_config": [
+      21
+    ],
+    "type": 700,
+    "unlock": [
+      1,
+      79902,
+      12
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210531,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3TIMELINE21003",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 600,
+    "unlock": [
+      1,
+      79902,
+      12
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 1,
+    "id": 210541,
+    "performance_type": 1,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DormLvPerformance2104",
+    "trigger_area": "",
+    "trigger_config": [
+      21
+    ],
+    "type": 700,
+    "unlock": [
+      3,
+      7990201
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210542,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DGIFTAVG21041",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 600,
+    "unlock": [
+      3,
+      7990201
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210543,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3TIMELINE21004",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 600,
+    "unlock": [
+      3,
+      7990201
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210601,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DVIDEO2101",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 800,
+    "unlock": [
+      1,
+      79902,
+      1
+    ]
+  },
+  {
+    "action_type": "stand",
+    "bgm": "",
+    "char_id": 79902,
+    "extend_loading": 0,
+    "id": 210602,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 21,
+    "story": "DORM3DVIDEO2102",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 800,
+    "unlock": [
+      1,
+      79902,
+      8
+    ]
+  },
+  {
     "action_type": "test",
     "bgm": "",
     "char_id": 20220,
