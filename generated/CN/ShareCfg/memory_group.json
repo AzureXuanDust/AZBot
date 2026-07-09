@@ -9642,6 +9642,28 @@
   },
   {
     "auto_unlock": [],
+    "group_id": [
+      10000
+    ],
+    "icon": "title_chara_pulimaosi",
+    "id": 624,
+    "link_event": 0,
+    "memories": [
+      5251,
+      5252,
+      5253,
+      5254,
+      5255,
+      5256,
+      5257
+    ],
+    "ship_group": 29905,
+    "subtype": 0,
+    "title": "为了绝对的笑容",
+    "type": 3
+  },
+  {
+    "auto_unlock": [],
     "group_id": [],
     "icon": "title_event",
     "id": 1000,

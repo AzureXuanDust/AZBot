@@ -966,5 +966,13 @@
     "id": 123,
     "task_id": 500251,
     "type": 2
+  },
+  {
+    "activity_id": 0,
+    "count": 1,
+    "group_id": 29905,
+    "id": 124,
+    "task_id": 500261,
+    "type": 2
   }
 ]

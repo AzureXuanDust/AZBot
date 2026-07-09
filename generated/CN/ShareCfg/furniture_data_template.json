@@ -11666,6 +11666,95 @@
   },
   {
     "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "长夜与穹光在此对峙，齿轮与羽翼共铸边界",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      [
+        "char1",
+        1
+      ],
+      [
+        "char2",
+        -1
+      ]
+    ],
+    "gain_by": "",
+    "icon": "shuangmianwutai2026icon",
+    "id": 340,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "长夜穹光舞台",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      6,
+      9
+    ],
+    "spine": [
+      [
+        "shuangmianwutai2026B",
+        "normal"
+      ],
+      [
+        "shuangmianwutai2026T"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "attack"
+          ]
+        ],
+        [],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": [],
+    "spine_combine_action_replace": [],
+    "spine_extra": [
+      [
+        [],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
+  {
+    "advice": 0,
     "belong": 0,
     "can_rotate": 0,
     "can_trigger": [

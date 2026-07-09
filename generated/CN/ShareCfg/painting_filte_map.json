@@ -2029,6 +2029,17 @@
     ]
   },
   {
+    "key": "baofengyu",
+    "res_list": [
+      "painting/baofengyu_tex",
+      "painting/baofengyu_rw_tex",
+      "painting/baofengyu_n_tex",
+      "painting/baofengyu_n_rw_tex",
+      "painting/baofengyu_n",
+      "painting/baofengyu"
+    ]
+  },
+  {
     "key": "baolei1",
     "res_list": [
       "painting/baolei1_tex",
@@ -4585,6 +4596,19 @@
     ]
   },
   {
+    "key": "dengken",
+    "res_list": [
+      "painting/dengken_tex",
+      "painting/dengken_rw_tex",
+      "painting/dengken_n_tex",
+      "painting/dengken_n_rw_tex",
+      "painting/dengken_n_bj_tex",
+      "painting/dengken_n",
+      "painting/dengken_bj_tex",
+      "painting/dengken"
+    ]
+  },
+  {
     "key": "devil",
     "res_list": [
       "painting/devil_tex",
@@ -6109,6 +6133,17 @@
       "painting/gangyishawa_2_n",
       "painting/gangyishawa_2_bj1_tex",
       "painting/gangyishawa_2"
+    ]
+  },
+  {
+    "key": "gaoliang",
+    "res_list": [
+      "painting/gaoliang_tex",
+      "painting/gaoliang_rw_tex",
+      "painting/gaoliang_n_tex",
+      "painting/gaoliang_n_rw_tex",
+      "painting/gaoliang_n",
+      "painting/gaoliang"
     ]
   },
   {
@@ -12375,6 +12410,24 @@
       "painting/makeboluo_3_n",
       "painting/makeboluo_3_bj_tex",
       "painting/makeboluo_3"
+    ]
+  },
+  {
+    "key": "makesi",
+    "res_list": [
+      "painting/makesi_tex",
+      "painting/makesi_rw_tex",
+      "painting/makesi_rw_hx_tex",
+      "painting/makesi_n_tex",
+      "painting/makesi_n_rw_tex",
+      "painting/makesi_n_rw_hx_tex",
+      "painting/makesi_n_hx_tex",
+      "painting/makesi_n_hx",
+      "painting/makesi_n",
+      "painting/makesi_hx_tex",
+      "painting/makesi_hx",
+      "painting/makesi_bj_tex",
+      "painting/makesi"
     ]
   },
   {
@@ -18846,6 +18899,18 @@
     "res_list": [
       "painting/vtuber_sora_wjz_tex",
       "painting/vtuber_sora_wjz"
+    ]
+  },
+  {
+    "key": "waerpalaisuo",
+    "res_list": [
+      "painting/waerpalaisuo_tex",
+      "painting/waerpalaisuo_rw_tex",
+      "painting/waerpalaisuo_n_tex",
+      "painting/waerpalaisuo_n_rw_tex",
+      "painting/waerpalaisuo_n",
+      "painting/waerpalaisuo_bj_tex",
+      "painting/waerpalaisuo"
     ]
   },
   {

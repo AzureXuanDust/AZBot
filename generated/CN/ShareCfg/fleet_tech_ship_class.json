@@ -1058,6 +1058,17 @@
     "t_level_1": 57
   },
   {
+    "id": 20403,
+    "name": "邓肯",
+    "nation": 2,
+    "ships": [
+      29906
+    ],
+    "shiptype": 4,
+    "t_level": 9,
+    "t_level_1": 65
+  },
+  {
     "id": 20501,
     "name": "伊丽莎白女王级",
     "nation": 2,
@@ -1575,6 +1586,17 @@
     "shiptype": 2,
     "t_level": 6,
     "t_level_1": 87
+  },
+  {
+    "id": 30208,
+    "name": "高梁",
+    "nation": 3,
+    "ships": [
+      39908
+    ],
+    "shiptype": 2,
+    "t_level": 9,
+    "t_level_1": 0
   },
   {
     "id": 30301,
@@ -2519,6 +2541,17 @@
     "t_level_1": 127
   },
   {
+    "id": 40704,
+    "name": "马克斯·殷麦曼",
+    "nation": 4,
+    "ships": [
+      49911
+    ],
+    "shiptype": 7,
+    "t_level": 10,
+    "t_level_1": 128
+  },
+  {
     "id": 40801,
     "name": "VIIB型",
     "nation": 4,
@@ -3383,6 +3416,17 @@
     "t_level_1": 131
   },
   {
+    "id": 80105,
+    "name": "暴风雨",
+    "nation": 8,
+    "ships": [
+      89905
+    ],
+    "shiptype": 1,
+    "t_level": 9,
+    "t_level_1": 135
+  },
+  {
     "id": 80201,
     "name": "埃米尔贝尔汀",
     "nation": 8,
@@ -3787,6 +3831,17 @@
     "shiptype": 3,
     "t_level": 10,
     "t_level_1": 1
+  },
+  {
+    "id": 120501,
+    "name": "瓦尔帕莱索",
+    "nation": 12,
+    "ships": [
+      129901
+    ],
+    "shiptype": 5,
+    "t_level": 9,
+    "t_level_1": 0
   },
   {
     "id": 960001,

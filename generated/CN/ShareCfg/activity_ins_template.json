@@ -26801,5 +26801,32 @@
     "time_persist": [],
     "title": "【港区新闻】美梦巡演马戏团正式开幕，人气高涨！",
     "type": 2
+  },
+  {
+    "group_id": 20009,
+    "id": 20009,
+    "is_active": 1,
+    "message_persist": "",
+    "name": "",
+    "npc_discuss_persist": [],
+    "oalist_pic_persist": "",
+    "picture_persist": "",
+    "sculpture": "",
+    "ship_group": 0,
+    "time": [
+      [
+        2026,
+        7,
+        9
+      ],
+      [
+        11,
+        0,
+        0
+      ]
+    ],
+    "time_persist": [],
+    "title": "【港区秘闻】这或许是一件好事？",
+    "type": 2
   }
 ]
