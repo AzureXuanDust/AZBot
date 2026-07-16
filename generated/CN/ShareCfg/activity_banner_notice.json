@@ -353,5 +353,14 @@
         "coreName": "DreamTourCoreActivityUI"
       }
     ]
+  },
+  {
+    "id": 43,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "NieRAutomataCoreActivityUI"
+      }
+    ]
   }
 ]

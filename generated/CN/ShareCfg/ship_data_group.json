@@ -32167,6 +32167,70 @@
     "type": 2
   },
   {
+    "code": 10171,
+    "description": [
+      [
+        "限时活动：自动步兵人形之旅",
+        [
+          {}
+        ],
+        0
+      ]
+    ],
+    "group_type": 1170001,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10171,
+    "nationality": 117,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
+  {
+    "code": 10172,
+    "description": [
+      [
+        "限时活动：自动步兵人形之旅",
+        [
+          {}
+        ],
+        0
+      ]
+    ],
+    "group_type": 1170002,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10172,
+    "nationality": 117,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  {
     "code": 10990,
     "description": [
       [

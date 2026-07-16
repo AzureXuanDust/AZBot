@@ -2,6 +2,9 @@
   {
     "2": {
       "this": true
+    },
+    "B": {
+      "this": true
     }
   },
   {

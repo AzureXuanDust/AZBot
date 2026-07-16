@@ -136,6 +136,22 @@
     "time_second": 0
   },
   {
+    "desc": "全息投影，定格竞拍一瞬！\n<color=#A7A7AAFF>通过参与「特别竞拍时刻」活动获取</color>",
+    "id": 611,
+    "name": "全息竞拍",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  {
+    "desc": "数据奔涌，胜负尽在此刻！\n<color=#A7A7AAFF>通过参与「特别竞拍时刻」活动获取</color>",
+    "id": 612,
+    "name": "S级数据流",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  {
     "desc": "<color=#ffffff>献给勇于挑战极限的指挥官！</color>\n<color=#A7A7AAFF>通过参与「限界挑战」获取 </color>",
     "id": 10001,
     "name": "限界的挑战者·双子座",

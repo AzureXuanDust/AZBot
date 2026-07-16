@@ -14788,6 +14788,139 @@
     "bgm": "",
     "char_id": 49905,
     "extend_loading": 0,
+    "id": 140232,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14032",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140233,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14033",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140234,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14034",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140235,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14035",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140236,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14036",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140237,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14037",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
+    "id": 140238,
+    "performance_type": 0,
+    "reward": 0,
+    "room_id": 14,
+    "story": "DORM3DTOUCH14038",
+    "trigger_area": "",
+    "trigger_config": [],
+    "type": 500,
+    "unlock": [
+      1,
+      49905,
+      1
+    ]
+  },
+  {
+    "action_type": "sit",
+    "bgm": "",
+    "char_id": 49905,
+    "extend_loading": 0,
     "id": 140301,
     "performance_type": 0,
     "reward": 0,

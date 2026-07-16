@@ -985,5 +985,28 @@
     ],
     "type": 3,
     "unlock": ""
+  },
+  {
+    "banners": [
+      "banner_furniture1463"
+    ],
+    "id": 46,
+    "item_id": 1463,
+    "name": "深红逸趣",
+    "order": "3",
+    "panel": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "rarity": 4,
+    "realroom_id": 0,
+    "room_id": 49905,
+    "shop_id": [
+      270603
+    ],
+    "type": 1,
+    "unlock": ""
   }
 ]

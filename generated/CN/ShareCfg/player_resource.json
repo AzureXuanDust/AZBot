@@ -3323,5 +3323,10 @@
     "id": 100004,
     "itemid": 0,
     "name": "skin_rerun_pt"
+  },
+  {
+    "id": 970002,
+    "itemid": 970002,
+    "name": "auction_pt_1"
   }
 ]

@@ -4951,11 +4951,38 @@
   },
   {
     "background": "",
+    "name": "Downes",
+    "nationality": 7,
+    "sculpture": "tangsi",
+    "sculpture_ii": "",
+    "ship_group": 70569,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Волга",
     "nationality": 0,
     "sculpture": "fuerjia",
     "sculpture_ii": "",
     "ship_group": 70701,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "A2",
+    "nationality": 7,
+    "sculpture": "A2",
+    "sculpture_ii": "",
+    "ship_group": 71379,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "2B",
+    "nationality": 7,
+    "sculpture": "2B",
+    "sculpture_ii": "",
+    "ship_group": 71380,
     "type": 1
   },
   {

@@ -6970,6 +6970,22 @@
   {
     "auto_unlock": [],
     "group_id": [],
+    "icon": "title_event",
+    "id": 370,
+    "link_event": 50841,
+    "memories": [
+      5261,
+      5262,
+      5263
+    ],
+    "ship_group": 0,
+    "subtype": 2,
+    "title": "自动步兵人形之旅",
+    "type": 2
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [],
     "icon": "title_chara_mingshi",
     "id": 501,
     "link_event": 0,
