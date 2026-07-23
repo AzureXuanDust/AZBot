@@ -362,5 +362,14 @@
         "coreName": "NieRAutomataCoreActivityUI"
       }
     ]
+  },
+  {
+    "id": 44,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "EscapeManorCoreActivityUI"
+      }
+    ]
   }
 ]

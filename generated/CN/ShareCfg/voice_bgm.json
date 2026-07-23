@@ -449,6 +449,11 @@
     "default_bgm": "story-richang-12",
     "special_bgm": []
   },
+  "BossRushEscapeManorScene": {
+    "bgm": "theme-hospitalnight-mystic",
+    "default_bgm": "theme-hospitalnight-mystic",
+    "special_bgm": ""
+  },
   "BossRushKurskScene": {
     "bgm": "bgm-cccp3",
     "default_bgm": "bgm-cccp3",
@@ -923,6 +928,21 @@
     "bgm": "theme-warmwinter-daily",
     "default_bgm": "theme-warmwinter-daily",
     "special_bgm": []
+  },
+  "EscapeManorCollectPage": {
+    "bgm": "story-hospitalnight-outshow",
+    "default_bgm": "story-hospitalnight-outshow",
+    "special_bgm": ""
+  },
+  "EscapeManorMainPage": {
+    "bgm": "story-hospitalnight-outshow",
+    "default_bgm": "story-hospitalnight-outshow",
+    "special_bgm": ""
+  },
+  "EscapeManorPtPage": {
+    "bgm": "story-hospitalnight-outshow",
+    "default_bgm": "story-hospitalnight-outshow",
+    "special_bgm": ""
   },
   "ExpeditionSkinPage": {
     "bgm": "theme-camelot",
@@ -1435,8 +1455,8 @@
     "special_bgm": ""
   },
   "LoginScene": {
-    "bgm": "nier-ruinscity-a-1",
-    "default_bgm": "nier-ruinscity-a-1",
+    "bgm": "login",
+    "default_bgm": "login",
     "special_bgm": []
   },
   "LoginSign1Page": {

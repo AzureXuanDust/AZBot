@@ -820,5 +820,44 @@
       "mediator": "MedalAlbumTemplateMediator",
       "scene": "DreamTourMedalAlbumView"
     }
+  },
+  {
+    "activity_link": [
+      [
+        1,
+        51078,
+        [
+          21988,
+          21989,
+          21990,
+          21991,
+          21992,
+          21993,
+          21994,
+          21995,
+          21996
+        ]
+      ]
+    ],
+    "entrance_picture": "medalAlbum/51078",
+    "group_name": "怪谈纪实：逃离白夜山庄！",
+    "id": 51078,
+    "is_out_of_print": 0,
+    "item_show": [
+      [],
+      [
+        8,
+        66052,
+        1
+      ]
+    ],
+    "task_show": [
+      -1,
+      21988
+    ],
+    "ui_prefab": {
+      "mediator": "MedalAlbumTemplateMediator",
+      "scene": "EscapeManorMedalAlbumView"
+    }
   }
 ]

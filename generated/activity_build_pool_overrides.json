@@ -1,1 +1,375 @@
-[]
+[
+  {
+    "activity_id": 51070,
+    "create_id": 4,
+    "ships": [
+      {
+        "ship_id": 202371,
+        "is_pickup": true,
+        "rate_tenth_percent": 20,
+        "source": "rate_tip"
+      },
+      {
+        "ship_id": 203141,
+        "is_pickup": true,
+        "rate_tenth_percent": 20,
+        "source": "rate_tip"
+      },
+      {
+        "ship_id": 103011,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 103031,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 103041,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 106011,
+        "is_pickup": false,
+        "source": "inferred_base_pool,inferred_pray_pool"
+      },
+      {
+        "ship_id": 106021,
+        "is_pickup": false,
+        "source": "inferred_base_pool,inferred_pray_pool"
+      },
+      {
+        "ship_id": 107011,
+        "is_pickup": false,
+        "source": "inferred_base_pool,inferred_pray_pool"
+      },
+      {
+        "ship_id": 107021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107031,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107041,
+        "is_pickup": false,
+        "source": "inferred_base_pool,inferred_pray_pool"
+      },
+      {
+        "ship_id": 107051,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107061,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107071,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107091,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107111,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107121,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107141,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107231,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107381,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 107991,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 108061,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 108071,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 112011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 203021,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 203031,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 203041,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 203051,
+        "is_pickup": false,
+        "source": "inferred_pray_pool"
+      },
+      {
+        "ship_id": 206011,
+        "is_pickup": false,
+        "source": "inferred_base_pool,inferred_pray_pool"
+      },
+      {
+        "ship_id": 206031,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 206041,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 206061,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 206071,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 206081,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207031,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207041,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207091,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 207121,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 306081,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 306091,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 307071,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 307091,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 307121,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308031,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308041,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308051,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 308061,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 317011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 319011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 406011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 406021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 407011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 407021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 407031,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408061,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408071,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408101,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 506011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 506021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 607011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 607021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 608021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 707011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 808011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 900462,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 907011,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 9600051,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      }
+    ]
+  }
+]

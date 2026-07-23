@@ -6986,6 +6986,45 @@
   {
     "auto_unlock": [],
     "group_id": [],
+    "icon": "title_event",
+    "id": 371,
+    "link_event": 51071,
+    "memories": [
+      5271,
+      5272,
+      5273,
+      5274,
+      5275,
+      5276,
+      5277,
+      5278,
+      5279,
+      5280,
+      5281,
+      5282
+    ],
+    "ship_group": 0,
+    "subtype": 2,
+    "title": "怪谈纪实：逃离白夜山庄！",
+    "type": 2
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [],
+    "icon": "title_event",
+    "id": 373,
+    "link_event": 970000,
+    "memories": [
+      5311
+    ],
+    "ship_group": 0,
+    "subtype": 3,
+    "title": "特别竞拍时刻",
+    "type": 2
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [],
     "icon": "title_chara_mingshi",
     "id": 501,
     "link_event": 0,

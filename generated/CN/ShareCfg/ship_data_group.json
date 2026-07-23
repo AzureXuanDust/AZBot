@@ -29447,6 +29447,102 @@
     "type": 1
   },
   {
+    "code": 746,
+    "description": [
+      [
+        "限时活动：怪谈纪实：逃离白夜山庄！",
+        [
+          {}
+        ],
+        0
+      ]
+    ],
+    "group_type": 20237,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 220,
+    "nationality": 2,
+    "property_hexagon": [
+      "B",
+      "A",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  {
+    "code": 747,
+    "description": [
+      [
+        "限时活动：怪谈纪实：逃离白夜山庄！",
+        [
+          {}
+        ],
+        0
+      ]
+    ],
+    "group_type": 20314,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 232,
+    "nationality": 2,
+    "property_hexagon": [
+      "A",
+      "C",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
+  {
+    "code": 748,
+    "description": [
+      [
+        "限时活动：怪谈纪实：逃离白夜山庄！",
+        [
+          {}
+        ],
+        0
+      ]
+    ],
+    "group_type": 20115,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 171,
+    "nationality": 2,
+    "property_hexagon": [
+      "D",
+      "B",
+      "E",
+      "A",
+      "D",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
+  },
+  {
     "code": 10001,
     "description": [
       [
