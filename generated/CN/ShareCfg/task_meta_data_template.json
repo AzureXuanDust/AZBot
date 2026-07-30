@@ -3000,6 +3000,46 @@
     "target_num": 1
   },
   {
+    "desc": "使用{namecode:567}获得1次胜利",
+    "id": 100581,
+    "sub_type": 180,
+    "target_id": "0",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "使用{namecode:567}击破等级＞30的敌方1次",
+    "id": 100582,
+    "sub_type": 180,
+    "target_id": "30",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "使用{namecode:567}击破等级＞55的敌方1次",
+    "id": 100583,
+    "sub_type": 180,
+    "target_id": "55",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "使用{namecode:567}击破等级＞80的敌方1次",
+    "id": 100584,
+    "sub_type": 180,
+    "target_id": "80",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "使用{namecode:567}击破等级＞100的敌方1次",
+    "id": 100585,
+    "sub_type": 180,
+    "target_id": "100",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
     "desc": "大型作战内使用猎人·META获得1次胜利",
     "id": 200001,
     "sub_type": 302,
@@ -4533,6 +4573,38 @@
     "sub_type": 302,
     "target_id": "100",
     "target_id_2": "970112",
+    "target_num": 1
+  },
+  {
+    "desc": "大型作战内使用{namecode:567}获得1次胜利",
+    "id": 200491,
+    "sub_type": 302,
+    "target_id": "0",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "大型作战内使用{namecode:567}击破等级＞70的敌方1次",
+    "id": 200492,
+    "sub_type": 302,
+    "target_id": "70",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "大型作战内使用{namecode:567}击破等级＞90的敌方1次",
+    "id": 200493,
+    "sub_type": 302,
+    "target_id": "90",
+    "target_id_2": "970213",
+    "target_num": 1
+  },
+  {
+    "desc": "大型作战内使用{namecode:567}击破等级＞100的敌方1次",
+    "id": 200494,
+    "sub_type": 302,
+    "target_id": "100",
+    "target_id_2": "970213",
     "target_num": 1
   }
 ]

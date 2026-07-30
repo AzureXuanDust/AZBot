@@ -35078,11 +35078,11 @@
     "code": 30027,
     "description": [
       [
-        "限时活动：世界巡游",
+        "META商店兑换",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9713011
+            "warp": "meta"
           }
         ],
         0
@@ -36306,5 +36306,40 @@
     "trans_skin": 0,
     "trans_type": 0,
     "type": 1
+  },
+  {
+    "code": 30063,
+    "description": [
+      [
+        "限时活动：世界巡游",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9702131
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970213,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30063,
+    "nationality": 97,
+    "property_hexagon": [
+      "C",
+      "B",
+      "E",
+      "B",
+      "C",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
   }
 ]

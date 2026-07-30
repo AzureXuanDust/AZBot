@@ -4297,6 +4297,17 @@
     "t_level_1": 22
   },
   {
+    "id": 970213,
+    "name": "纽伦堡·META",
+    "nation": 97,
+    "ships": [
+      970213
+    ],
+    "shiptype": 2,
+    "t_level": 3,
+    "t_level_1": 23
+  },
+  {
     "id": 970301,
     "name": "特伦托·META",
     "nation": 97,

@@ -45504,6 +45504,21 @@
   },
   {
     "activity": 0,
+    "commodity_id": 3220,
+    "commodity_id_list": [],
+    "commodity_id_list_show": 0,
+    "commodity_type": 3,
+    "id": 10101,
+    "limit_args": [],
+    "num": 1,
+    "num_limit": 1,
+    "order": 5,
+    "resource_category": 2,
+    "resource_num": 500,
+    "resource_type": 59900
+  },
+  {
+    "activity": 0,
     "commodity_id": 640,
     "commodity_id_list": [],
     "commodity_id_list_show": 0,
@@ -48157,6 +48172,77 @@
     "order": 4,
     "resource_category": 2,
     "resource_num": 80,
+    "resource_type": 21000
+  },
+  {
+    "activity": 7104,
+    "commodity_id": 9713011,
+    "commodity_id_list": [],
+    "commodity_id_list_show": 0,
+    "commodity_type": 4,
+    "id": 12049,
+    "limit_args": [
+      [
+        "uniqueship",
+        971301
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            8,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 1,
+    "order": 3,
+    "resource_category": 2,
+    "resource_num": 60,
+    "resource_type": 21000
+  },
+  {
+    "activity": 7104,
+    "commodity_id": 21027,
+    "commodity_id_list": [],
+    "commodity_id_list_show": 0,
+    "commodity_type": 2,
+    "id": 12050,
+    "limit_args": [
+      [
+        1,
+        971301,
+        1
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            8,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 4,
+    "order": 4,
+    "resource_category": 2,
+    "resource_num": 30,
     "resource_type": 21000
   }
 ]

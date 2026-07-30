@@ -1837,6 +1837,15 @@
   },
   {
     "background": "",
+    "name": "York",
+    "nationality": 2,
+    "sculpture": "yueke",
+    "sculpture_ii": "",
+    "ship_group": 20307,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Sussex",
     "nationality": 2,
     "sculpture": "susaikesi",
