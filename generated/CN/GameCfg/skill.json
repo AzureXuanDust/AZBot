@@ -98556,6 +98556,165 @@
     "picture": "0",
     "uiEffect": ""
   },
+  "skill_1090490": {
+    "1": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 1090492
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "castCV": "skill",
+    "cd": 0,
+    "desc": "",
+    "effect_list": [
+      {
+        "arg_list": {
+          "buff_id": 1090492
+        },
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": "TargetPlayerVanguardFleet",
+        "type": "BattleSkillAddBuff"
+      }
+    ],
+    "id": 1090490,
+    "name": "",
+    "painting": 1,
+    "picture": "0",
+    "uiEffect": ""
+  },
   "skill_1090491": {
     "aniEffect": {
       "effect": "jineng",
@@ -99334,6 +99493,165 @@
       }
     ],
     "id": 109050,
+    "name": "",
+    "painting": 1,
+    "picture": "0",
+    "uiEffect": ""
+  },
+  "skill_1090500": {
+    "1": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "arg_list": {
+            "buff_id": 4040
+          },
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": "TargetPlayerVanguardFleet",
+          "type": "BattleSkillAddBuff"
+        }
+      ]
+    },
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "castCV": "skill",
+    "cd": 0,
+    "desc": "",
+    "effect_list": [
+      {
+        "arg_list": {
+          "buff_id": 4040
+        },
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": "TargetPlayerVanguardFleet",
+        "type": "BattleSkillAddBuff"
+      }
+    ],
+    "id": 1090500,
     "name": "",
     "painting": 1,
     "picture": "0",
@@ -473474,6 +473792,142 @@
     ],
     "id": 201636,
     "name": "2025信标BOSS 约克城meta 瞬移回初始点",
+    "painting": 0
+  },
+  "skill_201638": {
+    "cd": 0,
+    "effect_list": [
+      {
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "buffList": [],
+            "corrdinate": [
+              -35,
+              0,
+              60
+            ],
+            "monsterTemplateID": 16856306,
+            "phase": [
+              {
+                "index": 0,
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "switchType": 1
+              },
+              {
+                "addWeapon": [
+                  2975009
+                ],
+                "index": 1,
+                "removeWeapon": [
+                  2975014
+                ],
+                "switchParam": 3.5,
+                "switchTo": 2,
+                "switchType": 1
+              },
+              {
+                "addWeapon": [
+                  2975014
+                ],
+                "index": 2,
+                "removeWeapon": [
+                  2975009
+                ],
+                "switchParam": 4,
+                "switchTo": 1,
+                "switchType": 1
+              }
+            ]
+          }
+        },
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon"
+      },
+      {
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "buffList": [],
+            "corrdinate": [
+              -35,
+              0,
+              40
+            ],
+            "monsterTemplateID": 16856306,
+            "phase": [
+              {
+                "index": 0,
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "switchType": 1
+              },
+              {
+                "addWeapon": [
+                  2975009
+                ],
+                "index": 1,
+                "removeWeapon": [
+                  2975014
+                ],
+                "switchParam": 3.5,
+                "switchTo": 2,
+                "switchType": 1
+              },
+              {
+                "addWeapon": [
+                  2975014
+                ],
+                "index": 2,
+                "removeWeapon": [
+                  2975009
+                ],
+                "switchParam": 4,
+                "switchTo": 1,
+                "switchType": 1
+              }
+            ]
+          }
+        },
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon"
+      },
+      {
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "buffList": [],
+            "corrdinate": [
+              -55,
+              0,
+              65
+            ],
+            "monsterTemplateID": 16856307
+          }
+        },
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon"
+      },
+      {
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "buffList": [],
+            "corrdinate": [
+              -55,
+              0,
+              35
+            ],
+            "monsterTemplateID": 16856307
+          }
+        },
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon"
+      }
+    ],
+    "id": 201638,
+    "name": "2026国际服周年 前哨剧情战 召唤物",
     "painting": 0
   },
   "skill_201640": {

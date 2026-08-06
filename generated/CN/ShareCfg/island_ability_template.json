@@ -531,6 +531,26 @@
   },
   {
     "cmd_icon": "IslandProps/gold",
+    "effect": 100,
+    "id": 609,
+    "show_pop": 0,
+    "show_pop_text": "",
+    "show_type": 1,
+    "type": 6,
+    "unlock_text": ""
+  },
+  {
+    "cmd_icon": "IslandProps/gold",
+    "effect": 100,
+    "id": 610,
+    "show_pop": 0,
+    "show_pop_text": "",
+    "show_type": 1,
+    "type": 6,
+    "unlock_text": ""
+  },
+  {
+    "cmd_icon": "IslandProps/gold",
     "effect": 101,
     "id": 2001,
     "show_pop": 1,
@@ -4143,6 +4163,26 @@
     "cmd_icon": "IslandProps/gold",
     "effect": 7100308,
     "id": 37100308,
+    "show_pop": 0,
+    "show_pop_text": "",
+    "show_type": 3,
+    "type": 3,
+    "unlock_text": ""
+  },
+  {
+    "cmd_icon": "IslandProps/gold",
+    "effect": 7100309,
+    "id": 37100309,
+    "show_pop": 0,
+    "show_pop_text": "",
+    "show_type": 3,
+    "type": 3,
+    "unlock_text": ""
+  },
+  {
+    "cmd_icon": "IslandProps/gold",
+    "effect": 7100310,
+    "id": 37100310,
     "show_pop": 0,
     "show_pop_text": "",
     "show_type": 3,

@@ -60,6 +60,18 @@
     "skin_group": 1070301
   },
   {
+    "color_icon": "color_1990301",
+    "cost": [
+      [
+        3,
+        1
+      ]
+    ],
+    "id": 1990302,
+    "model": 1990302,
+    "skin_group": 1990301
+  },
+  {
     "color_icon": "color_2012102",
     "cost": [
       [
@@ -70,6 +82,18 @@
     "id": 2012102,
     "model": 2012102,
     "skin_group": 2012101
+  },
+  {
+    "color_icon": "color_2021201",
+    "cost": [
+      [
+        3,
+        1
+      ]
+    ],
+    "id": 2021202,
+    "model": 2021202,
+    "skin_group": 2021201
   },
   {
     "color_icon": "color_2060302",
@@ -192,6 +216,18 @@
     "skin_group": 5010701
   },
   {
+    "color_icon": "color_5010801",
+    "cost": [
+      [
+        3,
+        1
+      ]
+    ],
+    "id": 5010802,
+    "model": 5010802,
+    "skin_group": 5010801
+  },
+  {
     "color_icon": "color_5020102",
     "cost": [
       [
@@ -214,5 +250,29 @@
     "id": 5060102,
     "model": 5060102,
     "skin_group": 5060101
+  },
+  {
+    "color_icon": "color_9010701",
+    "cost": [
+      [
+        3,
+        1
+      ]
+    ],
+    "id": 9010702,
+    "model": 9010702,
+    "skin_group": 9010701
+  },
+  {
+    "color_icon": "color_96000101",
+    "cost": [
+      [
+        3,
+        1
+      ]
+    ],
+    "id": 96000102,
+    "model": 96000102,
+    "skin_group": 96000101
   }
 ]

@@ -382,6 +382,83 @@
     "type": 40
   },
   {
+    "id": 50001022,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 8,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001023,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 24,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001024,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 48,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001025,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 96,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001026,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 120,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001027,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 160,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
+    "id": 50001028,
+    "jump_ui": "",
+    "name": "累计采集秋季特产",
+    "target_num": 240,
+    "target_param": [
+      990024
+    ],
+    "tips": "",
+    "type": 40
+  },
+  {
     "id": 50002001,
     "jump_ui": "",
     "name": "累计制作秋季特产",
@@ -760,6 +837,132 @@
     "type": 26
   },
   {
+    "id": 50002022,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 40,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002023,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 80,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002024,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 100,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002025,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 200,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002026,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 400,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002027,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 600,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
+    "id": 50002028,
+    "jump_ui": "",
+    "name": "累计制作秋季特产",
+    "target_num": 800,
+    "target_param": [
+      4005,
+      4007,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014
+    ],
+    "tips": "",
+    "type": 26
+  },
+  {
     "id": 50003001,
     "jump_ui": "",
     "name": "累计完成秋季特产订单",
@@ -887,6 +1090,50 @@
     "target_num": 15,
     "target_param": [
       990017
+    ],
+    "tips": "",
+    "type": 39
+  },
+  {
+    "id": 50003013,
+    "jump_ui": "",
+    "name": "累计完成秋季特产订单",
+    "target_num": 1,
+    "target_param": [
+      990023
+    ],
+    "tips": "",
+    "type": 39
+  },
+  {
+    "id": 50003014,
+    "jump_ui": "",
+    "name": "累计完成秋季特产订单",
+    "target_num": 5,
+    "target_param": [
+      990023
+    ],
+    "tips": "",
+    "type": 39
+  },
+  {
+    "id": 50003015,
+    "jump_ui": "",
+    "name": "累计完成秋季特产订单",
+    "target_num": 10,
+    "target_param": [
+      990023
+    ],
+    "tips": "",
+    "type": 39
+  },
+  {
+    "id": 50003016,
+    "jump_ui": "",
+    "name": "累计完成秋季特产订单",
+    "target_num": 15,
+    "target_param": [
+      990023
     ],
     "tips": "",
     "type": 39
@@ -2092,6 +2339,308 @@
   },
   {
     "id": 80013030,
+    "jump_ui": "",
+    "name": "交付300次岛屿订单",
+    "target_num": 300,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014001,
+    "jump_ui": "",
+    "name": "提交小麦*500",
+    "target_num": 500,
+    "target_param": [
+      2000
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014002,
+    "jump_ui": "",
+    "name": "提交牧草*500",
+    "target_num": 500,
+    "target_param": [
+      2008
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014003,
+    "jump_ui": "",
+    "name": "提交大豆*500",
+    "target_num": 500,
+    "target_param": [
+      2006
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014004,
+    "jump_ui": "",
+    "name": "提交大米*500",
+    "target_num": 500,
+    "target_param": [
+      2002
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014005,
+    "jump_ui": "",
+    "name": "提交玉米*500",
+    "target_num": 500,
+    "target_param": [
+      2001
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014006,
+    "jump_ui": "",
+    "name": "提交胡萝卜*250",
+    "target_num": 250,
+    "target_param": [
+      2004
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014007,
+    "jump_ui": "",
+    "name": "提交牛奶*250",
+    "target_num": 250,
+    "target_param": [
+      2603
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014008,
+    "jump_ui": "",
+    "name": "提交苹果汁*250",
+    "target_num": 250,
+    "target_param": [
+      3017
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014009,
+    "jump_ui": "",
+    "name": "提交冰咖啡*250",
+    "target_num": 250,
+    "target_param": [
+      3005
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014010,
+    "jump_ui": "",
+    "name": "提交炭烤肉串*250",
+    "target_num": 250,
+    "target_param": [
+      3029
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014011,
+    "jump_ui": "",
+    "name": "提交洋葱*100",
+    "target_num": 100,
+    "target_param": [
+      2007
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014012,
+    "jump_ui": "",
+    "name": "提交蔬菜沙拉*100",
+    "target_num": 100,
+    "target_param": [
+      3015
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014013,
+    "jump_ui": "",
+    "name": "提交胡萝卜厚蛋烧*100",
+    "target_num": 100,
+    "target_param": [
+      3033
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014014,
+    "jump_ui": "",
+    "name": "提交拿铁*100",
+    "target_num": 100,
+    "target_param": [
+      3007
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014015,
+    "jump_ui": "",
+    "name": "提交爆炒禽肉*100",
+    "target_num": 100,
+    "target_param": [
+      3032
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014016,
+    "jump_ui": "",
+    "name": "提交汉堡肉饭*50",
+    "target_num": 50,
+    "target_param": [
+      3034
+    ],
+    "tips": "",
+    "type": 4
+  },
+  {
+    "id": 80014017,
+    "jump_ui": "",
+    "name": "接收1次日常补给",
+    "target_num": 1,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014018,
+    "jump_ui": "",
+    "name": "接收5次日常补给",
+    "target_num": 5,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014019,
+    "jump_ui": "",
+    "name": "接收10次日常补给",
+    "target_num": 10,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014020,
+    "jump_ui": "",
+    "name": "接收20次日常补给",
+    "target_num": 20,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014021,
+    "jump_ui": "",
+    "name": "接收30次日常补给",
+    "target_num": 30,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014022,
+    "jump_ui": "",
+    "name": "接收45次日常补给",
+    "target_num": 45,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014023,
+    "jump_ui": "",
+    "name": "接收60次日常补给",
+    "target_num": 60,
+    "target_param": [],
+    "tips": "",
+    "type": 13
+  },
+  {
+    "id": 80014024,
+    "jump_ui": "",
+    "name": "交付10次岛屿订单",
+    "target_num": 10,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014025,
+    "jump_ui": "",
+    "name": "交付30次岛屿订单",
+    "target_num": 30,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014026,
+    "jump_ui": "",
+    "name": "交付50次岛屿订单",
+    "target_num": 50,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014027,
+    "jump_ui": "",
+    "name": "交付100次岛屿订单",
+    "target_num": 100,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014028,
+    "jump_ui": "",
+    "name": "交付150次岛屿订单",
+    "target_num": 150,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014029,
+    "jump_ui": "",
+    "name": "交付200次岛屿订单",
+    "target_num": 200,
+    "target_param": [],
+    "tips": "",
+    "type": 3
+  },
+  {
+    "id": 80014030,
     "jump_ui": "",
     "name": "交付300次岛屿订单",
     "target_num": 300,
@@ -4388,6 +4937,17 @@
     "type": 2
   },
   {
+    "id": 200180011,
+    "jump_ui": "",
+    "name": "累计销售额",
+    "target_num": 3000000,
+    "target_param": [
+      0
+    ],
+    "tips": "10060002",
+    "type": 29
+  },
+  {
     "id": 300000011,
     "jump_ui": "",
     "name": "采集任意矿物",
@@ -5208,6 +5768,17 @@
     "target_num": 1,
     "target_param": [
       5845
+    ],
+    "tips": "10020025",
+    "type": 1
+  },
+  {
+    "id": 500000041,
+    "jump_ui": "",
+    "name": "向佩芮了解情况",
+    "target_num": 1,
+    "target_param": [
+      5882
     ],
     "tips": "10020025",
     "type": 1

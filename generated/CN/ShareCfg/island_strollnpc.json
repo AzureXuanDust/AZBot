@@ -107,6 +107,19 @@
   {
     "action_feedback": 1,
     "behaviourTree": "",
+    "id": 19903,
+    "mapId": [
+      [
+        1002,
+        19
+      ]
+    ],
+    "unit_id": 1990300,
+    "unlock": -1
+  },
+  {
+    "action_feedback": 1,
+    "behaviourTree": "",
     "id": 20121,
     "mapId": [
       [
@@ -115,6 +128,19 @@
       ]
     ],
     "unit_id": 2012100,
+    "unlock": -1
+  },
+  {
+    "action_feedback": 1,
+    "behaviourTree": "",
+    "id": 20212,
+    "mapId": [
+      [
+        1001,
+        6
+      ]
+    ],
+    "unit_id": 2021200,
     "unlock": -1
   },
   {
@@ -289,6 +315,19 @@
   {
     "action_feedback": 1,
     "behaviourTree": "",
+    "id": 50108,
+    "mapId": [
+      [
+        1004,
+        6
+      ]
+    ],
+    "unit_id": 5010800,
+    "unlock": -1
+  },
+  {
+    "action_feedback": 1,
+    "behaviourTree": "",
     "id": 50201,
     "mapId": [
       [
@@ -362,6 +401,19 @@
       ]
     ],
     "unit_id": 7010400,
+    "unlock": -1
+  },
+  {
+    "action_feedback": 1,
+    "behaviourTree": "",
+    "id": 90107,
+    "mapId": [
+      [
+        1002,
+        20
+      ]
+    ],
+    "unit_id": 9010700,
     "unlock": -1
   },
   {
@@ -504,6 +556,19 @@
     "mapId": [],
     "unit_id": 300903,
     "unlock": 0
+  },
+  {
+    "action_feedback": 1,
+    "behaviourTree": "",
+    "id": 960001,
+    "mapId": [
+      [
+        1002,
+        21
+      ]
+    ],
+    "unit_id": 96000100,
+    "unlock": -1
   },
   {
     "action_feedback": 1,

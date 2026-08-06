@@ -459,6 +459,63 @@
     "arrive_action": [],
     "arrive_dialogue": "",
     "disappear": 0,
+    "group": 6,
+    "id": 10010025,
+    "mapId": 1001,
+    "position": [
+      108.54,
+      12.59,
+      107.57
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 6,
+    "id": 10010026,
+    "mapId": 1001,
+    "position": [
+      75.876,
+      12.564,
+      79.224
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 6,
+    "id": 10010027,
+    "mapId": 1001,
+    "position": [
+      106.53,
+      12.59,
+      78.74
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
     "group": 0,
     "id": 10020001,
     "mapId": 1002,
@@ -1466,6 +1523,177 @@
     "arrive_action": [],
     "arrive_dialogue": "",
     "disappear": 0,
+    "group": 19,
+    "id": 10020054,
+    "mapId": 1002,
+    "position": [
+      0.12,
+      0,
+      -3.72
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 19,
+    "id": 10020055,
+    "mapId": 1002,
+    "position": [
+      -47.89,
+      0,
+      1.67
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 19,
+    "id": 10020056,
+    "mapId": 1002,
+    "position": [
+      -1.14,
+      -1.758,
+      37.97
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 20,
+    "id": 10020057,
+    "mapId": 1002,
+    "position": [
+      5.34,
+      0,
+      0.48
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 20,
+    "id": 10020058,
+    "mapId": 1002,
+    "position": [
+      34.2,
+      -1.784,
+      9.26
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 20,
+    "id": 10020059,
+    "mapId": 1002,
+    "position": [
+      -63.63,
+      0,
+      3.92
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 21,
+    "id": 10020060,
+    "mapId": 1002,
+    "position": [
+      3.48,
+      -1.768,
+      14.89
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 21,
+    "id": 10020061,
+    "mapId": 1002,
+    "position": [
+      -0.76,
+      -1.755,
+      106.47
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 21,
+    "id": 10020062,
+    "mapId": 1002,
+    "position": [
+      -4.68,
+      -1.775,
+      34.06
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
     "group": 0,
     "id": 10040001,
     "mapId": 1004,
@@ -1872,6 +2100,63 @@
       67.09,
       2.55,
       84.37
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 6,
+    "id": 10040023,
+    "mapId": 1004,
+    "position": [
+      31.52,
+      2.595,
+      104.81
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 6,
+    "id": 10040024,
+    "mapId": 1004,
+    "position": [
+      65.9,
+      2.595,
+      119.8
+    ],
+    "process_action": [],
+    "process_dialogue": "",
+    "process_time": 0,
+    "rotation": 0,
+    "turn_to": 0,
+    "wait": 0
+  },
+  {
+    "arrive_action": [],
+    "arrive_dialogue": "",
+    "disappear": 0,
+    "group": 6,
+    "id": 10040025,
+    "mapId": 1004,
+    "position": [
+      85.9,
+      2.595,
+      77.2
     ],
     "process_action": [],
     "process_dialogue": "",
