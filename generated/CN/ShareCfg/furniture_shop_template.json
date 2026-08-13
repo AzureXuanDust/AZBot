@@ -55080,5 +55080,689 @@
         ]
       ]
     ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342001,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342002,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 20,
+    "gem_price": 60,
+    "id": 342101,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 40,
+    "gem_price": 120,
+    "id": 342102,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 80,
+    "gem_price": 240,
+    "id": 342103,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 80,
+    "gem_price": 240,
+    "id": 342104,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 40,
+    "gem_price": 120,
+    "id": 342105,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 80,
+    "gem_price": 240,
+    "id": 342106,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 20,
+    "gem_price": 60,
+    "id": 342107,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342108,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342109,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342110,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 150,
+    "gem_price": 450,
+    "id": 342111,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 40,
+    "gem_price": 120,
+    "id": 342112,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 40,
+    "gem_price": 120,
+    "id": 342113,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 80,
+    "gem_price": 240,
+    "id": 342114,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 20,
+    "gem_price": 60,
+    "id": 342115,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 40,
+    "gem_price": 120,
+    "id": 342116,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  {
+    "collaboration_furniture_time": "",
+    "discount": 0,
+    "discount_time": [],
+    "dorm_icon_price": 0,
+    "gem_price": 150,
+    "id": 342117,
+    "new": 1,
+    "not_for_sale": 0,
+    "time": [
+      [
+        [
+          2026,
+          8,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          26
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
   }
 ]

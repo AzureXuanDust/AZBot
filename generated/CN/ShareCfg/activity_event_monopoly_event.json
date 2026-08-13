@@ -1233,5 +1233,254 @@
     "effect": [],
     "id": 663,
     "story": "SAICHEDAFUWENGEVENTV2-XIAFEI4"
+  },
+  {
+    "drop": 910553,
+    "effect": [],
+    "id": 701,
+    "story": "SAICHEDAFUWENGEVENTV2-1-1"
+  },
+  {
+    "drop": 910554,
+    "effect": [],
+    "id": 702,
+    "story": "SAICHEDAFUWENGEVENTV2-1-2"
+  },
+  {
+    "drop": 910555,
+    "effect": [],
+    "id": 703,
+    "story": "SAICHEDAFUWENGEVENTV2-1-3"
+  },
+  {
+    "drop": 910557,
+    "effect": [],
+    "id": 704,
+    "story": "SAICHEDAFUWENGEVENTV2-2-1"
+  },
+  {
+    "drop": 910558,
+    "effect": [],
+    "id": 705,
+    "story": "SAICHEDAFUWENGEVENTV2-2-2"
+  },
+  {
+    "drop": 910559,
+    "effect": [],
+    "id": 706,
+    "story": "SAICHEDAFUWENGEVENTV2-2-3"
+  },
+  {
+    "drop": 910560,
+    "effect": [],
+    "id": 707,
+    "story": "SAICHEDAFUWENGEVENTV2-3-1"
+  },
+  {
+    "drop": 910561,
+    "effect": [],
+    "id": 708,
+    "story": "SAICHEDAFUWENGEVENTV2-3-2"
+  },
+  {
+    "drop": 910562,
+    "effect": [],
+    "id": 709,
+    "story": "SAICHEDAFUWENGEVENTV2-3-3"
+  },
+  {
+    "drop": 910566,
+    "effect": [],
+    "id": 710,
+    "story": "SAICHEDAFUWENGEVENTV2-4-1"
+  },
+  {
+    "drop": 910567,
+    "effect": [],
+    "id": 711,
+    "story": "SAICHEDAFUWENGEVENTV2-4-2"
+  },
+  {
+    "drop": 910568,
+    "effect": [],
+    "id": 712,
+    "story": "SAICHEDAFUWENGEVENTV2-4-3"
+  },
+  {
+    "drop": 910569,
+    "effect": [],
+    "id": 713,
+    "story": "SAICHEDAFUWENGEVENTV2-5-1"
+  },
+  {
+    "drop": 910570,
+    "effect": [],
+    "id": 714,
+    "story": "SAICHEDAFUWENGEVENTV2-5-2"
+  },
+  {
+    "drop": 910571,
+    "effect": [],
+    "id": 715,
+    "story": "SAICHEDAFUWENGEVENTV2-5-3"
+  },
+  {
+    "drop": 910572,
+    "effect": [],
+    "id": 716,
+    "story": "SAICHEDAFUWENGEVENTV2-6-1"
+  },
+  {
+    "drop": 910573,
+    "effect": [],
+    "id": 717,
+    "story": "SAICHEDAFUWENGEVENTV2-6-2"
+  },
+  {
+    "drop": 910574,
+    "effect": [],
+    "id": 718,
+    "story": "SAICHEDAFUWENGEVENTV2-6-3"
+  },
+  {
+    "drop": 910575,
+    "effect": [],
+    "id": 719,
+    "story": "SAICHEDAFUWENGEVENTV2-6-4"
+  },
+  {
+    "drop": 910563,
+    "effect": [],
+    "id": 720,
+    "story": "SAICHEDAFUWENGEVENTV2-7-1"
+  },
+  {
+    "drop": 910564,
+    "effect": [],
+    "id": 721,
+    "story": "SAICHEDAFUWENGEVENTV2-7-2"
+  },
+  {
+    "drop": 910565,
+    "effect": [],
+    "id": 722,
+    "story": "SAICHEDAFUWENGEVENTV2-7-3"
+  },
+  {
+    "drop": 0,
+    "effect": [
+      "go_forward",
+      1
+    ],
+    "id": 723,
+    "story": "SAICHEDAFUWENGEVENTV2-8-1"
+  },
+  {
+    "drop": 0,
+    "effect": [
+      "go_forward",
+      2
+    ],
+    "id": 724,
+    "story": "SAICHEDAFUWENGEVENTV2-8-2"
+  },
+  {
+    "drop": 0,
+    "effect": [
+      "go_forward",
+      3
+    ],
+    "id": 725,
+    "story": "SAICHEDAFUWENGEVENTV2-8-3"
+  },
+  {
+    "drop": 910552,
+    "effect": [],
+    "id": 726,
+    "story": "0"
+  },
+  {
+    "drop": 910551,
+    "effect": [],
+    "id": 727,
+    "story": "0"
+  },
+  {
+    "drop": 910584,
+    "effect": [],
+    "id": 728,
+    "story": "0"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 729,
+    "story": "SAICHEDAFUWENGEVENTV2-benningdun1"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 730,
+    "story": "SAICHEDAFUWENGEVENTV2-benningdun2"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 731,
+    "story": "SAICHEDAFUWENGEVENTV2-benningdun3"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 732,
+    "story": "SAICHEDAFUWENGEVENTV2-bunao1"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 733,
+    "story": "SAICHEDAFUWENGEVENTV2-bunao2"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 734,
+    "story": "SAICHEDAFUWENGEVENTV2-bunao3"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 735,
+    "story": "SAICHEDAFUWENGEVENTV2-wuzang1"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 736,
+    "story": "SAICHEDAFUWENGEVENTV2-wuzang2"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 737,
+    "story": "SAICHEDAFUWENGEVENTV2-wuzang3"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 738,
+    "story": "SAICHEDAFUWENGEVENTV2-benningdun4"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 739,
+    "story": "SAICHEDAFUWENGEVENTV2-bunao4"
+  },
+  {
+    "drop": 0,
+    "effect": [],
+    "id": 740,
+    "story": "SAICHEDAFUWENGEVENTV2-wuzang4"
   }
 ]

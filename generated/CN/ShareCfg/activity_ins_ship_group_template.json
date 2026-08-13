@@ -117,6 +117,15 @@
     "type": 2
   },
   {
+    "background": "200",
+    "name": "速达商店交流1群",
+    "nationality": 12,
+    "sculpture": "203",
+    "sculpture_ii": "",
+    "ship_group": 203,
+    "type": 2
+  },
+  {
     "background": "",
     "name": "Dewey",
     "nationality": 0,
@@ -496,6 +505,33 @@
   },
   {
     "background": "",
+    "name": "Collett",
+    "nationality": 1,
+    "sculpture": "kelaite",
+    "sculpture_ii": "",
+    "ship_group": 10156,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Harrison",
+    "nationality": 1,
+    "sculpture": "halisen",
+    "sculpture_ii": "",
+    "ship_group": 10157,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "John Rodgers",
+    "nationality": 1,
+    "sculpture": "yuehanluojiesi",
+    "sculpture_ii": "",
+    "ship_group": 10158,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Omaha",
     "nationality": 0,
     "sculpture": "aomaha",
@@ -744,6 +780,15 @@
     "sculpture": "pasadina",
     "sculpture_ii": "",
     "ship_group": 10235,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Vicksburg",
+    "nationality": 1,
+    "sculpture": "weikesibao",
+    "sculpture_ii": "",
+    "ship_group": 10236,
     "type": 1
   },
   {
@@ -1149,6 +1194,15 @@
     "sculpture": "liekexingdunII",
     "sculpture_ii": "",
     "ship_group": 10716,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Bennington",
+    "nationality": 1,
+    "sculpture": "benningdun",
+    "sculpture_ii": "",
+    "ship_group": 10720,
     "type": 1
   },
   {
@@ -2517,6 +2571,15 @@
     "sculpture": "xiaoyue_3",
     "sculpture_ii": "",
     "ship_group": 30158,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Urakaze",
+    "nationality": 3,
+    "sculpture": "pufeng",
+    "sculpture_ii": "",
+    "ship_group": 30159,
     "type": 1
   },
   {

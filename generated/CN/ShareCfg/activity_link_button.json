@@ -45,7 +45,7 @@
     "text_pic": "text_event_map",
     "time": [
       "default",
-      51071
+      51101
     ],
     "type": 0
   },
@@ -347,14 +347,14 @@
     "text_pic": "text_event_core",
     "time": [
       "default",
-      51086
+      51101
     ],
     "type": 16
   },
   {
     "group_id": 2,
     "id": 110,
-    "name": "event_minigame",
+    "name": "event_core_2",
     "order": 2,
     "param": "RapidSeasideCoreActivityUI",
     "pic": "event_core3",

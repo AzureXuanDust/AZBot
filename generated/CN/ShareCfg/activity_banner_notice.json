@@ -373,6 +373,15 @@
     ]
   },
   {
+    "id": 45,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "StarsCityCoreActivityUI"
+      }
+    ]
+  },
+  {
     "id": 46,
     "param": [
       "scene core activity",
