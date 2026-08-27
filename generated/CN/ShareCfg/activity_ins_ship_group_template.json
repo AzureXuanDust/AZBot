@@ -2404,6 +2404,15 @@
   },
   {
     "background": "",
+    "name": "Amatsukaze",
+    "nationality": 3,
+    "sculpture": "tianjinfeng",
+    "sculpture_ii": "",
+    "ship_group": 30119,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Hatsuharu",
     "nationality": 0,
     "sculpture": "chuchun",

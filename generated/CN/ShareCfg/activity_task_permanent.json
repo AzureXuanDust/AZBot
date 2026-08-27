@@ -609,5 +609,17 @@
     "over_pt": 0,
     "over_task_id": "",
     "task_extra": ""
+  },
+  {
+    "activity_group": 2000,
+    "activity_name": "",
+    "banner_route": "",
+    "eliminate_task_id": [],
+    "gametip": "",
+    "gametip_extra": "",
+    "id": 50522,
+    "over_pt": 0,
+    "over_task_id": "",
+    "task_extra": ""
   }
 ]

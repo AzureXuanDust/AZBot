@@ -7142,6 +7142,24 @@
   {
     "auto_unlock": [],
     "group_id": [],
+    "icon": "title_event",
+    "id": 376,
+    "link_event": 51123,
+    "memories": [
+      5411,
+      5412,
+      5413,
+      5414,
+      5415
+    ],
+    "ship_group": 0,
+    "subtype": 2,
+    "title": "“大人物”的预告信",
+    "type": 2
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [],
     "icon": "title_chara_mingshi",
     "id": 501,
     "link_event": 0,

@@ -47783,33 +47783,7 @@
     "mark": 20260212,
     "page_core": "ActivityBossZhangwuUI",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          2,
-          12
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          3,
-          4
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 52
   },
@@ -50559,6 +50533,27 @@
     "is_show": 0,
     "login_pop": 0,
     "mark": 20260709,
+    "page_core": "",
+    "page_info": {},
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 93
+  },
+  {
+    "config_client": {
+      "mediator": "BossRushAlvitMediator",
+      "scene": "BossRushAlvitReScene"
+    },
+    "config_data": [
+      1002001,
+      1002002,
+      1002003
+    ],
+    "config_id": 0,
+    "id": 50522,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
     "page_core": "",
     "page_info": {},
     "time": "stop",
@@ -56961,33 +56956,7 @@
       "class_name": "StarsCityMainPage",
       "ui_name": "StarsCityMainPage"
     },
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "StarsCityCoreActivityUI_subtitle_4",
     "type": 12
   },
@@ -57014,33 +56983,7 @@
     "mark": 20260813,
     "page_core": "",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 12
   },
@@ -57054,33 +56997,7 @@
     "mark": 20260813,
     "page_core": "",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 1
   },
@@ -57196,33 +57113,7 @@
     "mark": 20260813,
     "page_core": "",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          9,
-          3
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 13
   },
@@ -57328,33 +57219,7 @@
     "mark": 20260813,
     "page_core": "",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          26
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 27
   },
@@ -57479,33 +57344,7 @@
       "class_name": "RapidSeasideMonopolyPage",
       "ui_name": "RapidSeasideMonopolyPage"
     },
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "RapidSeasideCoreActivityUI_subtitle_2",
     "type": 51
   },
@@ -57521,33 +57360,7 @@
     "mark": 20260813,
     "page_core": "",
     "page_info": {},
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 13
   },
@@ -57627,33 +57440,7 @@
       "class_name": "RapidSeasideGamePage",
       "ui_name": "RapidSeasideGamePage"
     },
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          8,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          27
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "RapidSeasideCoreActivityUI_subtitle_3",
     "type": 57
   },
@@ -57703,13 +57490,34 @@
       ],
       "ui_name": "StarsCityCollectPage"
     },
+    "time": "stop",
+    "title_res_tag": "StarsCityCoreActivityUI_subtitle_6",
+    "type": 103
+  },
+  {
+    "config_client": "",
+    "config_data": [
+      27411,
+      27412,
+      27413,
+      27414,
+      27415,
+      27416
+    ],
+    "config_id": 0,
+    "id": 51121,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
+    "page_core": "",
+    "page_info": {},
     "time": [
       "timer",
       [
         [
           2026,
           8,
-          13
+          27
         ],
         [
           0,
@@ -57720,8 +57528,8 @@
       [
         [
           2026,
-          8,
-          27
+          9,
+          8
         ],
         [
           12,
@@ -57730,8 +57538,205 @@
         ]
       ]
     ],
-    "title_res_tag": "StarsCityCoreActivityUI_subtitle_6",
-    "type": 103
+    "title_res_tag": "",
+    "type": 13
+  },
+  {
+    "config_client": {
+      "bg": "loadingbg/bg_build_2_act",
+      "buildship_tip": "{namecode:23} 建造概率UP！",
+      "id": 2,
+      "rate_tip": [
+        "<color=#ffde38>超稀有舰船</color>：7%",
+        "<color=#d797ff>精锐舰船</color>：12%",
+        "<color=#3dc6ff>稀有舰船</color>：26%",
+        "普通舰船：55%",
+        "<color=#ffde38>{namecode:23}</color>：2.0%<color=#92FC63>(up!)</color>"
+      ]
+    },
+    "config_data": "activity_drop_51122",
+    "config_id": 0,
+    "id": 51122,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
+    "page_core": "",
+    "page_info": {},
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 26
+  },
+  {
+    "config_client": {
+      "buff_scene": "ActivityBossAmatsukazeBuffSelectLayer",
+      "entrance_bg": "activitybanner/temp10",
+      "scene": "ActivityBossAmatsukazeScene",
+      "story": [
+        [
+          10000,
+          "DARENWUDEYUGAOXIN1"
+        ],
+        [
+          7500,
+          "DARENWUDEYUGAOXIN2"
+        ],
+        [
+          5000,
+          "DARENWUDEYUGAOXIN3"
+        ],
+        [
+          2500,
+          "DARENWUDEYUGAOXIN4"
+        ],
+        [
+          0,
+          "DARENWUDEYUGAOXIN5"
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 15,
+    "id": 51123,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
+    "page_core": "ActivityBossAmatsukazeUI",
+    "page_info": {},
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 52
+  },
+  {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 51124,
+    "id": 51124,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
+    "page_core": "",
+    "page_info": {},
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          16
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 74
+  },
+  {
+    "config_client": "",
+    "config_data": "100",
+    "config_id": 2026,
+    "id": 51160,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260827,
+    "page_core": "",
+    "page_info": {},
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          16
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 46
   },
   {
     "config_client": "",

@@ -130,6 +130,21 @@
     "room_id": 14
   },
   {
+    "id": 2027,
+    "item_name": "FurnitureSlots/1140104/pre_db_aijier_special01(Clone)/XYZ/pre_db_aje_tub01",
+    "room_id": 14
+  },
+  {
+    "id": 2028,
+    "item_name": "FurnitureSlots/1140104/pre_db_aijier_special01(Clone)/XYZ/pre_db_aje_tub01/all/01",
+    "room_id": 14
+  },
+  {
+    "id": 2029,
+    "item_name": "FurnitureSlots/1140104/pre_db_aijier_special01(Clone)/XYZ/pre_db_aje_tub01/all/02",
+    "room_id": 14
+  },
+  {
     "id": 3001,
     "item_name": "no_bake_pay_prop/bedroom/pre_db_naximofu_bed01_0/pre_db_nxmf_bed01_00",
     "room_id": 21

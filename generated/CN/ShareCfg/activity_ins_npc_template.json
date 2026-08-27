@@ -117749,6 +117749,83 @@
     "time_persist": []
   },
   {
+    "id": 7429,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30160,
+    "time_persist": []
+  },
+  {
+    "id": 7430,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30159,
+    "time_persist": []
+  },
+  {
+    "id": 7431,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30119,
+    "time_persist": []
+  },
+  {
+    "id": 7432,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30159,
+    "time_persist": []
+  },
+  {
+    "id": 7433,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 69901,
+    "time_persist": []
+  },
+  {
+    "id": 7434,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 60202,
+    "time_persist": []
+  },
+  {
+    "id": 7435,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30119,
+    "time_persist": []
+  },
+  {
+    "id": 7436,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 40603,
+    "time_persist": []
+  },
+  {
+    "id": 7437,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 40211,
+    "time_persist": []
+  },
+  {
+    "id": 7439,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30119,
+    "time_persist": []
+  },
+  {
+    "id": 7441,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30119,
+    "time_persist": []
+  },
+  {
     "id": 100001,
     "message_persist": "ins_discuss_20001_1",
     "npc_reply_persist": [

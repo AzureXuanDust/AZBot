@@ -132522,6 +132522,54 @@
     ],
     "canputon": 0,
     "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "飘飘忽忽，生人勿近~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "pupuguihuoicon",
+    "id": 100089,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "幽幽祟祟",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "pupuguihuo",
+        "normal",
+        [
+          "action",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": [],
+    "spine_combine_action_replace": [],
+    "spine_extra": [],
+    "tag": 6,
+    "themeId": 0,
+    "type": 11
+  },
+  {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,

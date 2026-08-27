@@ -389,5 +389,11 @@
         "coreName": "RapidSeasideCoreActivityUI"
       }
     ]
+  },
+  {
+    "id": 49,
+    "param": [
+      "act boss battle"
+    ]
   }
 ]

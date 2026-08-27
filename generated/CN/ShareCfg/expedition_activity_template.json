@@ -10128,6 +10128,36 @@
   },
   {
     "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2059001,
+    "pt_drop_display": []
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2059002,
+    "pt_drop_display": []
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2059003,
+    "pt_drop_display": []
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2059004,
+    "pt_drop_display": []
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2059005,
+    "pt_drop_display": []
+  },
+  {
+    "bonus_rate": 0,
     "bonus_time": 1,
     "id": 3000013,
     "pt_drop_display": []
