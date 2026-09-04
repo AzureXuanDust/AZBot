@@ -4699,6 +4699,17 @@
     "t_level_1": 1
   },
   {
+    "id": 970710,
+    "name": "萨拉托加·META",
+    "nation": 97,
+    "ships": [
+      970710
+    ],
+    "shiptype": 7,
+    "t_level": 1,
+    "t_level_1": 1
+  },
+  {
     "id": 970801,
     "name": "U-556·META",
     "nation": 97,

@@ -178,5 +178,10 @@
     "char_choice": 39907,
     "id": 36,
     "obtain_max": 30
+  },
+  {
+    "char_choice": 69902,
+    "id": 37,
+    "obtain_max": 30
   }
 ]

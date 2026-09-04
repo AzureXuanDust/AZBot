@@ -265097,6 +265097,132 @@
     "voice_lang": []
   },
   {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.733,
+          2.373,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.817,
+          1.361,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.01,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.788,
+          0.937,
+          0
+        ]
+      ]
+    },
+    "change_skin": {},
+    "desc": "为了能与你共度这场愉快的舞会，我特地准备了这身装扮。轻轻旋转，裙摆就会如花开般绽放，怎么样，是不是很梦幻~",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {},
+    "group_index": 4,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 802014,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [],
+    "l2d_drag_rate": [],
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {},
+    "l2d_se": {},
+    "l2d_voice_calibrate": {},
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": [],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "闪耀的“魔法”",
+    "painting": "aimierbeierding_5",
+    "part_scale": "",
+    "prefab": "aimierbeierding_5",
+    "purchase_offset": [],
+    "rarity_bg": "",
+    "ship_group": 80201,
+    "ship_l2d_id": [],
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": [],
+    "shop_type_id": 19,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.753,
+              2.464,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": [],
+    "spine_action_offset": false,
+    "spine_offset": [],
+    "spine_offset_profile": [],
+    "spine_use_live2d": 0,
+    "tag": [
+      4
+    ],
+    "time": [],
+    "voice_actor": 108,
+    "voice_actor_2": -1,
+    "voice_lang": []
+  },
+  {
     "bg": "",
     "bg_sp": "",
     "bgm": "",
@@ -318330,6 +318456,123 @@
     "bg_sp": "",
     "bgm": "",
     "bound_bone": {
+      "cannon": [
+        [
+          1.17,
+          5,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          -1.02,
+          3.05,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.04,
+          0.89,
+          0
+        ]
+      ]
+    },
+    "change_skin": {},
+    "desc": "无描述",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {},
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 900556,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [],
+    "l2d_drag_rate": [],
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {},
+    "l2d_se": {},
+    "l2d_voice_calibrate": {},
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": [],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "？？？",
+    "painting": "congmang_2_hei",
+    "part_scale": "",
+    "prefab": "congmang_2_hei",
+    "purchase_offset": [],
+    "rarity_bg": "",
+    "ship_group": 900556,
+    "ship_l2d_id": [],
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": [],
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smokebig",
+            [
+              -0.62,
+              2.54,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": [],
+    "spine_action_offset": false,
+    "spine_offset": [],
+    "spine_offset_profile": [],
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": [],
+    "voice_actor": -1,
+    "voice_actor_2": -1,
+    "voice_lang": []
+  },
+  {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
       "antiaircraft": [
         [
           1.08,
@@ -340896,6 +341139,129 @@
     "tag": [],
     "time": [],
     "voice_actor": 42,
+    "voice_actor_2": -1,
+    "voice_lang": []
+  },
+  {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.832,
+          2.303,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          0.941,
+          0.798,
+          0
+        ]
+      ]
+    },
+    "change_skin": {},
+    "desc": "“天降系偶像”萨拉托加·META闪亮登场~！嗯哼~指挥官这个表情，是被我从天而降的气势震住了吗？放心吧，接下来不管是战斗还是舞台，我都会把气氛炒到最热的♪ ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {},
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9707100,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [],
+    "l2d_drag_rate": [],
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {},
+    "l2d_se": {},
+    "l2d_voice_calibrate": {},
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": [],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "萨拉托加·META",
+    "painting": "salatuojia_alter",
+    "part_scale": "",
+    "prefab": "salatuojia_alter",
+    "purchase_offset": [],
+    "rarity_bg": "",
+    "ship_group": 970710,
+    "ship_l2d_id": [],
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": [],
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smoke",
+            [
+              -0.813,
+              2.493,
+              0
+            ]
+          ]
+        ]
+      ],
+      [
+        30,
+        [
+          [
+            "smoke",
+            [
+              -0.823,
+              2.499,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": [],
+    "spine_action_offset": false,
+    "spine_offset": [],
+    "spine_offset_profile": [],
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": [],
+    "voice_actor": 28,
     "voice_actor_2": -1,
     "voice_lang": []
   },

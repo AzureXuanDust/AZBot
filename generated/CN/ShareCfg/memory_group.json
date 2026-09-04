@@ -7160,6 +7160,26 @@
   {
     "auto_unlock": [],
     "group_id": [],
+    "icon": "title_event",
+    "id": 377,
+    "link_event": 51127,
+    "memories": [
+      5431,
+      5432,
+      5433,
+      5434,
+      5435,
+      5436,
+      5437
+    ],
+    "ship_group": 0,
+    "subtype": 2,
+    "title": "Fight！都市求职大作战！",
+    "type": 2
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [],
     "icon": "title_chara_mingshi",
     "id": 501,
     "link_event": 0,
@@ -9872,6 +9892,28 @@
     "ship_group": 10234,
     "subtype": 0,
     "title": "我们的第八大不可思议",
+    "type": 3
+  },
+  {
+    "auto_unlock": [],
+    "group_id": [
+      10000
+    ],
+    "icon": "title_chara_baifeng",
+    "id": 626,
+    "link_event": 0,
+    "memories": [
+      5421,
+      5422,
+      5423,
+      5424,
+      5425,
+      5426,
+      5427
+    ],
+    "ship_group": 30716,
+    "subtype": 0,
+    "title": "驻留的幽香",
     "type": 3
   },
   {

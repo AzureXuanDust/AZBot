@@ -962,6 +962,17 @@
     ]
   },
   {
+    "key": "aimierbeierding_5",
+    "res_list": [
+      "painting/aimierbeierding_5_tex",
+      "painting/aimierbeierding_5_rw_tex",
+      "painting/aimierbeierding_5_n_rw_tex",
+      "painting/aimierbeierding_5_n",
+      "painting/aimierbeierding_5_bj_tex",
+      "painting/aimierbeierding_5"
+    ]
+  },
+  {
     "key": "aimierbeierding_g",
     "res_list": [
       "painting/aimierbeierding_g_tex",
@@ -4223,6 +4234,13 @@
       "painting/chuyun_3_n_rw_tex",
       "painting/chuyun_3_n",
       "painting/chuyun_3"
+    ]
+  },
+  {
+    "key": "congmang_2_hei",
+    "res_list": [
+      "painting/congmang_2_hei_tex",
+      "painting/congmang_2_hei"
     ]
   },
   {
@@ -16404,6 +16422,18 @@
     "res_list": [
       "painting/salatuojia_9_tex",
       "painting/salatuojia_9"
+    ]
+  },
+  {
+    "key": "salatuojia_alter",
+    "res_list": [
+      "painting/salatuojia_alter_tex",
+      "painting/salatuojia_alter_rw_tex",
+      "painting/salatuojia_alter_n_tex",
+      "painting/salatuojia_alter_n_rw_tex",
+      "painting/salatuojia_alter_n",
+      "painting/salatuojia_alter_bj_tex",
+      "painting/salatuojia_alter"
     ]
   },
   {
