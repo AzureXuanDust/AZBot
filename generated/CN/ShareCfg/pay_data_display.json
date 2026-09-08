@@ -2,6 +2,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.passport1",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "购买后立即获得$1钻,30日内每天获得资源",
     "descrip_extra": "",
     "display": [
@@ -96,6 +97,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond101",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得建造及钻石资源",
     "descrip_extra": "",
     "display": [
@@ -174,6 +176,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond1",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -214,6 +217,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond2",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -254,6 +258,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond3",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -294,6 +299,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond4",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -334,6 +340,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond5",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -374,6 +381,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond6",
     "akashi_pick": 0,
+    "cash_show": 0,
     "descrip": "额外赠送$1钻",
     "descrip_extra": "",
     "display": [],
@@ -414,6 +422,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond103",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色新年换装，3个外观装备箱，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。已获得的衣装将自动置换成等价的钻石。",
     "display": [
@@ -532,6 +541,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond105",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则会转化为对应原价9折的钻石。",
     "display": [
@@ -650,6 +660,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond106",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -768,6 +779,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond107",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -886,6 +898,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond108",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1004,6 +1017,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond109",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1122,6 +1136,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond110",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1245,6 +1260,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond111",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1363,6 +1379,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond112",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1486,6 +1503,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond113",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2019钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -1604,6 +1622,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package101",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得180钻，石油储备箱(1000)x2和其他奖励",
     "descrip_extra": "*支援包将发送到邮箱，请注意查收。",
     "display": [
@@ -1713,6 +1732,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package102",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得780钻，定向装备箱·超稀有x2，石油储备箱(1000)x4和其他奖励",
     "descrip_extra": "*支援包将发送到邮箱，请注意查收。",
     "display": [
@@ -1847,6 +1867,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package103",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1680钻，定向装备箱·超稀有x4，石油储备箱(1000)x8和其他奖励",
     "descrip_extra": "*支援包将发送到邮箱，请注意查收。",
     "display": [
@@ -1986,6 +2007,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond114",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2109,6 +2131,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond115",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2232,6 +2255,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond116",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2355,6 +2379,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond117",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2478,6 +2503,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond118",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2601,6 +2627,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond119",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2724,6 +2751,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond120",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2847,6 +2875,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond121",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -2970,6 +2999,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond122",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1980钻，定向部件T4x35，定向装备箱·研发装备①x1和其他奖励",
     "descrip_extra": "*支援包将发送到邮箱，请注意查收。",
     "display": [
@@ -3099,6 +3129,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond123",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3222,6 +3253,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond124",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2020钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3345,6 +3377,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond125",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3468,6 +3501,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond126",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3591,6 +3625,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond127",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3714,6 +3749,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond128",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3837,6 +3873,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond129",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -3960,6 +3997,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond130",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4083,6 +4121,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond131",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4206,6 +4245,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond132",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2021钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4329,6 +4369,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond133",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量材料奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -4492,6 +4533,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond134",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4615,6 +4657,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond135",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4738,6 +4781,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond136",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4861,6 +4905,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond137",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -4984,6 +5029,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond138",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5107,6 +5153,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond139",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5230,6 +5277,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond140",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5364,6 +5412,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond141",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5498,6 +5547,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond142",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5632,6 +5682,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond144",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5766,6 +5817,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond145",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2022钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -5900,6 +5952,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond143",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6034,6 +6087,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond155",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1980钻，自选促销礼物盒*1，和大量其他奖励",
     "descrip_extra": "礼盒将发送到邮箱，请注意查收。\n*自选促销礼物盒需要在仓库中使用",
     "display": [
@@ -6142,6 +6196,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond156",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3280钻，豪华自选促销礼物盒*1，和大量其他奖励",
     "descrip_extra": "礼盒将发送到邮箱，请注意查收。\n*豪华自选促销礼物盒中的促销换装兑换券（限时）具有时限，请即时使用。",
     "display": [
@@ -6245,6 +6300,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond146",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6354,6 +6410,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond147",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6488,6 +6545,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond148",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6622,6 +6680,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond149",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6756,6 +6815,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond150",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -6890,6 +6950,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond151",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7024,6 +7085,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond152",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7158,6 +7220,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond153",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7292,6 +7355,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond154",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7426,6 +7490,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond157",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7560,6 +7625,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond158",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7694,6 +7760,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond159",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7828,6 +7895,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond160",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -7962,6 +8030,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond161",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -8096,6 +8165,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond162",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -8230,6 +8300,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond163",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -8364,6 +8435,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond164",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2023钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -8498,6 +8570,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond165",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得980钻，冬日自选礼物盒1*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -8606,6 +8679,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond166",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1980钻，冬日自选礼物盒2*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -8719,6 +8793,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond167",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3280钻，冬日自选礼物盒3*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -8847,6 +8922,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond168",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -8956,6 +9032,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond169",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的L2D换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得1080钻石。",
     "display": [
@@ -9045,6 +9122,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond170",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9179,6 +9257,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond171",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9313,6 +9392,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond172",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9447,6 +9527,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond173",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9581,6 +9662,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond174",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9715,6 +9797,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond175",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9849,6 +9932,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond176",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -9983,6 +10067,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond177",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -10117,6 +10202,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond178",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得680钻石。",
     "display": [
@@ -10231,6 +10317,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond179",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -10365,6 +10452,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond180",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -10499,6 +10587,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond181",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -10633,6 +10722,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond182",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -10767,6 +10857,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond183",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得680钻石。",
     "display": [
@@ -10881,6 +10972,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond184",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -11015,6 +11107,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond185",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -11149,6 +11242,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond186",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -11283,6 +11377,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond187",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -11417,6 +11512,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass1",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励:约克城限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11502,6 +11598,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass2",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励:科罗拉多限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11587,6 +11684,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass3",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励:哥伦比亚限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11672,6 +11770,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass4",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·企业限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11757,6 +11856,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass5",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·枫限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11842,6 +11942,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass6",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·苝限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -11927,6 +12028,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass7",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·水星纪念限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12012,6 +12114,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass8",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·克利夫兰限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12097,6 +12200,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass9",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·棭限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12182,6 +12286,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass10",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·沃克兰限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12267,6 +12372,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass11",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·鸾限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12352,6 +12458,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass12",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·福煦限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12437,6 +12544,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass13",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·优斯伊丽限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12522,6 +12630,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass14",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·梅限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12607,6 +12716,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass15",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·梧限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12692,6 +12802,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass16",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·柏限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12777,6 +12888,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass17",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·阿蒂利奥·雷戈洛限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12862,6 +12974,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass18",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·罗马限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -12947,6 +13060,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass19",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·絮弗伦限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13032,6 +13146,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass20",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·威悉限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13117,6 +13232,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass21",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·反击限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13202,6 +13318,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass22",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·神速限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13287,6 +13404,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass23",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·檚限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13372,6 +13490,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass24",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·蒙彼利埃限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13457,6 +13576,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass25",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·茳限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13542,6 +13662,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass26",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·十纱限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13627,6 +13748,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass27",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·希娜限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13712,6 +13834,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass28",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·阿芙乐尔限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13797,6 +13920,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass29",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·梧限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13882,6 +14006,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass30",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·昆西限定换装和其他奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -13967,6 +14092,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.seasonpass301",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得200巡游点数，同时解锁特许巡游奖励",
     "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
     "display": [
@@ -14052,6 +14178,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·一期*1、定向蓝图·一期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -14120,6 +14247,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech1",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·一期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -14193,6 +14321,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech2",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·一期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -14256,6 +14385,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech3",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·一期x343",
     "display": [
@@ -14319,6 +14449,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·二期*1、定向蓝图·二期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -14387,6 +14518,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech4",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·二期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -14460,6 +14592,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech5",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·二期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -14523,6 +14656,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech6",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·二期x343",
     "display": [
@@ -14586,6 +14720,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package104",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买后指挥官等级将提升至70级和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -14680,6 +14815,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package105",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -14798,6 +14934,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package106",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -14916,6 +15053,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package107",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1280钻，定向部件T4x15和其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15034,6 +15172,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package108",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得2480钻，定向外观装备箱(星辰无垠)x2和其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15152,6 +15291,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package109",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15270,6 +15410,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·三期*1、定向蓝图·三期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -15338,6 +15479,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech7",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·三期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -15411,6 +15553,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech8",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·三期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -15474,6 +15617,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech9",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·三期x343",
     "display": [
@@ -15537,6 +15681,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package110",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15655,6 +15800,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package111",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3880钻，和特装型布里MKIII*1和其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15773,6 +15919,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package112",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15881,6 +16028,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package113",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得心智魔方*10",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -15964,6 +16112,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package114",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得心智魔方*20",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16047,6 +16196,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package115",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得心智魔方*30",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16130,6 +16280,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package116",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得心智魔方*1和石油*1200",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16198,6 +16349,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package118",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16316,6 +16468,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·四期*1、定向蓝图·四期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -16384,6 +16537,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech10",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·四期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -16457,6 +16611,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech11",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·四期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -16520,6 +16675,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech12",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·四期x343",
     "display": [
@@ -16583,6 +16739,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package119",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16691,6 +16848,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 梦幻霓虹*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -16768,6 +16926,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui1",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 梦幻霓虹*1",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16851,6 +17010,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui2",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 梦幻霓虹*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -16944,6 +17104,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package120",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17052,6 +17213,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package121",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17170,6 +17332,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣诞雪境*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -17247,6 +17410,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui4",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣诞雪境*1",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17330,6 +17494,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui5",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣诞雪境*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17423,6 +17588,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package122",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3880钻，和特装型布里MKIII*1和其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17541,6 +17707,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package123",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17649,6 +17816,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣砂之约*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -17726,6 +17894,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui7",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣砂之约*1",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17809,6 +17978,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui8",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 圣砂之约*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -17902,6 +18072,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 基因之源*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -17979,6 +18150,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui10",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 基因之源*1",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18062,6 +18234,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui11",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 基因之源*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18155,6 +18328,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package124",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18263,6 +18437,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package125",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18381,6 +18556,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 海滨假日*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -18458,6 +18634,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui13",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 海滨假日*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18551,6 +18728,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui14",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 海滨假日*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -18644,6 +18822,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·五期*1、定向蓝图·五期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -18712,6 +18891,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech13",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·五期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -18785,6 +18965,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech14",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·五期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -18848,6 +19029,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech15",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·五期x343",
     "display": [
@@ -18911,6 +19093,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 忍者之城*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -18988,6 +19171,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui16",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 忍者之城*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19081,6 +19265,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui17",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 忍者之城*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19174,6 +19359,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package126",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得换装自选券、心智魔方、舰艇演习数据T2和物资奖励！",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19282,6 +19468,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package127",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19400,6 +19587,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 甜点女仆屋*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -19477,6 +19665,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui19",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 甜点女仆屋*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19570,6 +19759,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui20",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 甜点女仆屋*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19663,6 +19853,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package128",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3880钻，和特装型布里MKIII*1和其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19781,6 +19972,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 春满客栈*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -19858,6 +20050,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui22",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 春满客栈*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -19951,6 +20144,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui23",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 春满客栈*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20044,6 +20238,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package129",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得4000钻，心智魔方*40，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20183,6 +20378,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package130",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得大量教材奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20301,6 +20497,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 奢梦浮金*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -20378,6 +20575,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui25",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 奢梦浮金*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20471,6 +20669,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui26",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 奢梦浮金*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20564,6 +20763,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 寄叶协议*1",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -20641,6 +20841,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui27",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 寄叶协议*1,1000物资",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20734,6 +20935,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.ui28",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得战斗界面主题 寄叶协议*1,3060钻石",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -20827,6 +21029,7 @@
   {
     "airijp_id": "",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得最高方案快速研发券·六期*1、定向蓝图·六期*343",
     "descrip_extra": "此处不会被看到",
     "display": [
@@ -20895,6 +21098,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech16",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·六期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -20968,6 +21172,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech17",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "*最高方案快速研发券·六期奖励可能发生变化，点击道具查看详情",
     "display": [
@@ -21031,6 +21236,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.tech18",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "礼包内容",
     "descrip_extra": "升级为高级版后可获得定向蓝图·六期x343",
     "display": [
@@ -21092,8 +21298,275 @@
     "type_order": 0
   },
   {
+    "airijp_id": "",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得战斗界面主题 烛影镜台*1",
+    "descrip_extra": "此处不会被看到",
+    "display": [
+      [
+        31,
+        210,
+        1
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        210,
+        1
+      ]
+    ],
+    "first_icon": [],
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 2093,
+    "id_str": "",
+    "ignorePlatform": [],
+    "limit_arg": 0,
+    "limit_args": [],
+    "limit_group": 111,
+    "limit_type": 5,
+    "money": 78,
+    "name": "烛影镜台主题礼包",
+    "name_display": "烛影镜台主题礼包",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "ui11",
+    "second_text": "",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "烛影镜台主题礼包",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 4
+  },
+  {
+    "airijp_id": "com.yostarjp.azurlane.ui29",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得战斗界面主题 烛影镜台*1,1000物资",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        1,
+        1000
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40089,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        1,
+        1000
+      ]
+    ],
+    "first_icon": [],
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 2094,
+    "id_str": "com.bilibili.blhx.ui29",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 111,
+    "limit_type": 5,
+    "money": 78,
+    "name": "烛影镜台主题礼包(基础版)",
+    "name_display": "烛影镜台主题礼包(基础版)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "ui11",
+    "second_text": "",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "烛影镜台主题礼包(基础版)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 4
+  },
+  {
+    "airijp_id": "com.yostarjp.azurlane.ui30",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得战斗界面主题 烛影镜台*1,3060钻石",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40090,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "first_icon": [],
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 2095,
+    "id_str": "com.bilibili.blhx.ui30",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 111,
+    "limit_type": 5,
+    "money": 258,
+    "name": "烛影镜台主题礼包(豪华版)",
+    "name_display": "烛影镜台主题礼包(豪华版)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "ui11",
+    "second_text": "",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "烛影镜台主题礼包(豪华版)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 4
+  },
+  {
     "airijp_id": "com.yostarjp.azurlane.package201",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得60钻，高级定向蓝图·五期*2",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21162,6 +21635,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package202",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得200钻",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21220,6 +21694,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package203",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得定向装备箱·超稀有*1，定向部件T4*5",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21288,6 +21763,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package204",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得60钻，试作型布里MKII*1",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21356,6 +21832,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package205",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得舰艇演习数据T2*60",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21414,6 +21891,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package206",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得心智魔方*10，快速完成工具*5",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21482,6 +21960,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package207",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得60钻，高级定向蓝图·六期*2",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21550,6 +22029,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package211",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得60钻，高级定向蓝图·六期*2",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21618,6 +22098,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package212",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得200钻",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21676,6 +22157,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package213",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得定向部件T4*5，心智单元*200",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21744,6 +22226,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package214",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得60钻，试作型布里MKII*1",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21812,6 +22295,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package215",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得舰艇演习数据T2*60",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21870,6 +22354,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package216",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得心智魔方*10，快速完成工具*5",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -21938,6 +22423,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.package217",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "购买礼包可获得60钻，高级定向蓝图·七期*2",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
     "display": [
@@ -22006,6 +22492,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond188",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得680钻石。",
     "display": [
@@ -22120,6 +22607,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond197",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得980钻，冬日自选礼物盒1*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -22228,6 +22716,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond198",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得1980钻，冬日自选礼物盒2*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -22341,6 +22830,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond199",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得3280钻，冬日自选礼物盒3*1，和大量其他奖励",
     "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
     "display": [
@@ -22469,6 +22959,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond200",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -22603,6 +23094,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond201",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的L2D换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得1080钻石。",
     "display": [
@@ -22717,6 +23209,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond189",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -22851,6 +23344,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond190",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -22985,6 +23479,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond191",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23119,6 +23614,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond192",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23253,6 +23749,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond193",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23387,6 +23884,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond194",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23521,6 +24019,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond195",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23655,6 +24154,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond196",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -23789,6 +24289,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond202",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得列表中未拥有的换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得680钻石。",
     "display": [
@@ -23903,6 +24404,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond203",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -24037,6 +24539,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond204",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -24171,6 +24674,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond205",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -24305,6 +24809,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond206",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
     "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -24439,6 +24944,7 @@
   {
     "airijp_id": "com.yostarjp.azurlane.diamond207",
     "akashi_pick": 1,
+    "cash_show": 0,
     "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
     "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
     "display": [
@@ -24569,5 +25075,322 @@
     "tip_open": 0,
     "type": 1,
     "type_order": 2
+  },
+  {
+    "airijp_id": "com.yostarjp.azurlane.diamond208",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得一件角色换装，2026钻，和大量其他奖励",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        42086,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81238,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86230,
+        1
+      ],
+      [
+        1,
+        14,
+        2026
+      ],
+      [
+        2,
+        42086,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_icon": [
+      [
+        2,
+        86230,
+        1
+      ],
+      [
+        1,
+        14,
+        2026
+      ]
+    ],
+    "first_pay_double": 0,
+    "first_text": "随机换装和大量钻石",
+    "gem": 0,
+    "id": 9021,
+    "id_str": "com.bilibili.blhx.zuanshi220",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "幽影迷城换装礼盒I",
+    "name_display": "幽影迷城换装礼盒I",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "fudai38",
+    "second_text": "大量奖励",
+    "show_group": "",
+    "skin_inquire_relation": 86230,
+    "sub_display": [],
+    "subject": "幽影迷城换装礼盒I",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 1,
+    "type_order": 2
+  },
+  {
+    "airijp_id": "com.yostarjp.azurlane.diamond209",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        42076,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81217,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86217,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ],
+      [
+        2,
+        42076,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_icon": [
+      [
+        2,
+        86217,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ]
+    ],
+    "first_pay_double": 0,
+    "first_text": "随机换装和大量钻石",
+    "gem": 0,
+    "id": 9022,
+    "id_str": "com.bilibili.blhx.zuanshi221",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "忍者之城换装礼盒I复刻",
+    "name_display": "忍者之城换装礼盒I复刻",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "fudai27",
+    "second_text": "大量奖励",
+    "show_group": "",
+    "skin_inquire_relation": 86217,
+    "sub_display": [],
+    "subject": "忍者之城换装礼盒I复刻",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 1,
+    "type_order": 2
+  },
+  {
+    "airijp_id": "com.yostarjp.azurlane.skin1",
+    "akashi_pick": 1,
+    "cash_show": 168,
+    "descrip": "午夜的瑰色电梯",
+    "descrip_extra": "",
+    "display": [],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 6,
+    "extra_service_item": [
+      [
+        7,
+        304091,
+        1
+      ]
+    ],
+    "first_icon": [],
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 70001,
+    "id_str": "com.bilibili.blhx.skin1",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 138,
+    "name": "午夜的瑰色电梯",
+    "name_display": "午夜的瑰色电梯",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "",
+    "second_text": "",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "午夜的瑰色电梯",
+    "tag": 0,
+    "time": "always",
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 0
   }
 ]

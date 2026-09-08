@@ -1465,6 +1465,39 @@
     ]
   },
   {
+    "key": "antu",
+    "res_list": [
+      "painting/antu_tex",
+      "painting/antu_rw_tex",
+      "painting/antu_n_tex",
+      "painting/antu_n_rw_tex",
+      "painting/antu_n",
+      "painting/antu_bj_tex",
+      "painting/antu"
+    ]
+  },
+  {
+    "key": "antu_2",
+    "res_list": [
+      "painting/antu_2_tex",
+      "painting/antu_2_rw_tex",
+      "painting/antu_2_rw_hx_tex",
+      "painting/antu_2_hx_tex",
+      "painting/antu_2_hx",
+      "painting/antu_2"
+    ]
+  },
+  {
+    "key": "antu_3",
+    "res_list": [
+      "painting/antu_3_tex",
+      "painting/antu_3_rw_tex",
+      "painting/antu_3_n_rw_tex",
+      "painting/antu_3_n",
+      "painting/antu_3"
+    ]
+  },
+  {
     "key": "aoding",
     "res_list": [
       "painting/aoding_tex",
@@ -1775,6 +1808,17 @@
       "painting/baifeng_2_n_rw_tex",
       "painting/baifeng_2_n",
       "painting/baifeng_2"
+    ]
+  },
+  {
+    "key": "baifeng_3",
+    "res_list": [
+      "painting/baifeng_3_tex",
+      "painting/baifeng_3_rw_tex",
+      "painting/baifeng_3_n_rw_tex",
+      "painting/baifeng_3_n",
+      "painting/baifeng_3_bj_tex",
+      "painting/baifeng_3"
     ]
   },
   {
@@ -2554,6 +2598,19 @@
     "res_list": [
       "painting/biaoqiang_tex",
       "painting/biaoqiang"
+    ]
+  },
+  {
+    "key": "biaoqiang_10",
+    "res_list": [
+      "painting/biaoqiang_10_tex",
+      "painting/biaoqiang_10_rw_tex",
+      "painting/biaoqiang_10_n_tex",
+      "painting/biaoqiang_10_n_rw_tex",
+      "painting/biaoqiang_10_n_bj_tex",
+      "painting/biaoqiang_10_n",
+      "painting/biaoqiang_10_bj_tex",
+      "painting/biaoqiang_10"
     ]
   },
   {
@@ -3621,6 +3678,17 @@
     ]
   },
   {
+    "key": "chaijun_6",
+    "res_list": [
+      "painting/chaijun_6_tex",
+      "painting/chaijun_6_rw_tex",
+      "painting/chaijun_6_n_rw_tex",
+      "painting/chaijun_6_n",
+      "painting/chaijun_6_bj_tex",
+      "painting/chaijun_6"
+    ]
+  },
+  {
     "key": "chaijun_h",
     "res_list": [
       "painting/chaijun_h_tex",
@@ -4237,6 +4305,30 @@
     ]
   },
   {
+    "key": "congmang",
+    "res_list": [
+      "painting/congmang_tex",
+      "painting/congmang_rw_tex",
+      "painting/congmang_n_tex",
+      "painting/congmang_n_rw_tex",
+      "painting/congmang_n",
+      "painting/congmang"
+    ]
+  },
+  {
+    "key": "congmang_2",
+    "res_list": [
+      "painting/congmang_2_tex",
+      "painting/congmang_2_rw_tex",
+      "painting/congmang_2_n_tex",
+      "painting/congmang_2_n_rw_tex",
+      "painting/congmang_2_n_bj_tex",
+      "painting/congmang_2_n",
+      "painting/congmang_2_bj_tex",
+      "painting/congmang_2"
+    ]
+  },
+  {
     "key": "congmang_2_hei",
     "res_list": [
       "painting/congmang_2_hei_tex",
@@ -4842,6 +4934,24 @@
       "painting/dian_5_n_tex",
       "painting/dian_5_n",
       "painting/dian_5"
+    ]
+  },
+  {
+    "key": "didui",
+    "res_list": [
+      "painting/didui_tex",
+      "painting/didui_rw_tex",
+      "painting/didui"
+    ]
+  },
+  {
+    "key": "didui_2",
+    "res_list": [
+      "painting/didui_2_tex",
+      "painting/didui_2_rw_tex",
+      "painting/didui_2_n_rw_tex",
+      "painting/didui_2_n",
+      "painting/didui_2"
     ]
   },
   {
@@ -5720,6 +5830,17 @@
       "painting/feiteliekaer_3_n",
       "painting/feiteliekaer_3_bj_tex",
       "painting/feiteliekaer_3"
+    ]
+  },
+  {
+    "key": "feiteliekaer_4",
+    "res_list": [
+      "painting/feiteliekaer_4_tex",
+      "painting/feiteliekaer_4_rw_tex",
+      "painting/feiteliekaer_4_n_tex",
+      "painting/feiteliekaer_4_n_rw_tex",
+      "painting/feiteliekaer_4_n",
+      "painting/feiteliekaer_4"
     ]
   },
   {
@@ -6777,6 +6898,16 @@
       "painting/guanghui_8_n",
       "painting/guanghui_8_bj_tex",
       "painting/guanghui_8"
+    ]
+  },
+  {
+    "key": "guanghui_9",
+    "res_list": [
+      "painting/guanghui_9_tex",
+      "painting/guanghui_9_rw_tex",
+      "painting/guanghui_9_n_rw_tex",
+      "painting/guanghui_9_n",
+      "painting/guanghui_9"
     ]
   },
   {
@@ -8006,6 +8137,49 @@
     ]
   },
   {
+    "key": "hu",
+    "res_list": [
+      "painting/hu_tex",
+      "painting/hu_rw_tex",
+      "painting/hu_rw_hx_tex",
+      "painting/hu_n_tex",
+      "painting/hu_n_rw_tex",
+      "painting/hu_n_rw_hx_tex",
+      "painting/hu_n_hx_tex",
+      "painting/hu_n_hx",
+      "painting/hu_n",
+      "painting/hu_hx_tex",
+      "painting/hu_hx",
+      "painting/hu"
+    ]
+  },
+  {
+    "key": "hu_2",
+    "res_list": [
+      "painting/hu_2_tex",
+      "painting/hu_2_rw_tex",
+      "painting/hu_2_rw_hx_tex",
+      "painting/hu_2_n_rw_tex",
+      "painting/hu_2_n_rw_hx_tex",
+      "painting/hu_2_n_hx",
+      "painting/hu_2_n_bj_tex",
+      "painting/hu_2_n_bj_hx_tex",
+      "painting/hu_2_n",
+      "painting/hu_2_hx_tex",
+      "painting/hu_2_hx",
+      "painting/hu_2_bj_tex",
+      "painting/hu_2_bj_hx_tex",
+      "painting/hu_2"
+    ]
+  },
+  {
+    "key": "hu_2_asmr",
+    "res_list": [
+      "painting/hu_2_asmr_hx",
+      "painting/hu_2_asmr"
+    ]
+  },
+  {
     "key": "huajia",
     "res_list": [
       "painting/huajia_tex",
@@ -8585,6 +8759,30 @@
       "painting/i13_3_n",
       "painting/i13_3_bj_tex",
       "painting/i13_3"
+    ]
+  },
+  {
+    "key": "i14",
+    "res_list": [
+      "painting/i14_tex",
+      "painting/i14_rw_tex",
+      "painting/i14_n_tex",
+      "painting/i14_n_rw_tex",
+      "painting/i14_n",
+      "painting/i14_bj_tex",
+      "painting/i14"
+    ]
+  },
+  {
+    "key": "i14_2",
+    "res_list": [
+      "painting/i14_2_tex",
+      "painting/i14_2_rw_tex",
+      "painting/i14_2_n_tex",
+      "painting/i14_2_n_rw_tex",
+      "painting/i14_2_n",
+      "painting/i14_2_bj_tex",
+      "painting/i14_2"
     ]
   },
   {
@@ -9437,6 +9635,37 @@
       "painting/jinluhao_2_n_rw2_tex",
       "painting/jinluhao_2_n",
       "painting/jinluhao_2"
+    ]
+  },
+  {
+    "key": "jinluhao_3",
+    "res_list": [
+      "painting/jinluhao_3_tex",
+      "painting/jinluhao_3_rw_tex",
+      "painting/jinluhao_3_rw_hx_tex",
+      "painting/jinluhao_3_n_rw_tex",
+      "painting/jinluhao_3_n_rw_hx_tex",
+      "painting/jinluhao_3_n_hx",
+      "painting/jinluhao_3_n_bj_tex",
+      "painting/jinluhao_3_n_bj_hx_tex",
+      "painting/jinluhao_3_n",
+      "painting/jinluhao_3_hx_tex",
+      "painting/jinluhao_3_hx",
+      "painting/jinluhao_3_bj_tex",
+      "painting/jinluhao_3_bj_hx_tex",
+      "painting/jinluhao_3"
+    ]
+  },
+  {
+    "key": "jinluhao_4",
+    "res_list": [
+      "painting/jinluhao_4_tex",
+      "painting/jinluhao_4_rw_tex",
+      "painting/jinluhao_4_n_rw_tex",
+      "painting/jinluhao_4_n_bj_tex",
+      "painting/jinluhao_4_n",
+      "painting/jinluhao_4_bj_tex",
+      "painting/jinluhao_4"
     ]
   },
   {
@@ -14355,6 +14584,13 @@
     ]
   },
   {
+    "key": "npcaimierbeierding_5",
+    "res_list": [
+      "painting/npcaimierbeierding_5_tex",
+      "painting/npcaimierbeierding_5"
+    ]
+  },
+  {
     "key": "npcaimudeng_5",
     "res_list": [
       "painting/npcaimudeng_5_tex",
@@ -14371,6 +14607,15 @@
       "painting/npcandelieyaduoliya_alter_rw_tex",
       "painting/npcandelieyaduoliya_alter_n_tex",
       "painting/npcandelieyaduoliya_alter_n"
+    ]
+  },
+  {
+    "key": "npcantu_2",
+    "res_list": [
+      "painting/npcantu_2_tex",
+      "painting/npcantu_2_hx_tex",
+      "painting/npcantu_2_hx",
+      "painting/npcantu_2"
     ]
   },
   {
@@ -14470,6 +14715,13 @@
     ]
   },
   {
+    "key": "npcguanghui_9",
+    "res_list": [
+      "painting/npcguanghui_9_tex",
+      "painting/npcguanghui_9"
+    ]
+  },
+  {
     "key": "npcguangrong_alter",
     "res_list": [
       "painting/npcguangrong_alter_tex",
@@ -14520,6 +14772,13 @@
       "painting/npcjiasikenie_3_rw_tex",
       "painting/npcjiasikenie_3_bj_tex",
       "painting/npcjiasikenie_3"
+    ]
+  },
+  {
+    "key": "npcjinluhao_3",
+    "res_list": [
+      "painting/npcjinluhao_3_tex",
+      "painting/npcjinluhao_3"
     ]
   },
   {
@@ -14664,10 +14923,24 @@
     ]
   },
   {
+    "key": "npcshi_3",
+    "res_list": [
+      "painting/npcshi_3_tex",
+      "painting/npcshi_3"
+    ]
+  },
+  {
     "key": "npctiancheng",
     "res_list": [
       "painting/npctiancheng_tex",
       "painting/npctiancheng"
+    ]
+  },
+  {
+    "key": "npctianjinfeng_2",
+    "res_list": [
+      "painting/npctianjinfeng_2_tex",
+      "painting/npctianjinfeng_2"
     ]
   },
   {
@@ -16816,6 +17089,7 @@
     "key": "shengli",
     "res_list": [
       "painting/shengli_tex",
+      "painting/shengli_rw_tex",
       "painting/shengli"
     ]
   },
@@ -16845,6 +17119,15 @@
       "painting/shengli_4_tex",
       "painting/shengli_4_n_tex",
       "painting/shengli_4"
+    ]
+  },
+  {
+    "key": "shengli_alter",
+    "res_list": [
+      "painting/shengli_alter_tex",
+      "painting/shengli_alter_rw_tex",
+      "painting/shengli_alter_bj_tex",
+      "painting/shengli_alter"
     ]
   },
   {
@@ -17162,6 +17445,16 @@
       "painting/shi_2_n_rw_tex",
       "painting/shi_2_n",
       "painting/shi_2"
+    ]
+  },
+  {
+    "key": "shi_3",
+    "res_list": [
+      "painting/shi_3_tex",
+      "painting/shi_3_rw_tex",
+      "painting/shi_3_n_rw_tex",
+      "painting/shi_3_n",
+      "painting/shi_3"
     ]
   },
   {
@@ -20314,6 +20607,18 @@
     ]
   },
   {
+    "key": "xianghe_4",
+    "res_list": [
+      "painting/xianghe_4_tex",
+      "painting/xianghe_4_rw_tex",
+      "painting/xianghe_4_n_rw_tex",
+      "painting/xianghe_4_n_bj_tex",
+      "painting/xianghe_4_n",
+      "painting/xianghe_4_bj_tex",
+      "painting/xianghe_4"
+    ]
+  },
+  {
     "key": "xianghe_h",
     "res_list": [
       "painting/xianghe_h_tex",
@@ -22234,6 +22539,18 @@
     ]
   },
   {
+    "key": "yonggan_g",
+    "res_list": [
+      "painting/yonggan_g_tex",
+      "painting/yonggan_g_rw_tex",
+      "painting/yonggan_g_n_tex",
+      "painting/yonggan_g_n_rw_tex",
+      "painting/yonggan_g_n",
+      "painting/yonggan_g_bj_tex",
+      "painting/yonggan_g"
+    ]
+  },
+  {
     "key": "yongqi",
     "res_list": [
       "painting/yongqi_tex",
@@ -22440,6 +22757,18 @@
       "painting/yueke_ger_3_n_tex",
       "painting/yueke_ger_3_n",
       "painting/yueke_ger_3"
+    ]
+  },
+  {
+    "key": "yueke_ger_4",
+    "res_list": [
+      "painting/yueke_ger_4_tex",
+      "painting/yueke_ger_4_rw_tex",
+      "painting/yueke_ger_4_n_rw_tex",
+      "painting/yueke_ger_4_n_bj_tex",
+      "painting/yueke_ger_4_n",
+      "painting/yueke_ger_4_bj_tex",
+      "painting/yueke_ger_4"
     ]
   },
   {

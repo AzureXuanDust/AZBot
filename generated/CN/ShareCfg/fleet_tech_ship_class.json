@@ -713,8 +713,10 @@
     "nation": 2,
     "ships": [
       20116,
+      20119,
       20120,
-      20136
+      20136,
+      20140
     ],
     "shiptype": 1,
     "t_level": 4,
@@ -968,6 +970,17 @@
     "shiptype": 2,
     "t_level": 9,
     "t_level_1": 47
+  },
+  {
+    "id": 20213,
+    "name": "虎级",
+    "nation": 2,
+    "ships": [
+      20238
+    ],
+    "shiptype": 2,
+    "t_level": 9,
+    "t_level_1": 48
   },
   {
     "id": 20301,
@@ -1729,6 +1742,17 @@
     "t_level_1": 92
   },
   {
+    "id": 30403,
+    "name": "安土",
+    "nation": 3,
+    "ships": [
+      30409
+    ],
+    "shiptype": 4,
+    "t_level": 8,
+    "t_level_1": 93
+  },
+  {
     "id": 30501,
     "name": "扶桑级",
     "nation": 3,
@@ -2058,7 +2082,8 @@
     "name": "巡潜甲型改二型",
     "nation": 3,
     "ships": [
-      31701
+      31701,
+      31703
     ],
     "shiptype": 17,
     "t_level": 7,
@@ -4697,6 +4722,17 @@
     "shiptype": 7,
     "t_level": 2,
     "t_level_1": 1
+  },
+  {
+    "id": 970709,
+    "name": "胜利·META",
+    "nation": 97,
+    "ships": [
+      970709
+    ],
+    "shiptype": 7,
+    "t_level": 1,
+    "t_level_1": 18
   },
   {
     "id": 970710,

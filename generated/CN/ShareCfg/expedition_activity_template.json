@@ -10157,6 +10157,167 @@
     "pt_drop_display": []
   },
   {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2060013,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        30
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2060113,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        40
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2060213,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        50
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2061013,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        60
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2061113,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        70
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 3,
+    "bonus_time": 1,
+    "id": 2061213,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        80
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2062013,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        90
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2062113,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        100
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2062213,
+    "pt_drop_display": [
+      [
+        51141,
+        751,
+        110
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2063013,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        120
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2063113,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        150
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2063213,
+    "pt_drop_display": [
+      [
+        51142,
+        751,
+        180
+      ]
+    ]
+  },
+  {
+    "bonus_rate": 0,
+    "bonus_time": 0,
+    "id": 2064013,
+    "pt_drop_display": [
+      [
+        51142,
+        752,
+        5
+      ],
+      [
+        51142,
+        751,
+        800
+      ]
+    ]
+  },
+  {
     "bonus_rate": 0,
     "bonus_time": 1,
     "id": 3000013,

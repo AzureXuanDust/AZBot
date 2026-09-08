@@ -7948,6 +7948,35 @@
   {
     "combination_display": [],
     "compose_number": 0,
+    "display": "双联装152mm主炮Mk.XXVIT3设计图",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Equips/22300",
+    "id": 11059,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "双联装152mm主炮Mk.XXVIT3设计图",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 9,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
     "display": "九三式纯氧鱼雷T3设计图",
     "display_effect": "",
     "display_icon": [],
@@ -15926,6 +15955,35 @@
     "link_id": 0,
     "max_num": 0,
     "name": "结晶：萨拉托加·META",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 4,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "胜利·META的专用性能提升装置，可在「META研究室」-「能量激活」中使用。",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/21065",
+    "id": 21065,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "结晶：胜利·META",
     "open_directly": 0,
     "order": 0,
     "other_item_cost": "[]",
@@ -29259,6 +29317,129 @@
     "type": 11,
     "usage": "usage_drop",
     "usage_arg": "30384",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "可以获得一件随机的幽影奇谈风格外观装备",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4438,
+        1
+      ],
+      [
+        9,
+        4439,
+        1
+      ],
+      [
+        9,
+        4440,
+        1
+      ],
+      [
+        9,
+        4441,
+        1
+      ],
+      [
+        9,
+        4442,
+        1
+      ],
+      [
+        9,
+        4443,
+        1
+      ],
+      [
+        9,
+        4444,
+        1
+      ],
+      [
+        9,
+        4445,
+        1
+      ],
+      [
+        9,
+        4446,
+        1
+      ],
+      [
+        9,
+        4447,
+        1
+      ],
+      [
+        9,
+        4448,
+        1
+      ],
+      [
+        9,
+        4449,
+        1
+      ],
+      [
+        9,
+        4450,
+        1
+      ],
+      [
+        9,
+        4451,
+        1
+      ],
+      [
+        9,
+        4452,
+        1
+      ],
+      [
+        9,
+        4453,
+        1
+      ],
+      [
+        9,
+        4454,
+        1
+      ],
+      [
+        9,
+        4455,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxdushiguaitan",
+    "id": 30388,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "外观装备箱(幽影奇谈)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      7000
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 11,
+    "usage": "usage_drop",
+    "usage_arg": "30385",
     "virtual_type": 0
   },
   {
@@ -46051,6 +46232,217 @@
   {
     "combination_display": [],
     "compose_number": 0,
+    "display": "使用后可从「幽影奇谈」主题外观装备中任意选择一种获得1个",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4438,
+        1
+      ],
+      [
+        9,
+        4439,
+        1
+      ],
+      [
+        9,
+        4440,
+        1
+      ],
+      [
+        9,
+        4441,
+        1
+      ],
+      [
+        9,
+        4442,
+        1
+      ],
+      [
+        9,
+        4443,
+        1
+      ],
+      [
+        9,
+        4444,
+        1
+      ],
+      [
+        9,
+        4445,
+        1
+      ],
+      [
+        9,
+        4446,
+        1
+      ],
+      [
+        9,
+        4447,
+        1
+      ],
+      [
+        9,
+        4448,
+        1
+      ],
+      [
+        9,
+        4449,
+        1
+      ],
+      [
+        9,
+        4450,
+        1
+      ],
+      [
+        9,
+        4451,
+        1
+      ],
+      [
+        9,
+        4452,
+        1
+      ],
+      [
+        9,
+        4453,
+        1
+      ],
+      [
+        9,
+        4454,
+        1
+      ],
+      [
+        9,
+        4455,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxdushiguaitanzixuan",
+    "id": 30572,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "定向外观装备箱(幽影奇谈)",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 13,
+    "usage": "usage_drop_appointed",
+    "usage_arg": [
+      [
+        9,
+        4438,
+        1
+      ],
+      [
+        9,
+        4439,
+        1
+      ],
+      [
+        9,
+        4440,
+        1
+      ],
+      [
+        9,
+        4441,
+        1
+      ],
+      [
+        9,
+        4442,
+        1
+      ],
+      [
+        9,
+        4443,
+        1
+      ],
+      [
+        9,
+        4444,
+        1
+      ],
+      [
+        9,
+        4445,
+        1
+      ],
+      [
+        9,
+        4446,
+        1
+      ],
+      [
+        9,
+        4447,
+        1
+      ],
+      [
+        9,
+        4448,
+        1
+      ],
+      [
+        9,
+        4449,
+        1
+      ],
+      [
+        9,
+        4450,
+        1
+      ],
+      [
+        9,
+        4451,
+        1
+      ],
+      [
+        9,
+        4452,
+        1
+      ],
+      [
+        9,
+        4453,
+        1
+      ],
+      [
+        9,
+        4454,
+        1
+      ],
+      [
+        9,
+        4455,
+        1
+      ]
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
     "display": "使用后可从T4部件中任意选择一种获得1个",
     "display_effect": "",
     "display_icon": [
@@ -51188,6 +51580,86 @@
     "type": 17,
     "usage": "usage_drop",
     "usage_arg": "4088",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得战斗界面主题 烛影镜台*1,1000物资",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        1,
+        1000
+      ]
+    ],
+    "icon": "ChargeIcon/ui11",
+    "id": 40089,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "烛影镜台主题礼包(基础版)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4089",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得战斗界面主题 烛影镜台*1,3060钻石",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        210,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "icon": "ChargeIcon/ui11",
+    "id": 40090,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "烛影镜台主题礼包(豪华版)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4090",
     "virtual_type": 0
   },
   {
@@ -106385,7 +106857,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:524}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:524}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106414,7 +106886,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106443,7 +106915,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:66}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:66}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106472,7 +106944,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106501,7 +106973,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106530,7 +107002,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106559,7 +107031,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106588,7 +107060,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由威尔士亲王赠与的，作为宴会邀约的回礼",
+    "display": "由威尔士亲王赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -106617,7 +107089,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:67}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:67}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -107363,7 +107835,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由克利夫兰赠与的，作为共度平安夜的回礼",
+    "display": "由克利夫兰赠予的，作为共度平安夜的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/shengye",
@@ -107392,7 +107864,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由宁海赠与的，作为共度平安夜的回礼",
+    "display": "由宁海赠予的，作为共度平安夜的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/shengye",
@@ -107421,7 +107893,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由平海赠与的，作为共度平安夜的回礼",
+    "display": "由平海赠予的，作为共度平安夜的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/shengye",
@@ -107450,7 +107922,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:2}赠与的，作为共度平安夜的回礼",
+    "display": "由{namecode:2}赠予的，作为共度平安夜的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/shengye",
@@ -107479,7 +107951,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由爱丁堡赠与的，作为共度平安夜的回礼",
+    "display": "由爱丁堡赠予的，作为共度平安夜的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/shengye",
@@ -108962,7 +109434,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:524}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:524}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -108991,7 +109463,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109020,7 +109492,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:66}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:66}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109049,7 +109521,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109078,7 +109550,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109107,7 +109579,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109136,7 +109608,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109165,7 +109637,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由威尔士亲王赠与的，作为宴会邀约的回礼",
+    "display": "由威尔士亲王赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -109194,7 +109666,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:67}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:67}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110420,7 +110892,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110449,7 +110921,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110478,7 +110950,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胜利赠与的，作为宴会邀约的回礼",
+    "display": "由胜利赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110507,7 +110979,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110536,7 +111008,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110565,7 +111037,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110594,7 +111066,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110623,7 +111095,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由威尔士亲王赠与的，作为宴会邀约的回礼",
+    "display": "由威尔士亲王赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -110652,7 +111124,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:67}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:67}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111041,7 +111513,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恶毒赠与的，作为宴会邀约的回礼",
+    "display": "由恶毒赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111070,7 +111542,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111099,7 +111571,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111128,7 +111600,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111157,7 +111629,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111186,7 +111658,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111215,7 +111687,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:95}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:95}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111244,7 +111716,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:96}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:96}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -111273,7 +111745,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112764,7 +113236,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:67}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:67}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112793,7 +113265,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由蒙彼利埃赠与的，作为宴会邀约的回礼",
+    "display": "由蒙彼利埃赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112822,7 +113294,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:66}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:66}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112851,7 +113323,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112880,7 +113352,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112909,7 +113381,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由确捷赠与的，作为宴会邀约的回礼",
+    "display": "由确捷赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112938,7 +113410,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由威尔士亲王赠与的，作为宴会邀约的回礼",
+    "display": "由威尔士亲王赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112967,7 +113439,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -112996,7 +113468,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恶毒赠与的，作为宴会邀约的回礼",
+    "display": "由恶毒赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113025,7 +113497,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113054,7 +113526,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113083,7 +113555,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113112,7 +113584,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由企业赠与的，作为宴会邀约的回礼",
+    "display": "由企业赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113141,7 +113613,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113170,7 +113642,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:95}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:95}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113199,7 +113671,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:96}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:96}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113228,7 +113700,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由厌战赠与的，作为宴会邀约的回礼",
+    "display": "由厌战赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113830,7 +114302,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:436}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:436}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113859,7 +114331,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:437}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:437}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113888,7 +114360,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由华盛顿赠与的，作为宴会邀约的回礼",
+    "display": "由华盛顿赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113917,7 +114389,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由胡德赠与的，作为宴会邀约的回礼",
+    "display": "由胡德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113946,7 +114418,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:22}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:22}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -113975,7 +114447,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由蒙彼利埃赠与的，作为宴会邀约的回礼",
+    "display": "由蒙彼利埃赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114004,7 +114476,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由确捷赠与的，作为宴会邀约的回礼",
+    "display": "由确捷赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114033,7 +114505,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恶毒赠与的，作为宴会邀约的回礼",
+    "display": "由恶毒赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114104,7 +114576,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:74}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:74}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114133,7 +114605,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:22}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:22}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114162,7 +114634,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由蒙彼利埃赠与的，作为宴会邀约的回礼",
+    "display": "由蒙彼利埃赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114191,7 +114663,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由巴尔的摩赠与的，作为宴会邀约的回礼",
+    "display": "由巴尔的摩赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114220,7 +114692,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恶毒赠与的，作为宴会邀约的回礼",
+    "display": "由恶毒赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114249,7 +114721,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114278,7 +114750,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114307,7 +114779,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:436}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:436}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114925,7 +115397,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:97}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:97}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114954,7 +115426,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:161}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:161}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -114983,7 +115455,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由华盛顿赠与的，作为宴会邀约的回礼",
+    "display": "由华盛顿赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115012,7 +115484,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恰巴耶夫赠与的，作为宴会邀约的回礼",
+    "display": "由恰巴耶夫赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115041,7 +115513,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115070,7 +115542,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:437}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:437}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115099,7 +115571,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由波拉赠与的，作为宴会邀约的回礼",
+    "display": "由波拉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115128,7 +115600,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恶毒赠与的，作为宴会邀约的回礼",
+    "display": "由恶毒赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115199,7 +115671,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由巴尔的摩赠与的，作为宴会邀约的回礼",
+    "display": "由巴尔的摩赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115228,7 +115700,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由布莱默顿赠与的，作为宴会邀约的回礼",
+    "display": "由布莱默顿赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115257,7 +115729,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由威尔士亲王赠与的，作为宴会邀约的回礼",
+    "display": "由威尔士亲王赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115286,7 +115758,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由黛朵赠与的，作为宴会邀约的回礼",
+    "display": "由黛朵赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115315,7 +115787,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由可畏赠与的，作为宴会邀约的回礼",
+    "display": "由可畏赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115344,7 +115816,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:50}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:50}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115373,7 +115845,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:74}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:74}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115402,7 +115874,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:526}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:526}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115961,7 +116433,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -115990,7 +116462,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:81}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:81}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116019,7 +116491,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:161}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:161}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116048,7 +116520,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116077,7 +116549,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恰巴耶夫赠与的，作为宴会邀约的回礼",
+    "display": "由恰巴耶夫赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116106,7 +116578,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由塔什干赠与的，作为宴会邀约的回礼",
+    "display": "由塔什干赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116135,7 +116607,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:437}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:437}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116164,7 +116636,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:453}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:453}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116235,7 +116707,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116264,7 +116736,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由布莱默顿赠与的，作为宴会邀约的回礼",
+    "display": "由布莱默顿赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116293,7 +116765,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116322,7 +116794,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:470}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:470}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116351,7 +116823,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:50}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:50}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116380,7 +116852,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:74}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:74}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116409,7 +116881,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由苏维埃罗西亚赠与的，作为宴会邀约的回礼",
+    "display": "由苏维埃罗西亚赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116438,7 +116910,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由圣女贞德赠与的，作为宴会邀约的回礼",
+    "display": "由圣女贞德赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -116997,7 +117469,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:97}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:97}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117026,7 +117498,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由苏维埃贝拉罗斯赠与的，作为宴会邀约的回礼",
+    "display": "由苏维埃贝拉罗斯赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117055,7 +117527,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由可畏赠与的，作为宴会邀约的回礼",
+    "display": "由可畏赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117084,7 +117556,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:414}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:414}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117113,7 +117585,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由光辉赠与的，作为宴会邀约的回礼",
+    "display": "由光辉赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117142,7 +117614,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:437}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:437}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117171,7 +117643,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由巴尔的摩赠与的，作为宴会邀约的回礼",
+    "display": "由巴尔的摩赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117200,7 +117672,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由恰巴耶夫赠与的，作为宴会邀约的回礼",
+    "display": "由恰巴耶夫赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117264,7 +117736,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:182}赠与的，作为邀约的回礼",
+    "display": "由{namecode:182}赠予的，作为邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117293,7 +117765,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:199}赠与的，作为邀约的回礼",
+    "display": "由{namecode:199}赠予的，作为邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117364,7 +117836,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由贝尔法斯特赠与的，作为宴会邀约的回礼",
+    "display": "由贝尔法斯特赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117393,7 +117865,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由布莱默顿赠与的，作为宴会邀约的回礼",
+    "display": "由布莱默顿赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117422,7 +117894,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由天狼星赠与的，作为宴会邀约的回礼",
+    "display": "由天狼星赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117451,7 +117923,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:470}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:470}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117480,7 +117952,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:50}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:50}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117509,7 +117981,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由{namecode:161}赠与的，作为宴会邀约的回礼",
+    "display": "由{namecode:161}赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117538,7 +118010,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由塔林赠与的，作为宴会邀约的回礼",
+    "display": "由塔林赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -117567,7 +118039,7 @@
   {
     "combination_display": [],
     "compose_number": 0,
-    "display": "由霞飞赠与的，作为宴会邀约的回礼",
+    "display": "由霞飞赠予的，作为宴会邀约的回礼",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/yaoqinghan",
@@ -118358,6 +118830,48 @@
   {
     "combination_display": [],
     "compose_number": 0,
+    "display": "使用后可以邀请一名特定对象参加宴会（获得指定角色）",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 60599,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "庆典邀请函",
+    "open_directly": 0,
+    "open_ui": [
+      "login_year",
+      "t_ninth_jp"
+    ],
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 21,
+    "usage": "usage_invitation",
+    "usage_arg": [
+      3501,
+      3502,
+      3503,
+      3504,
+      3505,
+      3506,
+      3507,
+      3508
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
     "display": "为提高作战效率而设计的特别指令书，在部分常规关卡的周回模式下可以使用。使用后本轮作战中所用石油与心情消耗增加一倍，战后所有获得收益也增加一倍。",
     "display_effect": "",
     "display_icon": [],
@@ -118382,6 +118896,238 @@
     "type": 19,
     "usage": "usage_special_operation",
     "usage_arg": "[5,8,9,47,48]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由光辉处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62000,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "光辉的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由黛朵处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62001,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "黛朵的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由{namecode:95}处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62002,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "{namecode:95}的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由{namecode:27}处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62003,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "{namecode:27}的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由里诺处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62004,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "里诺的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由{namecode:453}处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62005,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "{namecode:453}的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由霞飞处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62006,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "霞飞的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "由基洛夫处收到的，作为宴会邀约的回礼",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/yaoqinghan",
+    "id": 62007,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "基洛夫的回礼",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 9,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
     "virtual_type": 0
   },
   {
@@ -130708,6 +131454,339 @@
   {
     "combination_display": [],
     "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>光辉</color>换装<color=#92fc63FF>幽影徘徊之夜</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68352,
+        1
+      ],
+      [
+        2,
+        68355,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68349,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(幽影徘徊之夜)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88250",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>{namecode:315}</color>换装<color=#92fc63FF>午夜的瑰色电梯</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68353,
+        1
+      ],
+      [
+        2,
+        68356,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68350,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(午夜的瑰色电梯)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88251",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>{namecode:531}</color>换装<color=#92fc63FF>午夜频道</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68354,
+        1
+      ],
+      [
+        2,
+        68357,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68351,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(午夜频道)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88252",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>光辉</color>换装<color=#92fc63FF>幽影徘徊之夜</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68352,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(幽影徘徊之夜)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71403
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>{namecode:315}</color>换装<color=#92fc63FF>午夜的瑰色电梯</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68353,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(午夜的瑰色电梯)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71398
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>{namecode:531}</color>换装<color=#92fc63FF>午夜频道</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68354,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(午夜频道)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71402
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>光辉</color>换装<color=#92fc63FF>幽影徘徊之夜</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68355,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(幽影徘徊之夜)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90528
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>{namecode:315}</color>换装<color=#92fc63FF>午夜的瑰色电梯</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68356,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(午夜的瑰色电梯)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90529
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>{namecode:531}</color>换装<color=#92fc63FF>午夜频道</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年9月16日23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68357,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(午夜频道)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90530
+    ],
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
     "display": "有几率获得随机科技箱T4",
     "display_effect": "",
     "display_icon": [
@@ -133700,6 +134779,71 @@
     "type": 17,
     "usage": "usage_drop",
     "usage_arg": "998577",
+    "virtual_type": 0
+  },
+  {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得随机换装*1，钻石*2026，心智单元*50，心智魔方*20，高级定向蓝图·九期*2，快速完成工具*10，家具币*100",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        86230,
+        1
+      ],
+      [
+        1,
+        14,
+        2026
+      ],
+      [
+        2,
+        42086,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "icon": "Props/fudai38",
+    "id": 81238,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "幽影迷城换装礼盒I",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "998333",
     "virtual_type": 0
   },
   {

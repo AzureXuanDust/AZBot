@@ -119,7 +119,7 @@
   {
     "background": "200",
     "name": "速达商店交流1群",
-    "nationality": 12,
+    "nationality": 13,
     "sculpture": "203",
     "sculpture_ii": "",
     "ship_group": 203,
@@ -1495,6 +1495,15 @@
   },
   {
     "background": "",
+    "name": "Hostile",
+    "nationality": 2,
+    "sculpture": "didui",
+    "sculpture_ii": "",
+    "ship_group": 20119,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Hunter",
     "nationality": 0,
     "sculpture": "lieren",
@@ -1608,6 +1617,15 @@
     "sculpture": "yongqi_2",
     "sculpture_ii": "",
     "ship_group": 20139,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Hasty",
+    "nationality": 2,
+    "sculpture": "congmang",
+    "sculpture_ii": "",
+    "ship_group": 20140,
     "type": 1
   },
   {
@@ -1860,6 +1878,15 @@
     "sculpture": "huali",
     "sculpture_ii": "",
     "ship_group": 20237,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Tiger",
+    "nationality": 2,
+    "sculpture": "hu",
+    "sculpture_ii": "",
+    "ship_group": 20238,
     "type": 1
   },
   {
@@ -2413,6 +2440,15 @@
   },
   {
     "background": "",
+    "name": "Nowaki",
+    "nationality": 3,
+    "sculpture": "yefen",
+    "sculpture_ii": "",
+    "ship_group": 30120,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Hatsuharu",
     "nationality": 0,
     "sculpture": "chuchun",
@@ -2517,6 +2553,15 @@
     "sculpture": "wenyue",
     "sculpture_ii": "",
     "ship_group": 30138,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Nagatsuki",
+    "nationality": 3,
+    "sculpture": "changyue",
+    "sculpture_ii": "",
+    "ship_group": 30139,
     "type": 1
   },
   {
@@ -2944,6 +2989,15 @@
   },
   {
     "background": "",
+    "name": "Kako",
+    "nationality": 3,
+    "sculpture": "jiagu",
+    "sculpture_ii": "",
+    "ship_group": 30302,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "REPORTER_AOBA",
     "nationality": 0,
     "sculpture": "qingye",
@@ -3106,6 +3160,15 @@
   },
   {
     "background": "",
+    "name": "Azuchi",
+    "nationality": 3,
+    "sculpture": "antu",
+    "sculpture_ii": "",
+    "ship_group": 30409,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Fusō",
     "nationality": 0,
     "sculpture": "fusang",
@@ -3219,6 +3282,15 @@
     "sculpture": "jinjiang",
     "sculpture_ii": "",
     "ship_group": 30516,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Jun'yō",
+    "nationality": 3,
+    "sculpture": "sunying",
+    "sculpture_ii": "",
+    "ship_group": 30602,
     "type": 1
   },
   {
@@ -3439,11 +3511,29 @@
   },
   {
     "background": "",
+    "name": "I13",
+    "nationality": 3,
+    "sculpture": "I13",
+    "sculpture_ii": "",
+    "ship_group": 31701,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "I404 ",
     "nationality": 3,
     "sculpture": "i404",
     "sculpture_ii": "",
     "ship_group": 31702,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "I14",
+    "nationality": 3,
+    "sculpture": "I14",
+    "sculpture_ii": "",
+    "ship_group": 31703,
     "type": 1
   },
   {
@@ -3516,6 +3606,15 @@
     "sculpture": "dashan_2",
     "sculpture_ii": "",
     "ship_group": 39907,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Takahashi",
+    "nationality": 3,
+    "sculpture": "gaoliang",
+    "sculpture_ii": "",
+    "ship_group": 39908,
     "type": 1
   },
   {

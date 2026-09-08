@@ -97114,6 +97114,518 @@
     "armor_type": 1,
     "attack_duration": 0,
     "attrs": [
+      236,
+      16,
+      72,
+      29,
+      0,
+      75,
+      0,
+      73,
+      78,
+      43.2,
+      28,
+      47
+    ],
+    "attrs_growth": [
+      6717,
+      219,
+      912,
+      629,
+      0,
+      523,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      542
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hostile",
+    "equipment_proficiency": [
+      1.1,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201191,
+    "lock": [
+      "air"
+    ],
+    "name": "敌对",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201190,
+    "star": 2,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      294,
+      20,
+      90,
+      36,
+      0,
+      75,
+      0,
+      73,
+      78,
+      43.2,
+      28,
+      59
+    ],
+    "attrs_growth": [
+      6717,
+      219,
+      912,
+      629,
+      0,
+      523,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      542
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hostile",
+    "equipment_proficiency": [
+      1.15,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201192,
+    "lock": [
+      "air"
+    ],
+    "name": "敌对",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201190,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      409,
+      28,
+      125,
+      50,
+      0,
+      75,
+      0,
+      73,
+      78,
+      43.2,
+      28,
+      82
+    ],
+    "attrs_growth": [
+      6717,
+      219,
+      912,
+      629,
+      0,
+      523,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      542
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hostile",
+    "equipment_proficiency": [
+      1.25,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201193,
+    "lock": [
+      "air"
+    ],
+    "name": "敌对",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201190,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      581,
+      39,
+      178,
+      71,
+      0,
+      75,
+      0,
+      73,
+      78,
+      43.2,
+      28,
+      117
+    ],
+    "attrs_growth": [
+      6717,
+      219,
+      912,
+      629,
+      0,
+      523,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      542
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hostile",
+    "equipment_proficiency": [
+      1.3,
+      1.35,
+      1.05
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201194,
+    "lock": [
+      "air"
+    ],
+    "name": "敌对",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201190,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
       221,
       14,
       67,
@@ -105850,6 +106362,518 @@
     "armor_type": 1,
     "attack_duration": 0,
     "attrs": [
+      228,
+      15,
+      68,
+      33,
+      0,
+      77,
+      0,
+      73,
+      78,
+      43.2,
+      35,
+      50
+    ],
+    "attrs_growth": [
+      6483,
+      213,
+      882,
+      718,
+      0,
+      534,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      574
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hasty",
+    "equipment_proficiency": [
+      1.1,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180004,
+      180006
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201401,
+    "lock": [
+      "air"
+    ],
+    "name": "匆忙",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201400,
+    "star": 2,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      284,
+      19,
+      85,
+      41,
+      0,
+      77,
+      0,
+      73,
+      78,
+      43.2,
+      35,
+      62
+    ],
+    "attrs_growth": [
+      6483,
+      213,
+      882,
+      718,
+      0,
+      534,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      574
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hasty",
+    "equipment_proficiency": [
+      1.15,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180004,
+      180006
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201402,
+    "lock": [
+      "air"
+    ],
+    "name": "匆忙",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201400,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      395,
+      26,
+      119,
+      57,
+      0,
+      77,
+      0,
+      73,
+      78,
+      43.2,
+      35,
+      87
+    ],
+    "attrs_growth": [
+      6483,
+      213,
+      882,
+      718,
+      0,
+      534,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      574
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hasty",
+    "equipment_proficiency": [
+      1.25,
+      1.3,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180004,
+      180006
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201403,
+    "lock": [
+      "air"
+    ],
+    "name": "匆忙",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201400,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      561,
+      38,
+      170,
+      81,
+      0,
+      77,
+      0,
+      73,
+      78,
+      43.2,
+      35,
+      125
+    ],
+    "attrs_growth": [
+      6483,
+      213,
+      882,
+      718,
+      0,
+      534,
+      0,
+      1125,
+      1428,
+      0,
+      0,
+      574
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hasty",
+    "equipment_proficiency": [
+      1.3,
+      1.35,
+      1.05
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180004,
+      180006
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201404,
+    "lock": [
+      "air"
+    ],
+    "name": "匆忙",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201400,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
       544,
       30,
       169,
@@ -106091,6 +107115,135 @@
     "summon_offset": 0,
     "tag_list": [
       "G-Class"
+    ],
+    "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      603,
+      37,
+      176,
+      72,
+      0,
+      74,
+      0,
+      72,
+      78,
+      43.2,
+      40,
+      117
+    ],
+    "attrs_growth": [
+      6968,
+      207,
+      904,
+      642,
+      0,
+      513,
+      0,
+      1112,
+      1428,
+      0,
+      0,
+      542
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      2,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      100,
+      107,
+      104
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Hardy",
+    "equipment_proficiency": [
+      1.3,
+      1.35,
+      1.05
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180009,
+      180008
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 201534,
+    "lock": [
+      "air"
+    ],
+    "name": "勇敢.改",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 4,
+    "scale": 100,
+    "skin_id": 201160,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "H-Class",
+      "Hardy"
     ],
     "type": 1
   },
@@ -124479,6 +125632,522 @@
     "tag_list": [
       "Swiftsure-Class",
       "Superb"
+    ],
+    "type": 2
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      806,
+      36,
+      0,
+      80,
+      0,
+      78,
+      0,
+      60,
+      29,
+      31.5,
+      65,
+      40
+    ],
+    "attrs_growth": [
+      22975,
+      498,
+      0,
+      1633,
+      0,
+      541,
+      0,
+      886,
+      579,
+      0,
+      0,
+      466
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      101,
+      101,
+      104
+    ],
+    "depth_charge_list": [
+      147
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      1.15,
+      1.15,
+      1.4
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180005,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 202381,
+    "lock": [
+      "air",
+      "torpedo"
+    ],
+    "name": "虎",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 202380,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
+    ],
+    "type": 2
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      1003,
+      45,
+      0,
+      100,
+      0,
+      78,
+      0,
+      60,
+      29,
+      31.5,
+      65,
+      50
+    ],
+    "attrs_growth": [
+      22975,
+      498,
+      0,
+      1633,
+      0,
+      541,
+      0,
+      886,
+      579,
+      0,
+      0,
+      466
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      101,
+      101,
+      104
+    ],
+    "depth_charge_list": [
+      147
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      1.2,
+      1.2,
+      1.4
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180005,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 202382,
+    "lock": [
+      "air",
+      "torpedo"
+    ],
+    "name": "虎",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 202380,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
+    ],
+    "type": 2
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      1396,
+      63,
+      0,
+      139,
+      0,
+      78,
+      0,
+      60,
+      29,
+      31.5,
+      65,
+      69
+    ],
+    "attrs_growth": [
+      22975,
+      498,
+      0,
+      1633,
+      0,
+      541,
+      0,
+      886,
+      579,
+      0,
+      0,
+      466
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      101,
+      101,
+      104
+    ],
+    "depth_charge_list": [
+      147
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      1.2,
+      1.2,
+      1.5
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180005,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 202383,
+    "lock": [
+      "air",
+      "torpedo"
+    ],
+    "name": "虎",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 202380,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
+    ],
+    "type": 2
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      1986,
+      89,
+      0,
+      197,
+      0,
+      78,
+      0,
+      60,
+      29,
+      31.5,
+      65,
+      99
+    ],
+    "attrs_growth": [
+      22975,
+      498,
+      0,
+      1633,
+      0,
+      541,
+      0,
+      886,
+      579,
+      0,
+      0,
+      466
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      101,
+      101,
+      104
+    ],
+    "depth_charge_list": [
+      147
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      1.35,
+      1.35,
+      1.5
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180005,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 202384,
+    "lock": [
+      "air",
+      "torpedo"
+    ],
+    "name": "虎",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 202380,
+    "star": 6,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
     ],
     "type": 2
   },
@@ -212593,6 +214262,514 @@
     "armor_type": 3,
     "attack_duration": 0,
     "attrs": [
+      1330,
+      88,
+      69,
+      50,
+      0,
+      65,
+      0,
+      26,
+      8,
+      30,
+      50,
+      0
+    ],
+    "attrs_growth": [
+      37898,
+      1060,
+      884,
+      1091,
+      0,
+      450,
+      0,
+      379,
+      246,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      103,
+      101,
+      104
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN Azuchi",
+    "equipment_proficiency": [
+      1.25,
+      2,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180007
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 304091,
+    "lock": [
+      "air",
+      "antisub"
+    ],
+    "name": "安土",
+    "nationality": 3,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 304090,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Azuchi"
+    ],
+    "type": 4
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      1654,
+      110,
+      86,
+      62,
+      0,
+      65,
+      0,
+      26,
+      8,
+      30,
+      50,
+      0
+    ],
+    "attrs_growth": [
+      37898,
+      1060,
+      884,
+      1091,
+      0,
+      450,
+      0,
+      379,
+      246,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      103,
+      101,
+      104
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN Azuchi",
+    "equipment_proficiency": [
+      1.3,
+      2,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180007
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 304092,
+    "lock": [
+      "air",
+      "antisub"
+    ],
+    "name": "安土",
+    "nationality": 3,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 304090,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Azuchi"
+    ],
+    "type": 4
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      2303,
+      153,
+      120,
+      87,
+      0,
+      65,
+      0,
+      26,
+      8,
+      30,
+      50,
+      0
+    ],
+    "attrs_growth": [
+      37898,
+      1060,
+      884,
+      1091,
+      0,
+      450,
+      0,
+      379,
+      246,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      3,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      103,
+      101,
+      104
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN Azuchi",
+    "equipment_proficiency": [
+      1.4,
+      2,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180007
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 304093,
+    "lock": [
+      "air",
+      "antisub"
+    ],
+    "name": "安土",
+    "nationality": 3,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 304090,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Azuchi"
+    ],
+    "type": 4
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      3277,
+      219,
+      171,
+      124,
+      0,
+      65,
+      0,
+      26,
+      8,
+      30,
+      50,
+      0
+    ],
+    "attrs_growth": [
+      37898,
+      1060,
+      884,
+      1091,
+      0,
+      450,
+      0,
+      379,
+      246,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      3,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      103,
+      101,
+      104
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN Azuchi",
+    "equipment_proficiency": [
+      1.55,
+      2,
+      1
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180006,
+      180007
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 304094,
+    "lock": [
+      "air",
+      "antisub"
+    ],
+    "name": "安土",
+    "nationality": 3,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 304090,
+    "star": 6,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Azuchi"
+    ],
+    "type": 4
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
       1143,
       74,
       0,
@@ -242604,6 +244781,1026 @@
     "tag_list": [
       "I Type-submarine",
       "I404"
+    ],
+    "type": 17
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 2,
+    "armor_type": 1,
+    "attack_duration": 5,
+    "attrs": [
+      428,
+      10,
+      98,
+      0,
+      47,
+      40,
+      0,
+      59,
+      7,
+      16.7,
+      28,
+      0
+    ],
+    "attrs_growth": [
+      12205,
+      139,
+      1176,
+      0,
+      643,
+      277,
+      0,
+      870,
+      234,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      140,
+      140,
+      144
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN I14",
+    "equipment_proficiency": [
+      1.2,
+      1,
+      1.5,
+      0.3
+    ],
+    "fix_equip_list": [
+      100
+    ],
+    "gift_dislike": [
+      180004,
+      180008
+    ],
+    "hunting_range": [
+      [
+        [
+          -2,
+          -2
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -1,
+          -2
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          -2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          -2
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      [
+        [
+          -2,
+          -1
+        ],
+        [
+          -2,
+          1
+        ],
+        [
+          -2,
+          2
+        ]
+      ],
+      [
+        [
+          -3,
+          -1
+        ],
+        [
+          -3,
+          1
+        ]
+      ]
+    ],
+    "huntingrange_level": 1,
+    "id": 317031,
+    "lock": [
+      "antiaircraft",
+      "antisub"
+    ],
+    "name": "伊14",
+    "nationality": 3,
+    "oxy_cost": 10,
+    "oxy_max": 198,
+    "oxy_recovery": 4,
+    "oxy_recovery_bench": 8,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 30,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 317030,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": -10,
+    "tag_list": [
+      "I Type-submarine"
+    ],
+    "type": 17
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 2,
+    "armor_type": 1,
+    "attack_duration": 5,
+    "attrs": [
+      533,
+      13,
+      122,
+      0,
+      59,
+      40,
+      0,
+      59,
+      7,
+      16.7,
+      28,
+      0
+    ],
+    "attrs_growth": [
+      12205,
+      139,
+      1176,
+      0,
+      643,
+      277,
+      0,
+      870,
+      234,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      140,
+      140,
+      144
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN I14",
+    "equipment_proficiency": [
+      1.25,
+      1.05,
+      1.5,
+      0.3
+    ],
+    "fix_equip_list": [
+      100
+    ],
+    "gift_dislike": [
+      180004,
+      180008
+    ],
+    "hunting_range": [
+      [
+        [
+          -2,
+          -2
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -1,
+          -2
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          -2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          -2
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      [
+        [
+          -2,
+          -1
+        ],
+        [
+          -2,
+          1
+        ],
+        [
+          -2,
+          2
+        ]
+      ],
+      [
+        [
+          -3,
+          -1
+        ],
+        [
+          -3,
+          1
+        ]
+      ]
+    ],
+    "huntingrange_level": 1,
+    "id": 317032,
+    "lock": [
+      "antiaircraft",
+      "antisub"
+    ],
+    "name": "伊14",
+    "nationality": 3,
+    "oxy_cost": 10,
+    "oxy_max": 198,
+    "oxy_recovery": 4,
+    "oxy_recovery_bench": 8,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 30,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 317030,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": -10,
+    "tag_list": [
+      "I Type-submarine"
+    ],
+    "type": 17
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 2,
+    "armor_type": 1,
+    "attack_duration": 5,
+    "attrs": [
+      742,
+      18,
+      171,
+      0,
+      82,
+      40,
+      0,
+      59,
+      7,
+      16.7,
+      28,
+      0
+    ],
+    "attrs_growth": [
+      12205,
+      139,
+      1176,
+      0,
+      643,
+      277,
+      0,
+      870,
+      234,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      2,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      140,
+      140,
+      144
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN I14",
+    "equipment_proficiency": [
+      1.25,
+      1.05,
+      1.5,
+      0.3
+    ],
+    "fix_equip_list": [
+      100
+    ],
+    "gift_dislike": [
+      180004,
+      180008
+    ],
+    "hunting_range": [
+      [
+        [
+          -2,
+          -2
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -1,
+          -2
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          -2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          -2
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      [
+        [
+          -2,
+          -1
+        ],
+        [
+          -2,
+          1
+        ],
+        [
+          -2,
+          2
+        ]
+      ],
+      [
+        [
+          -3,
+          -1
+        ],
+        [
+          -3,
+          1
+        ]
+      ]
+    ],
+    "huntingrange_level": 2,
+    "id": 317033,
+    "lock": [
+      "antiaircraft",
+      "antisub"
+    ],
+    "name": "伊14",
+    "nationality": 3,
+    "oxy_cost": 10,
+    "oxy_max": 198,
+    "oxy_recovery": 4,
+    "oxy_recovery_bench": 8,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 30,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 317030,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": -10,
+    "tag_list": [
+      "I Type-submarine"
+    ],
+    "type": 17
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 2,
+    "armor_type": 1,
+    "attack_duration": 5,
+    "attrs": [
+      1055,
+      25,
+      244,
+      0,
+      116,
+      40,
+      0,
+      59,
+      7,
+      16.7,
+      28,
+      0
+    ],
+    "attrs_growth": [
+      12205,
+      139,
+      1176,
+      0,
+      643,
+      277,
+      0,
+      870,
+      234,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      2,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      140,
+      140,
+      144
+    ],
+    "depth_charge_list": [],
+    "english_name": "IJN I14",
+    "equipment_proficiency": [
+      1.35,
+      1.15,
+      1.5,
+      0.3
+    ],
+    "fix_equip_list": [
+      100
+    ],
+    "gift_dislike": [
+      180004,
+      180008
+    ],
+    "hunting_range": [
+      [
+        [
+          -2,
+          -2
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -1,
+          -2
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          -2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          -2
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      [
+        [
+          -2,
+          -1
+        ],
+        [
+          -2,
+          1
+        ],
+        [
+          -2,
+          2
+        ]
+      ],
+      [
+        [
+          -3,
+          -1
+        ],
+        [
+          -3,
+          1
+        ]
+      ]
+    ],
+    "huntingrange_level": 2,
+    "id": 317034,
+    "lock": [
+      "antiaircraft",
+      "antisub"
+    ],
+    "name": "伊14",
+    "nationality": 3,
+    "oxy_cost": 10,
+    "oxy_max": 198,
+    "oxy_recovery": 4,
+    "oxy_recovery_bench": 8,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 30,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 317030,
+    "star": 6,
+    "strategy_list": [],
+    "summon_offset": -10,
+    "tag_list": [
+      "I Type-submarine"
     ],
     "type": 17
   },
@@ -434000,6 +437197,139 @@
     "armor_type": 1,
     "attack_duration": 0,
     "attrs": [
+      3794,
+      219,
+      0,
+      119,
+      0,
+      61,
+      0,
+      19,
+      8,
+      30,
+      41,
+      0
+    ],
+    "attrs_growth": [
+      41664,
+      1064,
+      0,
+      1044,
+      0,
+      426,
+      0,
+      307,
+      217,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      2,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      90173,
+      96033,
+      90633
+    ],
+    "depth_charge_list": [
+      141
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      0.85,
+      1.5,
+      1.05
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180009,
+      180005
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 900559,
+    "lock": [
+      "air"
+    ],
+    "name": "虎（后排）",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      1,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 9702060,
+    "star": 6,
+    "strategy_list": [
+      [
+        18,
+        1
+      ]
+    ],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
+    ],
+    "type": 4
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
       727,
       35,
       232,
@@ -435897,6 +439227,135 @@
       "II"
     ],
     "type": 1
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 1,
+    "attack_duration": 0,
+    "attrs": [
+      1986,
+      89,
+      0,
+      197,
+      0,
+      78,
+      0,
+      60,
+      29,
+      31.5,
+      65,
+      99
+    ],
+    "attrs_growth": [
+      22975,
+      498,
+      0,
+      1633,
+      0,
+      541,
+      0,
+      886,
+      579,
+      0,
+      0,
+      466
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.3",
+    "base_list": [
+      1,
+      1,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      101,
+      101,
+      104
+    ],
+    "depth_charge_list": [
+      147
+    ],
+    "english_name": "HMS Tiger",
+    "equipment_proficiency": [
+      1.35,
+      1.35,
+      1.5
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180005,
+      180009
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 900815,
+    "lock": [
+      "air",
+      "torpedo"
+    ],
+    "name": "虎",
+    "nationality": 2,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 6,
+    "scale": 100,
+    "skin_id": 202380,
+    "star": 6,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Tiger"
+    ],
+    "type": 2
   },
   {
     "aim_offset": [
@@ -497847,6 +501306,518 @@
       "YorktownMETA",
       "TOC",
       "Yorktown"
+    ],
+    "type": 7
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      1086,
+      0,
+      0,
+      58,
+      83,
+      40,
+      0,
+      24,
+      10,
+      31,
+      82,
+      0
+    ],
+    "attrs_growth": [
+      19815,
+      0,
+      0,
+      763,
+      1014,
+      276,
+      0,
+      343,
+      274,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.5",
+    "base_list": [
+      1,
+      1,
+      1
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      113,
+      115,
+      114
+    ],
+    "depth_charge_list": [],
+    "english_name": "Victorious.META",
+    "equipment_proficiency": [
+      1.1,
+      1.2,
+      1.2
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180007,
+      180008
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 9707091,
+    "lock": [
+      "cannon",
+      "torpedo",
+      "antisub"
+    ],
+    "name": "胜利·META",
+    "nationality": 97,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 9707090,
+    "star": 3,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Armor-CV"
+    ],
+    "type": 7
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      1351,
+      0,
+      0,
+      72,
+      103,
+      40,
+      0,
+      24,
+      10,
+      31,
+      82,
+      0
+    ],
+    "attrs_growth": [
+      19815,
+      0,
+      0,
+      763,
+      1014,
+      276,
+      0,
+      343,
+      274,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.5",
+    "base_list": [
+      1,
+      1,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      113,
+      115,
+      114
+    ],
+    "depth_charge_list": [],
+    "english_name": "Victorious.META",
+    "equipment_proficiency": [
+      1.12,
+      1.22,
+      1.22
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180007,
+      180008
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 9707092,
+    "lock": [
+      "cannon",
+      "torpedo",
+      "antisub"
+    ],
+    "name": "胜利·META",
+    "nationality": 97,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 9707090,
+    "star": 4,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Armor-CV"
+    ],
+    "type": 7
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      1881,
+      0,
+      0,
+      101,
+      144,
+      40,
+      0,
+      24,
+      10,
+      31,
+      82,
+      0
+    ],
+    "attrs_growth": [
+      19815,
+      0,
+      0,
+      763,
+      1014,
+      276,
+      0,
+      343,
+      274,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.5",
+    "base_list": [
+      1,
+      2,
+      2
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      113,
+      115,
+      114
+    ],
+    "depth_charge_list": [],
+    "english_name": "Victorious.META",
+    "equipment_proficiency": [
+      1.15,
+      1.25,
+      1.25
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180007,
+      180008
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 9707093,
+    "lock": [
+      "cannon",
+      "torpedo",
+      "antisub"
+    ],
+    "name": "胜利·META",
+    "nationality": 97,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 9707090,
+    "star": 5,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Armor-CV"
+    ],
+    "type": 7
+  },
+  {
+    "aim_offset": [
+      0,
+      0,
+      0
+    ],
+    "ammo": 0,
+    "armor_type": 3,
+    "attack_duration": 0,
+    "attrs": [
+      2676,
+      0,
+      0,
+      144,
+      206,
+      40,
+      0,
+      24,
+      10,
+      31,
+      82,
+      0
+    ],
+    "attrs_growth": [
+      19815,
+      0,
+      0,
+      763,
+      1014,
+      276,
+      0,
+      343,
+      274,
+      0,
+      0,
+      0
+    ],
+    "attrs_growth_extra": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "backyard_speed": "0.5",
+    "base_list": [
+      2,
+      3,
+      3
+    ],
+    "cld_box": [
+      4,
+      5,
+      5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "default_equip_list": [
+      113,
+      115,
+      114
+    ],
+    "depth_charge_list": [],
+    "english_name": "Victorious.META",
+    "equipment_proficiency": [
+      1.2,
+      1.3,
+      1.3
+    ],
+    "fix_equip_list": [],
+    "gift_dislike": [
+      180007,
+      180008
+    ],
+    "hunting_range": [
+      []
+    ],
+    "huntingrange_level": 0,
+    "id": 9707094,
+    "lock": [
+      "cannon",
+      "torpedo",
+      "antisub"
+    ],
+    "name": "胜利·META",
+    "nationality": 97,
+    "oxy_cost": 0,
+    "oxy_max": 0,
+    "oxy_recovery": 0,
+    "oxy_recovery_bench": 0,
+    "oxy_recovery_surface": 0,
+    "parallel_max": [
+      1,
+      1,
+      1
+    ],
+    "position_offset": [
+      0,
+      0,
+      0
+    ],
+    "preload_count": [
+      0,
+      0,
+      0
+    ],
+    "raid_distance": 0,
+    "rarity": 5,
+    "scale": 100,
+    "skin_id": 9707090,
+    "star": 6,
+    "strategy_list": [],
+    "summon_offset": 0,
+    "tag_list": [
+      "Armor-CV"
     ],
     "type": 7
   },

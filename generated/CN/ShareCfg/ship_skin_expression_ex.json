@@ -1885,6 +1885,69 @@
     "upgrade": [],
     "win_mvp": []
   },
+  "antu": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "6"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "1|2|7|1"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "antu",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "7"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "6"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
+  },
   "aoding": {
     "battle": [],
     "detail": [
@@ -4527,6 +4590,69 @@
       ]
     ]
   },
+  "congmang": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "3|2|3"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "congmang",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
+  },
   "dadan": {
     "battle": [],
     "detail": [
@@ -5236,6 +5362,79 @@
     ],
     "upgrade": [],
     "win_mvp": []
+  },
+  "didui": {
+    "battle": "",
+    "detail": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "6|6|6"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "didui",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "9"
+      ]
+    ],
+    "upgrade": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "win_mvp": ""
   },
   "digaiteluyin": {
     "battle": [],
@@ -8165,6 +8364,147 @@
     "upgrade": [],
     "win_mvp": []
   },
+  "guanghui": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "4|3|"
+      ]
+    ],
+    "mission": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "mission_complete": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "painting": "guanghui",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
+  },
+  "guanghui_younv": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "3|3|"
+      ]
+    ],
+    "mission": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "mission_complete": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "painting": "guanghui_younv",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "touch2": "",
+    "upgrade": "",
+    "win_mvp": ""
+  },
   "gubixuefu": {
     "battle": [
       [
@@ -9626,6 +9966,74 @@
     "upgrade": [],
     "win_mvp": []
   },
+  "hu": {
+    "battle": "",
+    "detail": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "9"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "7"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "4|5|2|1"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "hu",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
+  },
   "huajia": {
     "battle": [
       [
@@ -10643,6 +11051,74 @@
     ],
     "upgrade": [],
     "win_mvp": []
+  },
+  "i14": {
+    "battle": "",
+    "detail": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "6"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "5"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "2|3|6"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "i14",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
   },
   "I404": {
     "battle": [],
@@ -14594,6 +15070,69 @@
     "upgrade": [],
     "win_mvp": []
   },
+  "lieren": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "|3|3"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "lieren",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
+  },
   "lila": {
     "battle": [
       [
@@ -16814,6 +17353,69 @@
         "6"
       ]
     ]
+  },
+  "mingshi": {
+    "battle": "",
+    "detail": "",
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "||4"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "mingshi",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        ""
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "3"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
   },
   "moermansike": {
     "battle": [],
@@ -20128,6 +20730,74 @@
         "4"
       ]
     ]
+  },
+  "shengli": {
+    "battle": "",
+    "detail": [
+      [
+        1100,
+        "1"
+      ]
+    ],
+    "expedition": "",
+    "feeling1": "",
+    "feeling2": "",
+    "feeling3": "",
+    "feeling4": "",
+    "feeling5": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "headtouch": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "home": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "login": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "lose": "",
+    "mail": "",
+    "main_1": "",
+    "main_2": "",
+    "main_3": "",
+    "main_ex": [
+      [
+        1100,
+        "|2|1"
+      ]
+    ],
+    "mission": "",
+    "mission_complete": "",
+    "painting": "shengli",
+    "profile": "",
+    "skill": "",
+    "touch": [
+      [
+        1100,
+        "4"
+      ]
+    ],
+    "touch2": [
+      [
+        1100,
+        "2"
+      ]
+    ],
+    "upgrade": "",
+    "win_mvp": ""
   },
   "shengmading": {
     "battle": [],
