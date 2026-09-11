@@ -8,13 +8,23 @@ import { LuaParseError, LuaTable, extractReturnTable, iterAssignments, iterRootT
 export class CollectError extends Error {}
 
 export class Collector {
-  constructor(luaRoot, templateRoot, outRoot, hints) {
+  constructor(luaRoot, templateRoot, outRoot, hints, includeNew = false) {
     this.luaRoot = luaRoot;
     this.templateRoot = templateRoot;
     this.outRoot = outRoot;
     this.hints = hints;
+    this.includeNew = includeNew;
     this.warnings = [];
+    this.newFiles = [];
     this.concurrency = Math.max(2, Math.min(availableParallelism?.() ?? 4, 8));
+  }
+
+  // includeNew 模式下，lua 仓库里有、模板目录里没有的文件也收集输出。
+  // 新文件注册进 hints.files，让 applyBelfastFormat 的后处理
+  // （尤其 pruneTemplateExtraFiles）把它们当已知文件对待。
+  registerNewFile(rel) {
+    this.hints.files.add(rel);
+    this.newFiles.push(rel);
   }
 
   async collectServer(server, samples = false) {
@@ -35,6 +45,20 @@ export class Collector {
     const gameNames = gameFiles.length > 0
       ? gameFiles.map((rel) => path.basename(rel, '.json'))
       : ['buff', 'skill', 'card', 'dorm', 'dungeon', 'story', 'storyjp'];
+    if (this.includeNew) {
+      const gamecfgRoot = path.join(luaServer, 'gamecfg');
+      if (await exists(gamecfgRoot)) {
+        const known = new Set(gameNames.map((name) => name.toLowerCase()));
+        const entries = await fs.readdir(gamecfgRoot, { withFileTypes: true });
+        for (const entry of entries) {
+          if (!entry.isDirectory()) continue;
+          if (known.has(entry.name.toLowerCase())) continue;
+          known.add(entry.name.toLowerCase());
+          gameNames.push(entry.name);
+        }
+        gameNames.sort();
+      }
+    }
     for (const name of gameNames) {
       await this.collectGamecfgDir(server, name);
     }
@@ -69,10 +93,20 @@ export class Collector {
     const templateFiles = this.hints.serverFiles(server, 'ShareCfg');
     if (templateFiles.length > 0) {
       const luaFiles = await filesByLowerStem(src);
+      const known = new Set(templateFiles
+        .filter((rel) => rel.startsWith('ShareCfg/'))
+        .map((rel) => path.basename(rel, '.json').toLowerCase()));
       const targets = templateFiles
         .filter((rel) => rel.startsWith('ShareCfg/'))
         .map((rel) => path.basename(rel, '.json'))
         .map((stem) => luaFiles.get(stem.toLowerCase()) ?? path.join(src, `${stem}.lua`));
+      if (this.includeNew) {
+        for (const file of await listDirFiles(src, '.lua')) {
+          if (known.has(stemOf(file).toLowerCase())) continue;
+          if (await this.isSharecfgSplitFile(server, src, file)) continue;
+          targets.push(file);
+        }
+      }
       await mapLimit(targets, this.concurrency, (file) => this.collectSharecfgFile(server, file));
       return;
     }
@@ -88,7 +122,10 @@ export class Collector {
     const stem = stemOf(filePath);
     const outputName = this.hints.sharecfgOutputName(server, stem);
     const rel = this.rel(server, 'ShareCfg', `${outputName}.json`);
-    if (!this.hints.hasFile(rel) && !this.isRequiredRootDependency(rel)) return;
+    if (!this.hints.hasFile(rel) && !this.isRequiredRootDependency(rel)) {
+      if (!this.includeNew) return;
+      this.registerNewFile(rel);
+    }
     if (!(await exists(filePath))) {
       this.warnings.push(`跳过缺失文件: ${filePath}`);
       return;
@@ -272,6 +309,16 @@ export class Collector {
       const groups = templateFiles
         .filter((rel) => rel.startsWith('sharecfgdata/'))
         .map((rel) => path.basename(rel, '.json'));
+      if (this.includeNew) {
+        const known = new Set(groups.map((group) => group.toLowerCase()));
+        for (const file of await listDirFiles(src, '.lua')) {
+          const group = groupName(stemOf(file));
+          if (known.has(group.toLowerCase())) continue;
+          known.add(group.toLowerCase());
+          groups.push(group);
+        }
+        groups.sort();
+      }
       await mapLimit(groups, this.concurrency, (group) => this.collectSharecfgdataGroup(server, group));
       return;
     }
@@ -282,7 +329,10 @@ export class Collector {
 
   async collectSharecfgdataGroup(server, group) {
     const rel = this.rel(server, 'sharecfgdata', `${group}.json`);
-    if (!this.hints.hasFile(rel)) return;
+    if (!this.hints.hasFile(rel)) {
+      if (!this.includeNew) return;
+      this.registerNewFile(rel);
+    }
     const src = path.join(this.luaRoot, server, 'sharecfgdata');
     const files = (await listDirFiles(src, '.lua')).filter((file) => stemOf(file) === group || new RegExp(`^${escapeRegExp(group)}_\\d+$`).test(stemOf(file))).sort();
     if (files.length === 0) {
@@ -323,7 +373,8 @@ export class Collector {
   async collectGamecfgDir(server, name) {
     const outName = name === 'storyjp' ? 'storyjp' : name;
     const rel = this.rel(server, 'GameCfg', `${outName}.json`);
-    if (!this.hints.hasFile(rel)) return;
+    const isNew = !this.hints.hasFile(rel);
+    if (isNew && !this.includeNew) return;
     const src = path.join(this.luaRoot, server, 'gamecfg', name);
     if (!(await exists(src))) return;
     const files = await listDirFiles(src, '.lua');
@@ -343,7 +394,10 @@ export class Collector {
     for (const pair of pairs) {
       if (pair) data[pair[0]] = pair[1];
     }
-    if (Object.keys(data).length > 0) await this.dumpMapping(path.join(this.outRoot, rel), rel, data);
+    if (Object.keys(data).length > 0) {
+      if (isNew) this.registerNewFile(rel);
+      await this.dumpMapping(path.join(this.outRoot, rel), rel, data);
+    }
   }
 }
 

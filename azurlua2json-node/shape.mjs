@@ -131,10 +131,6 @@ export class ShapeHints {
 
 export function toJsonValue(value, relPath = null, hints = null, shapePath = '') {
   if (value === LUA_NIL) return undefined;
-  if (relPath && hints && value === '') {
-    if (hints.wantsPathArray(relPath, shapePath)) return [];
-    if (hints.wantsPathObject(relPath, shapePath)) return {};
-  }
   if (value instanceof LuaTable) return tableToJson(value, relPath, hints, shapePath);
   return value;
 }

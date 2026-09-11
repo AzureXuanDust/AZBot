@@ -21,12 +21,16 @@ async function main() {
 
   await prepareOutDir(out, Boolean(args.force));
   const hints = await ShapeHints.load(templateRoot);
-  const collector = new Collector(luaRoot, templateRoot, out, hints);
+  const collector = new Collector(luaRoot, templateRoot, out, hints, Boolean(args.includeNew));
   for (const server of servers) {
     await collector.collectServer(server, Boolean(args.samples));
   }
   for (const warning of collector.warnings) {
     console.warn(`警告: ${warning}`);
+  }
+  if (collector.newFiles.length > 0) {
+    console.log(`新增文件 (${collector.newFiles.length}):`);
+    for (const rel of collector.newFiles.sort()) console.log(`  + ${rel}`);
   }
   if (!args.raw) await applyBelfastFormat(out, servers, templateRoot, hints, luaRoot);
   if (templateRoot) {
@@ -44,7 +48,7 @@ async function main() {
 }
 
 function parseArgs(argv) {
-  const out = { force: false, samples: false, compare: false, raw: false };
+  const out = { force: false, samples: false, compare: false, raw: false, includeNew: false };
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i];
     if (arg === '--lua-root') out.luaRoot = requireValue(argv, ++i, arg);
@@ -57,6 +61,7 @@ function parseArgs(argv) {
     else if (arg === '--samples') out.samples = true;
     else if (arg === '--compare') out.compare = true;
     else if (arg === '--raw') out.raw = true;
+    else if (arg === '--include-new') out.includeNew = true;
     else if (arg === '-h' || arg === '--help') {
       printHelp();
       process.exit(0);
@@ -75,7 +80,7 @@ function requireValue(argv, index, flag) {
 }
 
 function printHelp() {
-  console.log(`用法: node tools/azurlua2json-node/cli.mjs [选项]\n\n选项:\n  --lua-root <dir>       Lua 根目录，默认 AzurLaneLuaScripts\n  --template-root <dir>  JSON 结构模板根目录，默认 data\n  --old-data-root <dir>  兼容旧参数，等同 --template-root\n  --no-old-data-root     不加载结构模板 hints\n  --out <dir>            输出目录，默认 out/AzurLaneData_lua_json_node\n  --server <CN|EN|JP|KR|TW>  只处理指定区服\n  --force                覆盖输出目录\n  --samples              只生成样本文件\n  --compare              与模板 JSON 做结构对比\n  --raw                  保留原始形态，不执行模板后处理`);
+  console.log(`用法: node tools/azurlua2json-node/cli.mjs [选项]\n\n选项:\n  --lua-root <dir>       Lua 根目录，默认 AzurLaneLuaScripts\n  --template-root <dir>  JSON 结构模板根目录，默认 data\n  --old-data-root <dir>  兼容旧参数，等同 --template-root\n  --no-old-data-root     不加载结构模板 hints\n  --out <dir>            输出目录，默认 out/AzurLaneData_lua_json_node\n  --server <CN|EN|JP|KR|TW>  只处理指定区服\n  --force                覆盖输出目录\n  --samples              只生成样本文件\n  --compare              与模板 JSON 做结构对比\n  --raw                  保留原始形态，不执行模板后处理\n  --include-new          额外收集 lua 仓库里有、模板目录里没有的文件（新文件输出为按 id 排序的 object）`);
 }
 
 main().catch((error) => {
