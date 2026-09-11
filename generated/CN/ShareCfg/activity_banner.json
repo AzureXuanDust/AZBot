@@ -330,28 +330,28 @@
   },
   {
     "id": 90,
-    "param": "",
+    "param": [],
     "pic": "temp99",
     "time": "stop",
     "type": 9
   },
   {
     "id": 91,
-    "param": "",
+    "param": [],
     "pic": "temp98",
     "time": "stop",
     "type": 9
   },
   {
     "id": 95,
-    "param": "",
+    "param": [],
     "pic": "temp100",
     "time": "stop",
     "type": 11
   },
   {
     "id": 99,
-    "param": "",
+    "param": [],
     "pic": "limit_skin",
     "time": "stop",
     "type": 12
@@ -379,21 +379,21 @@
   },
   {
     "id": 200,
-    "param": "",
+    "param": [],
     "pic": "autumn",
     "time": "always",
     "type": 13
   },
   {
     "id": 201,
-    "param": "",
+    "param": [],
     "pic": "spring",
     "time": "stop",
     "type": 13
   },
   {
     "id": 202,
-    "param": "",
+    "param": [],
     "pic": "winter",
     "time": "stop",
     "type": 13

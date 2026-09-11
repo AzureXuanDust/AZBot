@@ -25,7 +25,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -33,7 +33,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 2,
     "ik_camera": "StoolIKCamera4",
     "ik_id": [
@@ -92,7 +92,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -100,7 +100,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 3,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -158,7 +158,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -166,7 +166,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 4,
     "ik_camera": "StoolIKCamera3",
     "ik_id": [
@@ -223,7 +223,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -231,7 +231,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 5,
     "ik_camera": "BedIKCamera",
     "ik_id": [
@@ -290,7 +290,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -298,7 +298,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 6,
     "ik_camera": "BedIKCamera",
     "ik_id": [
@@ -357,7 +357,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -365,7 +365,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 7,
     "ik_camera": "BedIKCamera",
     "ik_id": [
@@ -414,7 +414,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -422,7 +422,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 8,
     "ik_camera": "ChairIKCamera",
     "ik_id": [
@@ -462,7 +462,7 @@
     "character_id": 30221,
     "character_position": "Pos200411",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -470,7 +470,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 9,
     "ik_camera": "Cam200411",
     "ik_id": [
@@ -535,7 +535,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -543,7 +543,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -601,7 +601,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -609,7 +609,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 101,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -667,7 +667,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -675,7 +675,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 102,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -733,7 +733,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -741,7 +741,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 103,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -799,7 +799,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -807,7 +807,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 104,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -865,7 +865,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -873,7 +873,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 105,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -931,7 +931,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -939,7 +939,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 106,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -997,7 +997,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1005,7 +1005,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 107,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1063,7 +1063,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1071,7 +1071,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 108,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1129,7 +1129,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1137,7 +1137,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 109,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1195,7 +1195,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1203,7 +1203,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1261,7 +1261,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1269,7 +1269,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 111,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1327,7 +1327,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1335,7 +1335,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 112,
     "ik_camera": "StoolIKCamera2",
     "ik_id": [
@@ -1393,7 +1393,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1401,7 +1401,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100110,
     "ik_camera": "Cam100110",
     "ik_id": [
@@ -1461,7 +1461,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1469,7 +1469,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100120,
     "ik_camera": "Cam100120",
     "ik_id": [
@@ -1519,7 +1519,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1527,7 +1527,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100130,
     "ik_camera": "Cam100130",
     "ik_id": [
@@ -1596,7 +1596,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1604,7 +1604,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100210,
     "ik_camera": "Cam100210",
     "ik_id": [
@@ -1664,7 +1664,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1672,7 +1672,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100211,
     "ik_camera": "Cam100211",
     "ik_id": [
@@ -1723,7 +1723,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1731,7 +1731,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100220,
     "ik_camera": "Cam100220",
     "ik_id": [
@@ -1792,7 +1792,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1800,7 +1800,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100221,
     "ik_camera": "Cam100221",
     "ik_id": [
@@ -1832,7 +1832,7 @@
     "character_id": 20220,
     "character_position": "Pos100230",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1840,7 +1840,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100230,
     "ik_camera": "Cam100230",
     "ik_id": [
@@ -1891,7 +1891,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -1899,7 +1899,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100231,
     "ik_camera": "Cam100231",
     "ik_id": [
@@ -1950,7 +1950,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -1963,7 +1963,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100250,
     "ik_camera": "Cam100250",
     "ik_id": [
@@ -2023,7 +2023,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2031,7 +2031,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100251,
     "ik_camera": "Cam100251",
     "ik_id": [
@@ -2091,7 +2091,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -2104,7 +2104,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100260,
     "ik_camera": "Cam100260",
     "ik_id": [
@@ -2155,7 +2155,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -2168,7 +2168,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100270,
     "ik_camera": "Cam100270",
     "ik_id": [
@@ -2227,7 +2227,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2235,7 +2235,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100280,
     "ik_camera": "Cam100280",
     "ik_id": [
@@ -2304,7 +2304,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2312,7 +2312,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100310,
     "ik_camera": "Cam100310",
     "ik_id": [
@@ -2371,7 +2371,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2379,7 +2379,7 @@
       0.3,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100320,
     "ik_camera": "Cam100320",
     "ik_id": [
@@ -2429,7 +2429,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2437,7 +2437,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100330,
     "ik_camera": "Cam100330",
     "ik_id": [
@@ -2496,7 +2496,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2504,7 +2504,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100410,
     "ik_camera": "Cam100410",
     "ik_id": [
@@ -2564,7 +2564,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2572,7 +2572,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100420,
     "ik_camera": "Cam100420",
     "ik_id": [
@@ -2622,7 +2622,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2630,7 +2630,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100430,
     "ik_camera": "Cam100430",
     "ik_id": [
@@ -2689,7 +2689,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2697,7 +2697,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100710,
     "ik_camera": "Cam100710",
     "ik_id": [
@@ -2766,7 +2766,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2774,7 +2774,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100711,
     "ik_camera": "Cam100711",
     "ik_id": [
@@ -2833,7 +2833,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2841,7 +2841,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100720,
     "ik_camera": "Cam100720",
     "ik_id": [
@@ -2891,7 +2891,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2899,7 +2899,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100721,
     "ik_camera": "Cam100721",
     "ik_id": [
@@ -2949,7 +2949,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -2957,7 +2957,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100730,
     "ik_camera": "Cam100730",
     "ik_id": [
@@ -3007,7 +3007,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3015,7 +3015,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 100731,
     "ik_camera": "Cam100731",
     "ik_id": [
@@ -3046,7 +3046,7 @@
     "character_id": 20220,
     "character_position": "Pos100110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3054,7 +3054,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110110,
     "ik_camera": "Cam100110",
     "ik_id": [
@@ -3096,7 +3096,7 @@
     "character_id": 20220,
     "character_position": "Pos100120",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3104,7 +3104,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110120,
     "ik_camera": "Cam100120",
     "ik_id": [
@@ -3136,7 +3136,7 @@
     "character_id": 20220,
     "character_position": "Pos100130",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3144,7 +3144,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110130,
     "ik_camera": "Cam100130",
     "ik_id": [
@@ -3214,7 +3214,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3222,7 +3222,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110210,
     "ik_camera": "Cam100210",
     "ik_id": [
@@ -3283,7 +3283,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3291,7 +3291,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110211,
     "ik_camera": "Cam100211",
     "ik_id": [
@@ -3343,7 +3343,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3351,7 +3351,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110220,
     "ik_camera": "Cam100220",
     "ik_id": [
@@ -3413,7 +3413,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3421,7 +3421,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110221,
     "ik_camera": "Cam100221",
     "ik_id": [
@@ -3473,7 +3473,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3481,7 +3481,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110230,
     "ik_camera": "Cam100230",
     "ik_id": [
@@ -3532,7 +3532,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3540,7 +3540,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110231,
     "ik_camera": "Cam100231",
     "ik_id": [
@@ -3573,7 +3573,7 @@
     "character_id": 20220,
     "character_position": "Pos100250",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -3586,7 +3586,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110250,
     "ik_camera": "Cam100250",
     "ik_id": [
@@ -3628,7 +3628,7 @@
     "character_id": 20220,
     "character_position": "Pos100251",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3636,7 +3636,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110251,
     "ik_camera": "Cam100251",
     "ik_id": [
@@ -3697,7 +3697,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -3710,7 +3710,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110260,
     "ik_camera": "Cam100260",
     "ik_id": [
@@ -3743,7 +3743,7 @@
     "character_id": 20220,
     "character_position": "Pos100270",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -3756,7 +3756,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110270,
     "ik_camera": "Cam100270",
     "ik_id": [
@@ -3797,7 +3797,7 @@
     "character_id": 20220,
     "character_position": "Pos100280",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3805,7 +3805,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110280,
     "ik_camera": "Cam100280",
     "ik_id": [
@@ -3856,7 +3856,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3864,7 +3864,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110310,
     "ik_camera": "Cam100310",
     "ik_id": [
@@ -3905,7 +3905,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3913,7 +3913,7 @@
       0.3,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110320,
     "ik_camera": "Cam100320",
     "ik_id": [
@@ -3945,7 +3945,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -3953,7 +3953,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110330,
     "ik_camera": "Cam100330",
     "ik_id": [
@@ -3994,7 +3994,7 @@
     "character_id": 20220,
     "character_position": "Pos100410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4002,7 +4002,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110410,
     "ik_camera": "Cam100410",
     "ik_id": [
@@ -4044,7 +4044,7 @@
     "character_id": 20220,
     "character_position": "Pos100420",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4052,7 +4052,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110420,
     "ik_camera": "Cam100420",
     "ik_id": [
@@ -4084,7 +4084,7 @@
     "character_id": 20220,
     "character_position": "Pos100430",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4092,7 +4092,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110430,
     "ik_camera": "Cam100430",
     "ik_id": [
@@ -4133,7 +4133,7 @@
     "character_id": 20220,
     "character_position": "Pos100710",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4141,7 +4141,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110710,
     "ik_camera": "Cam100710",
     "ik_id": [
@@ -4192,7 +4192,7 @@
     "character_id": 20220,
     "character_position": "Pos100711",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4200,7 +4200,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110711,
     "ik_camera": "Cam100711",
     "ik_id": [
@@ -4248,7 +4248,7 @@
         0.059
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4256,7 +4256,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110720,
     "ik_camera": "Cam100720",
     "ik_id": [
@@ -4285,7 +4285,7 @@
     "character_id": 20220,
     "character_position": "Pos100721",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4293,7 +4293,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110721,
     "ik_camera": "Cam100721",
     "ik_id": [
@@ -4325,7 +4325,7 @@
     "character_id": 20220,
     "character_position": "Pos100730",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4333,7 +4333,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110730,
     "ik_camera": "Cam100730",
     "ik_id": [
@@ -4365,7 +4365,7 @@
     "character_id": 20220,
     "character_position": "Pos100731",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4373,7 +4373,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 110731,
     "ik_camera": "Cam100731",
     "ik_id": [
@@ -4405,7 +4405,7 @@
     "character_id": 20220,
     "character_position": "Pos115010",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4413,7 +4413,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115010,
     "ik_camera": "Cam115010",
     "ik_id": [
@@ -4454,7 +4454,7 @@
     "character_id": 20220,
     "character_position": "Pos115010",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4462,7 +4462,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115020,
     "ik_camera": "Cam115010",
     "ik_id": [
@@ -4503,7 +4503,7 @@
     "character_id": 20220,
     "character_position": "Pos115010",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4511,7 +4511,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115030,
     "ik_camera": "Cam115010",
     "ik_id": [
@@ -4552,7 +4552,7 @@
     "character_id": 20220,
     "character_position": "Pos115010",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4560,7 +4560,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115040,
     "ik_camera": "Cam115010",
     "ik_id": [
@@ -4601,7 +4601,7 @@
     "character_id": 20220,
     "character_position": "Pos115050",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4609,7 +4609,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115050,
     "ik_camera": "Cam115050",
     "ik_id": [
@@ -4650,7 +4650,7 @@
     "character_id": 20220,
     "character_position": "Pos115050",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4658,7 +4658,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115060,
     "ik_camera": "Cam115050",
     "ik_id": [
@@ -4699,7 +4699,7 @@
     "character_id": 20220,
     "character_position": "Pos115050",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4707,7 +4707,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115070,
     "ik_camera": "Cam115050",
     "ik_id": [
@@ -4748,7 +4748,7 @@
     "character_id": 20220,
     "character_position": "Pos115050",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4756,7 +4756,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 115080,
     "ik_camera": "Cam115050",
     "ik_id": [
@@ -4797,7 +4797,7 @@
     "character_id": 20220,
     "character_position": "Pos100110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4805,7 +4805,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120110,
     "ik_camera": "Cam100110",
     "ik_id": [
@@ -4846,7 +4846,7 @@
     "character_id": 20220,
     "character_position": "Pos100120",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4854,7 +4854,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120120,
     "ik_camera": "Cam100120",
     "ik_id": [
@@ -4885,7 +4885,7 @@
     "character_id": 20220,
     "character_position": "Pos100130",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4893,7 +4893,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120130,
     "ik_camera": "Cam100130",
     "ik_id": [
@@ -4943,7 +4943,7 @@
     "character_id": 20220,
     "character_position": "Pos100210",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -4951,7 +4951,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120210,
     "ik_camera": "Cam100210",
     "ik_id": [
@@ -4992,7 +4992,7 @@
     "character_id": 20220,
     "character_position": "Pos100211",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5000,7 +5000,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120211,
     "ik_camera": "Cam100211",
     "ik_id": [
@@ -5032,7 +5032,7 @@
     "character_id": 20220,
     "character_position": "Pos100220",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5040,7 +5040,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120220,
     "ik_camera": "Cam100220",
     "ik_id": [
@@ -5101,7 +5101,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5109,7 +5109,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120221,
     "ik_camera": "Cam100221",
     "ik_id": [
@@ -5142,7 +5142,7 @@
     "character_id": 20220,
     "character_position": "Pos100230",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5150,7 +5150,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120230,
     "ik_camera": "Cam100230",
     "ik_id": [
@@ -5200,7 +5200,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5208,7 +5208,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120231,
     "ik_camera": "Cam100231",
     "ik_id": [
@@ -5241,7 +5241,7 @@
     "character_id": 20220,
     "character_position": "Pos100250",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -5254,7 +5254,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120250,
     "ik_camera": "Cam100250",
     "ik_id": [
@@ -5296,7 +5296,7 @@
     "character_id": 20220,
     "character_position": "Pos100251",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5304,7 +5304,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120251,
     "ik_camera": "Cam100251",
     "ik_id": [
@@ -5365,7 +5365,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -5378,7 +5378,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120260,
     "ik_camera": "Cam100260",
     "ik_id": [
@@ -5411,7 +5411,7 @@
     "character_id": 20220,
     "character_position": "Pos100270",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2001,
@@ -5424,7 +5424,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120270,
     "ik_camera": "Cam100270",
     "ik_id": [
@@ -5465,7 +5465,7 @@
     "character_id": 20220,
     "character_position": "Pos100280",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5473,7 +5473,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120280,
     "ik_camera": "Cam100280",
     "ik_id": [
@@ -5524,7 +5524,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5532,7 +5532,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120310,
     "ik_camera": "Cam100310",
     "ik_id": [
@@ -5572,7 +5572,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5580,7 +5580,7 @@
       0.3,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120320,
     "ik_camera": "Cam100320",
     "ik_id": [
@@ -5611,7 +5611,7 @@
     "character_id": 20220,
     "character_position": "Pos110310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5619,7 +5619,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120330,
     "ik_camera": "Cam100330",
     "ik_id": [
@@ -5659,7 +5659,7 @@
     "character_id": 20220,
     "character_position": "Pos100410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5667,7 +5667,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120410,
     "ik_camera": "Cam100410",
     "ik_id": [
@@ -5708,7 +5708,7 @@
     "character_id": 20220,
     "character_position": "Pos100420",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5716,7 +5716,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120420,
     "ik_camera": "Cam100420",
     "ik_id": [
@@ -5747,7 +5747,7 @@
     "character_id": 20220,
     "character_position": "Pos100430",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5755,7 +5755,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120430,
     "ik_camera": "Cam100430",
     "ik_id": [
@@ -5795,7 +5795,7 @@
     "character_id": 20220,
     "character_position": "Pos100710",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5803,7 +5803,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120710,
     "ik_camera": "Cam100710",
     "ik_id": [
@@ -5854,7 +5854,7 @@
     "character_id": 20220,
     "character_position": "Pos100711",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5862,7 +5862,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120711,
     "ik_camera": "Cam100711",
     "ik_id": [
@@ -5910,7 +5910,7 @@
         0.059
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5918,7 +5918,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120720,
     "ik_camera": "Cam100720",
     "ik_id": [
@@ -5947,7 +5947,7 @@
     "character_id": 20220,
     "character_position": "Pos100721",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5955,7 +5955,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120721,
     "ik_camera": "Cam100721",
     "ik_id": [
@@ -5987,7 +5987,7 @@
     "character_id": 20220,
     "character_position": "Pos100730",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -5995,7 +5995,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120730,
     "ik_camera": "Cam100730",
     "ik_id": [
@@ -6027,7 +6027,7 @@
     "character_id": 20220,
     "character_position": "Pos100731",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6035,7 +6035,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120731,
     "ik_camera": "Cam100731",
     "ik_id": [
@@ -6070,7 +6070,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Cafe_Pillow/pre_db_cafe_pillow",
-        "",
+        [],
         [
           0,
           0,
@@ -6091,7 +6091,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120810,
     "ik_camera": "Cam810910",
     "ik_id": [
@@ -6131,7 +6131,7 @@
     "character_id": 20220,
     "character_position": "Pos810920",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6139,7 +6139,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 120820,
     "ik_camera": "Cam810920",
     "ik_id": [
@@ -6198,7 +6198,7 @@
         0.09
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6206,7 +6206,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 199999,
     "ik_camera": "Cam100320",
     "ik_id": [
@@ -6249,7 +6249,7 @@
         0.06
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6257,7 +6257,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200110,
     "ik_camera": "Cam200110",
     "ik_id": [
@@ -6311,7 +6311,7 @@
         0.06
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6319,7 +6319,7 @@
       0.3,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200120,
     "ik_camera": "Cam200120",
     "ik_id": [
@@ -6360,7 +6360,7 @@
     "character_id": 30221,
     "character_position": "Pos200130",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6368,7 +6368,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200130,
     "ik_camera": "Cam200130",
     "ik_id": [
@@ -6409,7 +6409,7 @@
     "character_id": 30221,
     "character_position": "Pos200210",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6417,7 +6417,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200210,
     "ik_camera": "Cam200210",
     "ik_id": [
@@ -6458,7 +6458,7 @@
     "character_id": 30221,
     "character_position": "Pos200220",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6466,7 +6466,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200220,
     "ik_camera": "Cam200220",
     "ik_id": [
@@ -6511,7 +6511,7 @@
         0.06
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6519,7 +6519,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200230,
     "ik_camera": "Cam200230",
     "ik_id": [
@@ -6592,7 +6592,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200310,
     "ik_camera": "Cam200310",
     "ik_id": [
@@ -6656,7 +6656,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200320,
     "ik_camera": "Cam200320",
     "ik_id": [
@@ -6733,7 +6733,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200330,
     "ik_camera": "Cam200330",
     "ik_id": [
@@ -6774,7 +6774,7 @@
     "character_id": 30221,
     "character_position": "Pos200410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6782,7 +6782,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200410,
     "ik_camera": "Cam200410",
     "ik_id": [
@@ -6833,7 +6833,7 @@
     "character_id": 30221,
     "character_position": "Pos200411",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6841,7 +6841,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200411,
     "ik_camera": "Cam200411",
     "ik_id": [
@@ -6920,7 +6920,7 @@
         0.075
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6928,7 +6928,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200420,
     "ik_camera": "Cam200420",
     "ik_id": [
@@ -6978,7 +6978,7 @@
     "character_id": 30221,
     "character_position": "Pos200430",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -6986,7 +6986,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200430,
     "ik_camera": "Cam200430",
     "ik_id": [
@@ -7027,7 +7027,7 @@
     "character_id": 30221,
     "character_position": "Pos200510",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7040,7 +7040,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200510,
     "ik_camera": "Cam200510",
     "ik_id": [
@@ -7092,7 +7092,7 @@
     "character_id": 30221,
     "character_position": "Pos200511",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7105,7 +7105,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200511,
     "ik_camera": "Cam200511",
     "ik_id": [
@@ -7157,7 +7157,7 @@
     "character_id": 30221,
     "character_position": "Pos200512",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7170,7 +7170,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200512,
     "ik_camera": "Cam200512",
     "ik_id": [
@@ -7212,7 +7212,7 @@
     "character_id": 30221,
     "character_position": "Pos200520",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7225,7 +7225,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200520,
     "ik_camera": "Cam200520",
     "ik_id": [
@@ -7267,7 +7267,7 @@
     "character_id": 30221,
     "character_position": "Pos200522",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7280,7 +7280,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200522,
     "ik_camera": "Cam200522",
     "ik_id": [
@@ -7322,7 +7322,7 @@
     "character_id": 30221,
     "character_position": "Pos200530",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7335,7 +7335,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200530,
     "ik_camera": "Cam200530",
     "ik_id": [
@@ -7385,7 +7385,7 @@
     "character_id": 30221,
     "character_position": "Pos200540",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -7398,7 +7398,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200540,
     "ik_camera": "Cam200540",
     "ik_id": [
@@ -7485,7 +7485,7 @@
         0.075
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7493,7 +7493,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200610,
     "ik_camera": "Cam200610",
     "ik_id": [
@@ -7526,7 +7526,7 @@
     "character_id": 30221,
     "character_position": "Pos200611",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7534,7 +7534,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200611,
     "ik_camera": "Cam200611",
     "ik_id": [
@@ -7604,7 +7604,7 @@
         0.075
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7612,7 +7612,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200620,
     "ik_camera": "Cam200620",
     "ik_id": [
@@ -7664,7 +7664,7 @@
     "character_id": 30221,
     "character_position": "Pos200621",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7672,7 +7672,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200621,
     "ik_camera": "Cam200621",
     "ik_id": [
@@ -7742,7 +7742,7 @@
         0.075
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7750,7 +7750,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200630,
     "ik_camera": "Cam200630",
     "ik_id": [
@@ -7800,7 +7800,7 @@
     "character_id": 30221,
     "character_position": "Pos200631",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -7808,7 +7808,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200631,
     "ik_camera": "Cam200631",
     "ik_id": [
@@ -7914,7 +7914,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -7931,7 +7931,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200710,
     "ik_camera": "Cam200710",
     "ik_id": [
@@ -8045,7 +8045,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -8062,7 +8062,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200720,
     "ik_camera": "Cam200720",
     "ik_id": [
@@ -8175,7 +8175,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -8192,7 +8192,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200730,
     "ik_camera": "Cam200730",
     "ik_id": [
@@ -8306,7 +8306,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -8323,7 +8323,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 200740,
     "ik_camera": "Cam200740",
     "ik_id": [
@@ -8412,7 +8412,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8420,7 +8420,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210110,
     "ik_camera": "Cam200110",
     "ik_id": [
@@ -8509,7 +8509,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8517,7 +8517,7 @@
       0.3,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210120,
     "ik_camera": "Cam200120",
     "ik_id": [
@@ -8606,7 +8606,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8614,7 +8614,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210130,
     "ik_camera": "Cam200130",
     "ik_id": [
@@ -8703,7 +8703,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8711,7 +8711,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210210,
     "ik_camera": "Cam200210",
     "ik_id": [
@@ -8800,7 +8800,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8808,7 +8808,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210220,
     "ik_camera": "Cam200220",
     "ik_id": [
@@ -8888,7 +8888,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -8896,7 +8896,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210230,
     "ik_camera": "Cam200230",
     "ik_id": [
@@ -8968,7 +8968,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210310,
     "ik_camera": "Cam200310",
     "ik_id": [
@@ -9082,7 +9082,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210320,
     "ik_camera": "Cam200320",
     "ik_id": [
@@ -9194,7 +9194,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210330,
     "ik_camera": "Cam200330",
     "ik_id": [
@@ -9283,7 +9283,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -9291,7 +9291,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210410,
     "ik_camera": "Cam200410",
     "ik_id": [
@@ -9381,7 +9381,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -9389,7 +9389,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210411,
     "ik_camera": "Cam200411",
     "ik_id": [
@@ -9488,7 +9488,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -9496,7 +9496,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210420,
     "ik_camera": "Cam200420",
     "ik_id": [
@@ -9585,7 +9585,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -9593,7 +9593,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210430,
     "ik_camera": "Cam200430",
     "ik_id": [
@@ -9673,7 +9673,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -9686,7 +9686,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210510,
     "ik_camera": "Cam200510",
     "ik_id": [
@@ -9786,7 +9786,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -9799,7 +9799,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210511,
     "ik_camera": "Cam200511",
     "ik_id": [
@@ -9899,7 +9899,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -9912,7 +9912,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210512,
     "ik_camera": "Cam200512",
     "ik_id": [
@@ -10002,7 +10002,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -10015,7 +10015,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210520,
     "ik_camera": "Cam200520",
     "ik_id": [
@@ -10105,7 +10105,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -10118,7 +10118,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210522,
     "ik_camera": "Cam200522",
     "ik_id": [
@@ -10208,7 +10208,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -10221,7 +10221,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210530,
     "ik_camera": "Cam200530",
     "ik_id": [
@@ -10319,7 +10319,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2002,
@@ -10332,7 +10332,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210540,
     "ik_camera": "Cam200540",
     "ik_id": [
@@ -10430,7 +10430,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10438,7 +10438,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210610,
     "ik_camera": "Cam200610",
     "ik_id": [
@@ -10519,7 +10519,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10527,7 +10527,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210611,
     "ik_camera": "Cam200611",
     "ik_id": [
@@ -10608,7 +10608,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10616,7 +10616,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210620,
     "ik_camera": "Cam200620",
     "ik_id": [
@@ -10716,7 +10716,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10724,7 +10724,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210621,
     "ik_camera": "Cam200621",
     "ik_id": [
@@ -10805,7 +10805,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10813,7 +10813,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210630,
     "ik_camera": "Cam200630",
     "ik_id": [
@@ -10911,7 +10911,7 @@
         0.05
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -10919,7 +10919,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210631,
     "ik_camera": "Cam200631",
     "ik_id": [
@@ -11024,7 +11024,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -11041,7 +11041,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210710,
     "ik_camera": "Cam200710",
     "ik_id": [
@@ -11155,7 +11155,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -11172,7 +11172,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210720,
     "ik_camera": "Cam200720",
     "ik_id": [
@@ -11285,7 +11285,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -11302,7 +11302,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210730,
     "ik_camera": "Cam200730",
     "ik_id": [
@@ -11416,7 +11416,7 @@
         0.1
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2008,
@@ -11433,7 +11433,7 @@
       0.1,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 210740,
     "ik_camera": "Cam200740",
     "ik_id": [
@@ -11496,7 +11496,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 215110,
     "ik_camera": "Cam210110",
     "ik_id": [
@@ -11538,7 +11538,7 @@
     "character_id": 30221,
     "character_position": "Pos210120",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11546,7 +11546,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 215120,
     "ik_camera": "Cam210120",
     "ik_id": [
@@ -11580,7 +11580,7 @@
     "character_id": 30221,
     "character_position": "Pos210130",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11588,7 +11588,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 215130,
     "ik_camera": "Cam210130",
     "ik_id": [
@@ -11625,7 +11625,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_ik299991",
-        "",
+        [],
         [
           0,
           0,
@@ -11645,7 +11645,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 299991,
     "ik_camera": "Cam299991",
     "ik_id": [
@@ -11722,7 +11722,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 299992,
     "ik_camera": "Cam299992",
     "ik_id": [
@@ -11767,7 +11767,7 @@
         0.113
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11775,7 +11775,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 299993,
     "ik_camera": "Cam299992",
     "ik_id": [
@@ -11815,7 +11815,7 @@
     "character_id": 19903,
     "character_position": "Pos300110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11823,7 +11823,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300110,
     "ik_camera": "Cam300110",
     "ik_id": [
@@ -11865,7 +11865,7 @@
     "character_id": 19903,
     "character_position": "Pos300111",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11873,7 +11873,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300111,
     "ik_camera": "Cam300111",
     "ik_id": [
@@ -11906,7 +11906,7 @@
     "character_id": 19903,
     "character_position": "Pos300112",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11914,7 +11914,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300112,
     "ik_camera": "Cam300112",
     "ik_id": [
@@ -11956,7 +11956,7 @@
     "character_id": 19903,
     "character_position": "Pos300210",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -11964,7 +11964,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300210,
     "ik_camera": "Cam300210",
     "ik_id": [
@@ -12006,7 +12006,7 @@
     "character_id": 19903,
     "character_position": "Pos300211",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12014,7 +12014,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300211,
     "ik_camera": "Cam300211",
     "ik_id": [
@@ -12056,7 +12056,7 @@
     "character_id": 19903,
     "character_position": "Pos300212",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12064,7 +12064,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300212,
     "ik_camera": "Cam300212",
     "ik_id": [
@@ -12097,7 +12097,7 @@
     "character_id": 19903,
     "character_position": "Pos300310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12105,7 +12105,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300310,
     "ik_camera": "Cam300310",
     "ik_id": [
@@ -12147,7 +12147,7 @@
     "character_id": 19903,
     "character_position": "Pos300311",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12155,7 +12155,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300311,
     "ik_camera": "Cam300311",
     "ik_id": [
@@ -12197,7 +12197,7 @@
     "character_id": 19903,
     "character_position": "Pos300312",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12205,7 +12205,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300312,
     "ik_camera": "Cam300312",
     "ik_id": [
@@ -12247,7 +12247,7 @@
     "character_id": 19903,
     "character_position": "Pos300410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -12260,7 +12260,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300410,
     "ik_camera": "Cam300410",
     "ik_id": [
@@ -12302,7 +12302,7 @@
     "character_id": 19903,
     "character_position": "Pos300411",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -12315,7 +12315,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300411,
     "ik_camera": "Cam300411",
     "ik_id": [
@@ -12357,7 +12357,7 @@
     "character_id": 19903,
     "character_position": "Pos300412",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12365,7 +12365,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300412,
     "ik_camera": "Cam300412",
     "ik_id": [
@@ -12407,7 +12407,7 @@
     "character_id": 19903,
     "character_position": "Pos300510",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12415,7 +12415,7 @@
       0,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300510,
     "ik_camera": "Cam300510",
     "ik_id": [
@@ -12457,7 +12457,7 @@
     "character_id": 19903,
     "character_position": "Pos300511",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12465,7 +12465,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300511,
     "ik_camera": "Cam300511",
     "ik_id": [
@@ -12498,7 +12498,7 @@
     "character_id": 19903,
     "character_position": "Pos300512",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12506,7 +12506,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300512,
     "ik_camera": "Cam300512",
     "ik_id": [
@@ -12558,7 +12558,7 @@
     "character_id": 19903,
     "character_position": "Pos300513",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -12566,7 +12566,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300513,
     "ik_camera": "Cam300513",
     "ik_id": [
@@ -12692,7 +12692,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -12718,7 +12718,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300610,
     "ik_camera": "Cam300610",
     "ik_id": [
@@ -12840,7 +12840,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -12866,7 +12866,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300620,
     "ik_camera": "Cam300620",
     "ik_id": [
@@ -12985,7 +12985,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -12998,7 +12998,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300630,
     "ik_camera": "Cam300630",
     "ik_id": [
@@ -13117,7 +13117,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -13130,7 +13130,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300640,
     "ik_camera": "Cam300640",
     "ik_id": [
@@ -13250,7 +13250,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -13271,7 +13271,7 @@
       0,
       0
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300710,
     "ik_camera": "Cam300710",
     "ik_id": [
@@ -13400,7 +13400,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -13421,7 +13421,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300720,
     "ik_camera": "Cam300720",
     "ik_id": [
@@ -13559,7 +13559,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -13580,7 +13580,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300730,
     "ik_camera": "Cam300730",
     "ik_id": [
@@ -13709,7 +13709,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -13730,7 +13730,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 300740,
     "ik_camera": "Cam300740",
     "ik_id": [
@@ -13856,7 +13856,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -13864,7 +13864,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310110,
     "ik_camera": "Cam310110",
     "ik_id": [
@@ -13972,7 +13972,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -13980,7 +13980,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310111,
     "ik_camera": "Cam310111",
     "ik_id": [
@@ -14079,7 +14079,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14087,7 +14087,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310112,
     "ik_camera": "Cam310112",
     "ik_id": [
@@ -14195,7 +14195,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14203,7 +14203,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310210,
     "ik_camera": "Cam310210",
     "ik_id": [
@@ -14311,7 +14311,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14319,7 +14319,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310211,
     "ik_camera": "Cam310211",
     "ik_id": [
@@ -14427,7 +14427,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14435,7 +14435,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310212,
     "ik_camera": "Cam310212",
     "ik_id": [
@@ -14534,7 +14534,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14542,7 +14542,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310310,
     "ik_camera": "Cam310310",
     "ik_id": [
@@ -14650,7 +14650,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14658,7 +14658,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310311,
     "ik_camera": "Cam310311",
     "ik_id": [
@@ -14766,7 +14766,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -14774,7 +14774,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310312,
     "ik_camera": "Cam310312",
     "ik_id": [
@@ -14882,7 +14882,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -14895,7 +14895,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310410,
     "ik_camera": "Cam310410",
     "ik_id": [
@@ -15003,7 +15003,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -15016,7 +15016,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310411,
     "ik_camera": "Cam310411",
     "ik_id": [
@@ -15124,7 +15124,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -15132,7 +15132,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310412,
     "ik_camera": "Cam310412",
     "ik_id": [
@@ -15240,7 +15240,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -15248,7 +15248,7 @@
       0,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310510,
     "ik_camera": "Cam310510",
     "ik_id": [
@@ -15356,7 +15356,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -15364,7 +15364,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310511,
     "ik_camera": "Cam310511",
     "ik_id": [
@@ -15463,7 +15463,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -15471,7 +15471,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310512,
     "ik_camera": "Cam310512",
     "ik_id": [
@@ -15589,7 +15589,7 @@
         0.062
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -15597,7 +15597,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310513,
     "ik_camera": "Cam310513",
     "ik_id": [
@@ -15716,7 +15716,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -15742,7 +15742,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310610,
     "ik_camera": "Cam310610",
     "ik_id": [
@@ -15859,7 +15859,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -15885,7 +15885,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310620,
     "ik_camera": "Cam310620",
     "ik_id": [
@@ -15999,7 +15999,7 @@
         0.083
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -16012,7 +16012,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310630,
     "ik_camera": "Cam310630",
     "ik_id": [
@@ -16126,7 +16126,7 @@
         0.083
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -16139,7 +16139,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310640,
     "ik_camera": "Cam310640",
     "ik_id": [
@@ -16260,7 +16260,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -16281,7 +16281,7 @@
       0,
       0
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310710,
     "ik_camera": "Cam310710",
     "ik_id": [
@@ -16400,7 +16400,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -16421,7 +16421,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310720,
     "ik_camera": "Cam310720",
     "ik_id": [
@@ -16549,7 +16549,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -16570,7 +16570,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310730,
     "ik_camera": "Cam310730",
     "ik_id": [
@@ -16690,7 +16690,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -16711,7 +16711,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310740,
     "ik_camera": "Cam310740",
     "ik_id": [
@@ -16761,7 +16761,7 @@
     "character_id": 19903,
     "character_position": "Pos310910",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -16769,7 +16769,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310910,
     "ik_camera": "Cam310910",
     "ik_id": [
@@ -16812,7 +16812,7 @@
     "character_id": 19903,
     "character_position": "Pos310911",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2004,
@@ -16825,7 +16825,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 310911,
     "ik_camera": "Cam310911",
     "ik_id": [
@@ -16868,7 +16868,7 @@
     "character_id": 19903,
     "character_position": "Pos300110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -16876,7 +16876,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320110,
     "ik_camera": "Cam300110",
     "ik_id": [
@@ -16918,7 +16918,7 @@
     "character_id": 19903,
     "character_position": "Pos300111",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -16926,7 +16926,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320111,
     "ik_camera": "Cam300111",
     "ik_id": [
@@ -16959,7 +16959,7 @@
     "character_id": 19903,
     "character_position": "Pos300112",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -16967,7 +16967,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320112,
     "ik_camera": "Cam300112",
     "ik_id": [
@@ -17009,7 +17009,7 @@
     "character_id": 19903,
     "character_position": "Pos300210",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17017,7 +17017,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320210,
     "ik_camera": "Cam300210",
     "ik_id": [
@@ -17059,7 +17059,7 @@
     "character_id": 19903,
     "character_position": "Pos300211",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17067,7 +17067,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320211,
     "ik_camera": "Cam300211",
     "ik_id": [
@@ -17109,7 +17109,7 @@
     "character_id": 19903,
     "character_position": "Pos300212",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17117,7 +17117,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320212,
     "ik_camera": "Cam300212",
     "ik_id": [
@@ -17150,7 +17150,7 @@
     "character_id": 19903,
     "character_position": "Pos300310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17158,7 +17158,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320310,
     "ik_camera": "Cam300310",
     "ik_id": [
@@ -17200,7 +17200,7 @@
     "character_id": 19903,
     "character_position": "Pos300311",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17208,7 +17208,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320311,
     "ik_camera": "Cam300311",
     "ik_id": [
@@ -17250,7 +17250,7 @@
     "character_id": 19903,
     "character_position": "Pos300312",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17258,7 +17258,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320312,
     "ik_camera": "Cam300312",
     "ik_id": [
@@ -17300,7 +17300,7 @@
     "character_id": 19903,
     "character_position": "Pos300410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -17313,7 +17313,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320410,
     "ik_camera": "Cam300410",
     "ik_id": [
@@ -17355,7 +17355,7 @@
     "character_id": 19903,
     "character_position": "Pos300411",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2003,
@@ -17368,7 +17368,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320411,
     "ik_camera": "Cam300411",
     "ik_id": [
@@ -17410,7 +17410,7 @@
     "character_id": 19903,
     "character_position": "Pos300412",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17418,7 +17418,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320412,
     "ik_camera": "Cam300412",
     "ik_id": [
@@ -17460,7 +17460,7 @@
     "character_id": 19903,
     "character_position": "Pos300510",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17468,7 +17468,7 @@
       0,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320510,
     "ik_camera": "Cam300510",
     "ik_id": [
@@ -17510,7 +17510,7 @@
     "character_id": 19903,
     "character_position": "Pos300511",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17518,7 +17518,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320511,
     "ik_camera": "Cam300511",
     "ik_id": [
@@ -17551,7 +17551,7 @@
     "character_id": 19903,
     "character_position": "Pos300512",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17559,7 +17559,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320512,
     "ik_camera": "Cam300512",
     "ik_id": [
@@ -17611,7 +17611,7 @@
     "character_id": 19903,
     "character_position": "Pos300513",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -17619,7 +17619,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320513,
     "ik_camera": "Cam300513",
     "ik_id": [
@@ -17745,7 +17745,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -17771,7 +17771,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320610,
     "ik_camera": "Cam300610",
     "ik_id": [
@@ -17893,7 +17893,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aklq_Drink01/pre_db_aklq_drink01",
-        "",
+        [],
         [
           0,
           0,
@@ -17919,7 +17919,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320620,
     "ik_camera": "Cam300620",
     "ik_id": [
@@ -18038,7 +18038,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -18051,7 +18051,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320630,
     "ik_camera": "Cam300630",
     "ik_id": [
@@ -18170,7 +18170,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2012,
@@ -18183,7 +18183,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320640,
     "ik_camera": "Cam300640",
     "ik_id": [
@@ -18303,7 +18303,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -18324,7 +18324,7 @@
       0,
       0
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320710,
     "ik_camera": "Cam320710",
     "ik_id": [
@@ -18453,7 +18453,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -18474,7 +18474,7 @@
       0,
       0.5
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320720,
     "ik_camera": "Cam320720",
     "ik_id": [
@@ -18612,7 +18612,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -18633,7 +18633,7 @@
       0,
       0.2
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320730,
     "ik_camera": "Cam320730",
     "ik_id": [
@@ -18762,7 +18762,7 @@
         0.136
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2020,
@@ -18783,7 +18783,7 @@
       0,
       0.4
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 320740,
     "ik_camera": "Cam320740",
     "ik_id": [
@@ -18897,7 +18897,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -18910,7 +18910,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400110,
     "ik_camera": "Cam400110",
     "ik_id": [
@@ -19009,7 +19009,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -19022,7 +19022,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400111,
     "ik_camera": "Cam400111",
     "ik_id": [
@@ -19057,7 +19057,7 @@
     "character_id": 10517,
     "character_position": "Pos400112",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -19070,7 +19070,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400112,
     "ik_camera": "Cam400112",
     "ik_id": [
@@ -19170,7 +19170,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -19296,7 +19296,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -19413,7 +19413,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -19527,7 +19527,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -19540,7 +19540,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400310,
     "ik_camera": "Cam400310",
     "ik_id": [
@@ -19639,7 +19639,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -19652,7 +19652,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400311,
     "ik_camera": "Cam400311",
     "ik_id": [
@@ -19742,7 +19742,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -19755,7 +19755,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400312,
     "ik_camera": "Cam400312",
     "ik_id": [
@@ -19845,7 +19845,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -19858,7 +19858,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400410,
     "ik_camera": "Cam400410",
     "ik_id": [
@@ -19957,7 +19957,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -19970,7 +19970,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400411,
     "ik_camera": "Cam400411",
     "ik_id": [
@@ -20069,7 +20069,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -20082,7 +20082,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400412,
     "ik_camera": "Cam400412",
     "ik_id": [
@@ -20199,7 +20199,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -20207,7 +20207,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400510,
     "ik_camera": "Cam400510",
     "ik_id": [
@@ -20330,7 +20330,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -20338,7 +20338,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400520,
     "ik_camera": "Cam400520",
     "ik_id": [
@@ -20436,7 +20436,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -20444,7 +20444,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400530,
     "ik_camera": "Cam400530",
     "ik_id": [
@@ -20543,7 +20543,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -20551,7 +20551,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400540,
     "ik_camera": "Cam400540",
     "ik_id": [
@@ -20665,7 +20665,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -20778,7 +20778,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -20791,7 +20791,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400720,
     "ik_camera": "Cam400720",
     "ik_id": [
@@ -20914,7 +20914,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -20927,7 +20927,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400730,
     "ik_camera": "Cam400730",
     "ik_id": [
@@ -21049,7 +21049,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -21066,7 +21066,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400740,
     "ik_camera": "Cam400740",
     "ik_id": [
@@ -21188,7 +21188,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -21205,7 +21205,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400750,
     "ik_camera": "Cam400750",
     "ik_id": [
@@ -21327,7 +21327,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -21340,7 +21340,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400810,
     "ik_camera": "Cam400810",
     "ik_id": [
@@ -21463,7 +21463,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -21476,7 +21476,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400820,
     "ik_camera": "Cam400820",
     "ik_id": [
@@ -21599,7 +21599,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -21612,7 +21612,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400830,
     "ik_camera": "Cam400830",
     "ik_id": [
@@ -21743,7 +21743,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -21756,7 +21756,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 400840,
     "ik_camera": "Cam400840",
     "ik_id": [
@@ -21790,7 +21790,7 @@
     "character_id": 10517,
     "character_position": "Pos410110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -21803,7 +21803,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410110,
     "ik_camera": "Cam410110",
     "ik_id": [
@@ -21846,7 +21846,7 @@
     "character_id": 10517,
     "character_position": "Pos410111",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -21859,7 +21859,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410111,
     "ik_camera": "Cam410111",
     "ik_id": [
@@ -21893,7 +21893,7 @@
     "character_id": 10517,
     "character_position": "Pos410112",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2005,
@@ -21906,7 +21906,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410112,
     "ik_camera": "Cam410112",
     "ik_id": [
@@ -21952,7 +21952,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -22022,7 +22022,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -22083,7 +22083,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK400210",
-        "",
+        [],
         [
           0,
           0,
@@ -22141,7 +22141,7 @@
     "character_id": 10517,
     "character_position": "Pos410310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -22154,7 +22154,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410310,
     "ik_camera": "Cam410310",
     "ik_id": [
@@ -22197,7 +22197,7 @@
     "character_id": 10517,
     "character_position": "Pos410311",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -22210,7 +22210,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410311,
     "ik_camera": "Cam410311",
     "ik_id": [
@@ -22244,7 +22244,7 @@
     "character_id": 10517,
     "character_position": "Pos410312",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2006,
@@ -22257,7 +22257,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410312,
     "ik_camera": "Cam410312",
     "ik_id": [
@@ -22291,7 +22291,7 @@
     "character_id": 10517,
     "character_position": "Pos410410",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -22304,7 +22304,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410410,
     "ik_camera": "Cam410410",
     "ik_id": [
@@ -22347,7 +22347,7 @@
     "character_id": 10517,
     "character_position": "Pos410411",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -22360,7 +22360,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410411,
     "ik_camera": "Cam410411",
     "ik_id": [
@@ -22403,7 +22403,7 @@
     "character_id": 10517,
     "character_position": "Pos410412",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2007,
@@ -22416,7 +22416,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410412,
     "ik_camera": "Cam410412",
     "ik_id": [
@@ -22532,7 +22532,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -22540,7 +22540,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410510,
     "ik_camera": "Cam410510",
     "ik_id": [
@@ -22661,7 +22661,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -22669,7 +22669,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410520,
     "ik_camera": "Cam410520",
     "ik_id": [
@@ -22766,7 +22766,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -22774,7 +22774,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410530,
     "ik_camera": "Cam410530",
     "ik_id": [
@@ -22871,7 +22871,7 @@
         0.056
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -22879,7 +22879,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410540,
     "ik_camera": "Cam410540",
     "ik_id": [
@@ -22991,7 +22991,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -23127,7 +23127,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -23140,7 +23140,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410720,
     "ik_camera": "Cam410720",
     "ik_id": [
@@ -23261,7 +23261,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -23274,7 +23274,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410730,
     "ik_camera": "Cam410730",
     "ik_id": [
@@ -23395,7 +23395,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -23412,7 +23412,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410740,
     "ik_camera": "Cam410740",
     "ik_id": [
@@ -23533,7 +23533,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2010,
@@ -23550,7 +23550,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410750,
     "ik_camera": "Cam410750",
     "ik_id": [
@@ -23671,7 +23671,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -23684,7 +23684,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410810,
     "ik_camera": "Cam410810",
     "ik_id": [
@@ -23807,7 +23807,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -23820,7 +23820,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410820,
     "ik_camera": "Cam410820",
     "ik_id": [
@@ -23943,7 +23943,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -23956,7 +23956,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410830,
     "ik_camera": "Cam410830",
     "ik_id": [
@@ -24087,7 +24087,7 @@
         0.107
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2018,
@@ -24100,7 +24100,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410840,
     "ik_camera": "Cam410840",
     "ik_id": [
@@ -24134,7 +24134,7 @@
     "character_id": 10517,
     "character_position": "Pos410910",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -24142,7 +24142,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410910,
     "ik_camera": "Cam410910",
     "ik_id": [
@@ -24185,7 +24185,7 @@
     "character_id": 10517,
     "character_position": "Pos410911",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -24193,7 +24193,7 @@
       0.06,
       0.6
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 410911,
     "ik_camera": "Cam410911",
     "ik_id": [
@@ -24255,7 +24255,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -24263,7 +24263,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500110,
     "ik_camera": "Cam500110",
     "ik_id": [
@@ -24325,7 +24325,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -24333,7 +24333,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500120,
     "ik_camera": "Cam500120",
     "ik_id": [
@@ -24386,7 +24386,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -24394,7 +24394,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500130,
     "ik_camera": "Cam500130",
     "ik_id": [
@@ -24498,7 +24498,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -24625,7 +24625,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -24752,7 +24752,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -24885,7 +24885,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -24898,7 +24898,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500310,
     "ik_camera": "Cam500310",
     "ik_id": [
@@ -24999,7 +24999,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -25012,7 +25012,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500320,
     "ik_camera": "Cam500320",
     "ik_id": [
@@ -25113,7 +25113,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -25126,7 +25126,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500330,
     "ik_camera": "Cam500330",
     "ik_id": [
@@ -25239,7 +25239,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Handcuffs_01/pre_db_df_handcuffs_01",
-        "",
+        [],
         [
           0,
           0,
@@ -25260,7 +25260,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500410,
     "ik_camera": "Cam500410",
     "ik_id": [
@@ -25335,7 +25335,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Handcuffs_01/pre_db_df_handcuffs_01",
-        "",
+        [],
         [
           0,
           0,
@@ -25356,7 +25356,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500420,
     "ik_camera": "Cam500420",
     "ik_id": [
@@ -25418,7 +25418,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -25426,7 +25426,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 500430,
     "ik_camera": "Cam500430",
     "ik_id": [
@@ -25540,7 +25540,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -25685,7 +25685,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -25821,7 +25821,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -25957,7 +25957,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -26090,7 +26090,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -26216,7 +26216,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -26341,7 +26341,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -26408,7 +26408,7 @@
     "character_id": 30707,
     "character_position": "Pos510110",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -26416,7 +26416,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510110,
     "ik_camera": "Cam510110",
     "ik_id": [
@@ -26460,7 +26460,7 @@
     "character_id": 30707,
     "character_position": "Pos510120",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -26468,7 +26468,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510120,
     "ik_camera": "Cam510120",
     "ik_id": [
@@ -26503,7 +26503,7 @@
     "character_id": 30707,
     "character_position": "Pos510130",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -26511,7 +26511,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510130,
     "ik_camera": "Cam510130",
     "ik_id": [
@@ -26549,7 +26549,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -26610,7 +26610,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -26671,7 +26671,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Kitchenware_01/pre_db_df_kitchenware_01",
-        "",
+        [],
         [
           0,
           0,
@@ -26738,7 +26738,7 @@
     "character_id": 30707,
     "character_position": "Pos510310",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -26751,7 +26751,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510310,
     "ik_camera": "Cam510310",
     "ik_id": [
@@ -26786,7 +26786,7 @@
     "character_id": 30707,
     "character_position": "Pos510320",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -26799,7 +26799,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510320,
     "ik_camera": "Cam510320",
     "ik_id": [
@@ -26834,7 +26834,7 @@
     "character_id": 30707,
     "character_position": "Pos510330",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2013,
@@ -26847,7 +26847,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510330,
     "ik_camera": "Cam510330",
     "ik_id": [
@@ -26894,7 +26894,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Handcuffs_01/pre_db_df_handcuffs_01",
-        "",
+        [],
         [
           0,
           0,
@@ -26915,7 +26915,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510410,
     "ik_camera": "Cam510410",
     "ik_id": [
@@ -26972,7 +26972,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Df_Handcuffs_01/pre_db_df_handcuffs_01",
-        "",
+        [],
         [
           0,
           0,
@@ -26993,7 +26993,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510420,
     "ik_camera": "Cam510420",
     "ik_id": [
@@ -27037,7 +27037,7 @@
     "character_id": 30707,
     "character_position": "Pos510430",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [],
     "head_track": [
       1,
@@ -27045,7 +27045,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510430,
     "ik_camera": "Cam510430",
     "ik_id": [
@@ -27154,7 +27154,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -27285,7 +27285,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -27416,7 +27416,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -27547,7 +27547,7 @@
     "enter_extra_item": [
       [
         "furniture/Prefabs/Pay_Dafenghostel/pre_db_df_pipa01",
-        "",
+        [],
         [
           0,
           0,
@@ -27672,7 +27672,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -27798,7 +27798,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -27923,7 +27923,7 @@
         0.105
       ]
     ],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2019,
@@ -27990,7 +27990,7 @@
     "character_id": 30707,
     "character_position": "Pos510910",
     "cloth_colliders": [],
-    "enter_extra_item": "",
+    "enter_extra_item": [],
     "enter_scene_anim": [
       [
         2014,
@@ -28003,7 +28003,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510910,
     "ik_camera": "Cam510910",
     "ik_id": [
@@ -28050,7 +28050,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Glasscup_01/pre_db_glasscup_dafengIK",
-        "",
+        [],
         [
           0,
           0,
@@ -28071,7 +28071,7 @@
       0,
       0.1
     ],
-    "hide_scene_item": "",
+    "hide_scene_item": [],
     "id": 510920,
     "ik_camera": "Cam510920",
     "ik_id": [
@@ -29359,7 +29359,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600510",
-        "",
+        [],
         [
           0,
           0,
@@ -29762,7 +29762,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -29909,7 +29909,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -30039,7 +30039,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -30188,7 +30188,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -30318,7 +30318,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -30462,7 +30462,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -30611,7 +30611,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -30764,7 +30764,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -31483,7 +31483,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600510",
-        "",
+        [],
         [
           0,
           0,
@@ -31850,7 +31850,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -31997,7 +31997,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -32127,7 +32127,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -32276,7 +32276,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Book_01/pre_db_book_01_IK600610",
-        "",
+        [],
         [
           0,
           0,
@@ -32406,7 +32406,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -32550,7 +32550,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -32699,7 +32699,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -32852,7 +32852,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
-        "",
+        [],
         [
           0,
           0,
@@ -32931,7 +32931,7 @@
     "enter_extra_item": [
       [
         "furniture/Item/Glasscup_01/pre_db_glasscup_01a",
-        "",
+        [],
         [
           0,
           0,

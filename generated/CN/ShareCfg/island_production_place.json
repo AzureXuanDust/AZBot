@@ -27,7 +27,7 @@
       1007,
       1008
     ],
-    "tool_list": "",
+    "tool_list": [],
     "unlock_type": 2,
     "unlocked_obj": 0
   },
@@ -49,8 +49,8 @@
     "name": "悠然牧场",
     "npc_birthplace": 10010040,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_pasture",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 0
   },
@@ -71,8 +71,8 @@
     "name": "啾啾渔场",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_fish",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 0
   },
@@ -99,7 +99,7 @@
     "name": "沉石矿山",
     "npc_birthplace": 10040022,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_mine",
-    "seed_list": "",
+    "seed_list": [],
     "tool_list": [
       10006,
       10010,
@@ -131,7 +131,7 @@
     "name": "翠土林场 ",
     "npc_birthplace": 10040002,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_felling",
-    "seed_list": "",
+    "seed_list": [],
     "tool_list": [
       10007,
       10012,
@@ -169,7 +169,7 @@
       1108,
       1109
     ],
-    "tool_list": "",
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 0
   },
@@ -200,7 +200,7 @@
       1210,
       1211
     ],
-    "tool_list": "",
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 0
   },
@@ -220,8 +220,8 @@
     "name": "有鱼餐馆",
     "npc_birthplace": 10060001,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_cook",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 10060050
   },
@@ -241,8 +241,8 @@
     "name": "白熊饮品",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_cook",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 10060051
   },
@@ -262,8 +262,8 @@
     "name": "啾啾简餐",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_cook",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 10060052
   },
@@ -283,8 +283,8 @@
     "name": "乌鱼烤肉",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_cook",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 10060053
   },
@@ -304,8 +304,8 @@
     "name": "岛屿科技",
     "npc_birthplace": 10070004,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_technology",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 0,
     "unlocked_obj": 0
   },
@@ -325,8 +325,8 @@
     "name": "木料加工设备",
     "npc_birthplace": 1010010,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_factory",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 1,
     "unlocked_obj": 10070013
   },
@@ -346,8 +346,8 @@
     "name": "工业生产设备",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_factory",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 2,
     "unlocked_obj": 10070014
   },
@@ -367,8 +367,8 @@
     "name": "电子加工设备",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_factory",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 2,
     "unlocked_obj": 10070015
   },
@@ -388,8 +388,8 @@
     "name": "手工制作设备",
     "npc_birthplace": 0,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_factory",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 2,
     "unlocked_obj": 10070016
   },
@@ -409,8 +409,8 @@
     "name": "啾咖啡",
     "npc_birthplace": 10090008,
     "npcbehaviourTree": "island/nodecanvas/system/system_npc_coffeeshop",
-    "seed_list": "",
-    "tool_list": "",
+    "seed_list": [],
+    "tool_list": [],
     "unlock_type": 2,
     "unlocked_obj": 0
   }

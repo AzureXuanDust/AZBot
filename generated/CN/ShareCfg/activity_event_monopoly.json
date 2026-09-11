@@ -41,8 +41,8 @@
       90605
     ],
     "reward_time": 8,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [
       [
         0,
@@ -73,7 +73,7 @@
         "DONGHUANGCHUNJIE7"
       ]
     ],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 1
   },
   {
@@ -104,8 +104,8 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 5,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [
       [
         0,
@@ -136,7 +136,7 @@
         "DONGHUANGCHUNJIE7"
       ]
     ],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 1
   },
   {
@@ -167,10 +167,10 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 0,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 1
   },
   {
@@ -203,10 +203,10 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 5,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 2
   },
   {
@@ -237,10 +237,10 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 0,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 1
   },
   {
@@ -273,10 +273,10 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 5,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 2
   },
   {
@@ -307,10 +307,10 @@
     "reward": [],
     "reward_extra": [],
     "reward_time": 0,
-    "ship_dialog": "",
-    "ship_reward": "",
+    "ship_dialog": [],
+    "ship_reward": [],
     "story": [],
-    "sum_lap_reward_show": "",
+    "sum_lap_reward_show": [],
     "version": 1
   },
   {

@@ -6,7 +6,7 @@
     "id": 10010,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -15,8 +15,8 @@
       "tuijian"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -25,15 +25,15 @@
     "id": 10011,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "开发季商品"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -351,7 +351,7 @@
     "id": 10019,
     "order": 4,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -360,8 +360,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -370,15 +370,15 @@
     "id": 10020,
     "order": 10,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "加工"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -403,7 +403,7 @@
       "加工"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -429,7 +429,7 @@
     "id": 10022,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -438,8 +438,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -448,15 +448,15 @@
     "id": 10023,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "种子"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -484,7 +484,7 @@
       "丰壤农田"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -500,7 +500,7 @@
     "id": 10025,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -509,8 +509,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -519,15 +519,15 @@
     "id": 10026,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "种子"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -556,7 +556,7 @@
       "坠香果园"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -572,7 +572,7 @@
     "id": 10028,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -581,8 +581,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -591,15 +591,15 @@
     "id": 10029,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "种子"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -630,7 +630,7 @@
       "青芽苗圃"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -646,7 +646,7 @@
     "id": 10031,
     "order": 5,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -655,8 +655,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -665,15 +665,15 @@
     "id": 10032,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "鱼苗"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -697,7 +697,7 @@
       "淡水鱼苗"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -730,7 +730,7 @@
       "海水鱼苗"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -763,7 +763,7 @@
       "其他鱼苗"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -779,15 +779,15 @@
     "id": 10036,
     "order": 2,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "鱼饵"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -810,7 +810,7 @@
       "鱼饵"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -826,7 +826,7 @@
     "id": 10109,
     "order": 3,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -835,8 +835,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -845,15 +845,15 @@
     "id": 10110,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "种子"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -881,7 +881,7 @@
       "丰壤农田"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -917,7 +917,7 @@
       "坠香果园"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -955,7 +955,7 @@
       "青芽苗圃"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -971,7 +971,7 @@
     "id": 10130,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
@@ -980,8 +980,8 @@
       "daoju"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -990,15 +990,15 @@
     "id": 10131,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 2,
     "tag_icon": [
       "道具"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -1025,7 +1025,7 @@
       "道具"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1046,7 +1046,7 @@
     "id": 50111,
     "order": 2,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 5,
     "tag_icon": [
@@ -1055,8 +1055,8 @@
       "shizhuang"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -1065,15 +1065,15 @@
     "id": 50121,
     "order": 2,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 5,
     "tag_icon": [
       "配饰"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 0,
@@ -1082,15 +1082,15 @@
     "id": 50122,
     "order": 1,
     "second_shop": 0,
-    "shop_icon": "",
+    "shop_icon": [],
     "shop_type": 0,
     "show_type": 5,
     "tag_icon": [
       "服装"
     ],
     "tag_type": 2,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   },
   {
     "dress_type": 2,
@@ -1126,7 +1126,7 @@
       "角色服装"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1159,7 +1159,7 @@
       "指挥官服装"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1195,7 +1195,7 @@
       "脚印"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1226,7 +1226,7 @@
       "背饰"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1257,7 +1257,7 @@
       "漂浮物"
     ],
     "tag_type": 3,
-    "top_jump": "",
+    "top_jump": [],
     "top_resource": [
       [
         0,
@@ -1285,7 +1285,7 @@
       "tuijian"
     ],
     "tag_type": 1,
-    "top_jump": "",
-    "top_resource": ""
+    "top_jump": [],
+    "top_resource": []
   }
 ]

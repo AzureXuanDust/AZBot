@@ -1,7 +1,7 @@
 [
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "5",
     "benefit_type": "dorm_exp",
     "desc": "后宅经验加成提高5%",
@@ -14,7 +14,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "10",
     "benefit_type": "dorm_exp",
     "desc": "后宅经验加成提高10%",
@@ -27,7 +27,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "20",
     "benefit_type": "dorm_exp",
     "desc": "后宅经验加成提高20%",
@@ -57,7 +57,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "100",
     "benefit_type": "more_oil",
     "desc": "【高效作战指令书用】普通关卡、困难关卡、活动关卡的油耗增加200%",
@@ -70,7 +70,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "100",
     "benefit_type": "user_battle_exp",
     "desc": "普通关卡、困难关卡、活动关卡的指挥官经验获取提高200%",
@@ -83,7 +83,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "100",
     "benefit_type": "ship_battle_exp",
     "desc": "普通关卡、困难关卡、活动关卡的角色经验获取提高200%",
@@ -96,7 +96,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "extra_drop",
     "desc": "【高效作战指令书用】普通关卡、困难关卡、活动关卡额外掉落一次",
@@ -109,7 +109,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "extra_activity_drop",
     "desc": "【高效作战指令书用】活动额外掉落（expedition_activity）   额外掉落一次，不与每日首次掉落叠加",
@@ -122,7 +122,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "300",
     "benefit_type": "skill_learncost_up",
     "desc": "战术学院技能学习时间略微减少\n剩余时间:$1",
@@ -135,7 +135,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "522",
     "benefit_type": "battle_buff",
     "desc": "主线、困难、作战档案关卡中，我方战斗内造成的伤害略微提高\n剩余时间:$1",
@@ -148,7 +148,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "intimacy_up_extra",
     "desc": "秘书舰好感度提高速度加快\n剩余时间:$1",
@@ -401,7 +401,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "0",
     "benefit_type": "urpt_drop_up",
     "desc": "通过「蝶海梦花」活动关卡获得的特装原型数量翻倍",
@@ -784,7 +784,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "100",
     "benefit_type": "chapter_up",
     "desc": "【高效作战指令书用】好感度、心情值、指挥官经验、指挥喵经验、舰船经验加成",
@@ -1205,7 +1205,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "dorm_energy",
     "desc": "后宅所有角色心情恢复增加",
@@ -1592,7 +1592,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "50",
     "benefit_type": "dorm_exp",
     "desc": "后宅经验加成提高50%",
@@ -1605,7 +1605,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "10",
     "benefit_type": "skill_learn_time",
     "desc": "每日战术学院进行教材学习时，可以快速完成10次",
@@ -1618,7 +1618,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "100",
     "benefit_type": "character_strengthen_exp",
     "desc": "角色属性强化经验提高100%",
@@ -2271,7 +2271,7 @@
   },
   {
     "act_id": 4964,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "ship_battle_intimacy",
     "desc": "活动期间，通过战斗获取的好感度提高。",
@@ -2284,7 +2284,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "300",
     "benefit_type": "skill_learncost_up",
     "desc": "战术学院技能学习时间略微减少\n剩余时间:$1",
@@ -2297,7 +2297,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "522",
     "benefit_type": "battle_buff",
     "desc": "主线、困难、作战档案关卡中，我方战斗内造成的伤害略微提高\n剩余时间:$1",
@@ -2310,7 +2310,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "1",
     "benefit_type": "intimacy_up_extra",
     "desc": "秘书舰好感度提高速度加快\n剩余时间:$1",
@@ -3787,7 +3787,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "0",
     "benefit_type": "desc",
     "desc": "「炼金术士与遗迹群岛」特别作战关卡：「遗迹水晶簇」及调和素材掉落增加200%",
@@ -3800,7 +3800,7 @@
   },
   {
     "act_id": 0,
-    "benefit_condition": "",
+    "benefit_condition": [],
     "benefit_effect": "0",
     "benefit_type": "desc",
     "desc": "占位用buff",

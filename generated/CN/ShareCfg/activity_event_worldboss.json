@@ -37,8 +37,8 @@
         ]
       ]
     ],
-    "expedition_both_buff": "",
-    "expedition_buff": "",
+    "expedition_both_buff": [],
+    "expedition_buff": [],
     "extrachallenge_id": 0,
     "formula": [
       0.02,
@@ -46,8 +46,8 @@
     ],
     "group_num": 1,
     "id": 1,
-    "normal_expedition": "",
-    "normal_expedition_drop_num": "",
+    "normal_expedition": [],
+    "normal_expedition_drop_num": [],
     "reward_pt": [
       [
         9500,
@@ -130,7 +130,7 @@
         14205
       ]
     ],
-    "stage_hp": "",
+    "stage_hp": [],
     "submarine_num": 1,
     "ticket": 0,
     "time": "stop",

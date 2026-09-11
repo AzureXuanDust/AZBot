@@ -2,7 +2,7 @@
   {
     "desc": "体能固定+10",
     "goods_id": 2022,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_tineng2",
@@ -16,7 +16,7 @@
   {
     "desc": "知识固定+10",
     "goods_id": 2023,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_zhishi2",
@@ -30,7 +30,7 @@
   {
     "desc": "实践固定+10",
     "goods_id": 2024,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_shijian2",
@@ -44,7 +44,7 @@
   {
     "desc": "感知固定+10",
     "goods_id": 2025,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_ganzhi2",
@@ -58,7 +58,7 @@
   {
     "desc": "心情固定+2",
     "goods_id": 2026,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "res_xinqing2",
@@ -72,7 +72,7 @@
   {
     "desc": "体能固定+20",
     "goods_id": 2027,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_tineng2",
@@ -86,7 +86,7 @@
   {
     "desc": "知识固定+20",
     "goods_id": 2028,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_zhishi2",
@@ -100,7 +100,7 @@
   {
     "desc": "实践固定+20",
     "goods_id": 2029,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_shijian2",
@@ -114,7 +114,7 @@
   {
     "desc": "感知固定+20",
     "goods_id": 2030,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_ganzhi2",
@@ -128,7 +128,7 @@
   {
     "desc": "心情固定+4",
     "goods_id": 2031,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "res_xinqing2",
@@ -142,7 +142,7 @@
   {
     "desc": "体能固定+40",
     "goods_id": 2032,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_tineng2",
@@ -156,7 +156,7 @@
   {
     "desc": "知识固定+40",
     "goods_id": 2033,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_zhishi2",
@@ -170,7 +170,7 @@
   {
     "desc": "实践固定+40",
     "goods_id": 2034,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_shijian2",
@@ -184,7 +184,7 @@
   {
     "desc": "感知固定+40",
     "goods_id": 2035,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "attr_ganzhi2",
@@ -198,7 +198,7 @@
   {
     "desc": "心情固定+6",
     "goods_id": 2036,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "res_xinqing2",
@@ -212,7 +212,7 @@
   {
     "desc": "（3回合）行程中获得体能增加",
     "goods_id": 2001,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tineng_1",
@@ -226,7 +226,7 @@
   {
     "desc": "（3回合）行程中获得知识增加",
     "goods_id": 2002,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishi_1",
@@ -240,7 +240,7 @@
   {
     "desc": "（3回合）行程中获得实践增加",
     "goods_id": 2003,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijian_1",
@@ -254,7 +254,7 @@
   {
     "desc": "（3回合）行程中获得感知增加",
     "goods_id": 2004,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhi_1",
@@ -268,7 +268,7 @@
   {
     "desc": "「金钱」随机+20~100",
     "goods_id": 2005,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2005",
@@ -282,7 +282,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得少量体能",
     "goods_id": 2006,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tineng_1",
@@ -296,7 +296,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得少量知识",
     "goods_id": 2007,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishi_1",
@@ -310,7 +310,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得少量实践",
     "goods_id": 2008,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijian_1",
@@ -324,7 +324,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得少量感知",
     "goods_id": 2009,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhi_1",
@@ -338,7 +338,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得中量体能",
     "goods_id": 2010,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tineng_2",
@@ -352,7 +352,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得中量知识",
     "goods_id": 2011,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishi_2",
@@ -366,7 +366,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得中量实践",
     "goods_id": 2012,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijian_2",
@@ -380,7 +380,7 @@
   {
     "desc": "（3回合）行程总结时，随机获得中量感知",
     "goods_id": 2013,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhi_2",
@@ -394,7 +394,7 @@
   {
     "desc": "下回合结束时，随机获得大量体能",
     "goods_id": 2014,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tineng_3",
@@ -408,7 +408,7 @@
   {
     "desc": "下回合结束时，随机获得大量知识",
     "goods_id": 2015,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishi_3",
@@ -422,7 +422,7 @@
   {
     "desc": "下回合结束时，随机获得大量实践",
     "goods_id": 2016,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijian_3",
@@ -436,7 +436,7 @@
   {
     "desc": "下回合结束时，随机获得大量感知",
     "goods_id": 2017,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhi_3",
@@ -450,7 +450,7 @@
   {
     "desc": "（3回合）回合开始时，随机获得少量心情",
     "goods_id": 2018,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xinqing_1",
@@ -464,7 +464,7 @@
   {
     "desc": "（3回合）回合开始时，随机获得中量心情",
     "goods_id": 2019,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xinqing_2",
@@ -478,7 +478,7 @@
   {
     "desc": "（3回合）回合开始时，随机获得大量心情",
     "goods_id": 2020,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xinqing_3",
@@ -492,7 +492,7 @@
   {
     "desc": "回合开始时，随机获得心情",
     "goods_id": 2021,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xinqing_3",
@@ -506,7 +506,7 @@
   {
     "desc": "购买后，行动力+1",
     "goods_id": 3,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "res_xingdongli2",
@@ -520,7 +520,7 @@
   {
     "desc": "购买后，行动力+2",
     "goods_id": 3,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 2,
     "goods_type": 3,
     "icon": "res_xingdongli2",
@@ -534,7 +534,7 @@
   {
     "desc": "（3回合）行程中获得体能增加，获得知识减少",
     "goods_id": 2037,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tinengzhishiz",
@@ -548,7 +548,7 @@
   {
     "desc": "（3回合）行程中获得知识增加，获得体能减少",
     "goods_id": 2038,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishitinengz",
@@ -562,7 +562,7 @@
   {
     "desc": "（3回合）行程中获得实践增加，获得感知减少",
     "goods_id": 2039,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijianganzhiz",
@@ -576,7 +576,7 @@
   {
     "desc": "（3回合）行程中获得感知增加，获得实践减少",
     "goods_id": 2040,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhishijianz",
@@ -590,7 +590,7 @@
   {
     "desc": "（效果循环切换）获得实践增加；获得实践减少",
     "goods_id": 2041,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijianq_1",
@@ -604,7 +604,7 @@
   {
     "desc": "（效果循环切换）获得实践增加；获得实践减少",
     "goods_id": 2043,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijianq_1",
@@ -618,7 +618,7 @@
   {
     "desc": "（效果循环切换）获得实践增加；获得实践减少",
     "goods_id": 2045,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_shijianq_1",
@@ -632,7 +632,7 @@
   {
     "desc": "（效果循环切换）获得体能增加；获得体能减少",
     "goods_id": 2047,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tinengq_1",
@@ -646,7 +646,7 @@
   {
     "desc": "（效果循环切换）获得体能增加；获得体能减少",
     "goods_id": 2049,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tinengq_1",
@@ -660,7 +660,7 @@
   {
     "desc": "（效果循环切换）获得体能增加；获得体能减少",
     "goods_id": 2051,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_tinengq_1",
@@ -674,7 +674,7 @@
   {
     "desc": "（效果循环切换）获得感知增加；获得感知减少",
     "goods_id": 2053,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhiq_1",
@@ -688,7 +688,7 @@
   {
     "desc": "（效果循环切换）获得感知增加；获得感知减少",
     "goods_id": 2055,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhiq_1",
@@ -702,7 +702,7 @@
   {
     "desc": "（效果循环切换）获得感知增加；获得感知减少",
     "goods_id": 2057,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_ganzhiq_1",
@@ -716,7 +716,7 @@
   {
     "desc": "（效果循环切换）获得知识增加；获得知识减少",
     "goods_id": 2059,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishiq_1",
@@ -730,7 +730,7 @@
   {
     "desc": "（效果循环切换）获得知识增加；获得知识减少",
     "goods_id": 2061,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishiq_1",
@@ -744,7 +744,7 @@
   {
     "desc": "（效果循环切换）获得知识增加；获得知识减少",
     "goods_id": 2063,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_zhishiq_1",
@@ -758,7 +758,7 @@
   {
     "desc": "第1个行程格获得属性少量增加",
     "goods_id": 2089,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingcheng1_1",
@@ -772,7 +772,7 @@
   {
     "desc": "第1个行程格获得属性中量增加",
     "goods_id": 2090,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingcheng1_2",
@@ -786,7 +786,7 @@
   {
     "desc": "第1个行程格获得属性大量增加",
     "goods_id": 2091,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingcheng1_3",
@@ -800,7 +800,7 @@
   {
     "desc": "奇数行程格获得属性少量增加",
     "goods_id": 2092,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengji_1",
@@ -814,7 +814,7 @@
   {
     "desc": "奇数行程格获得属性中量增加",
     "goods_id": 2093,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengji_2",
@@ -828,7 +828,7 @@
   {
     "desc": "奇数行程格获得属性大量增加",
     "goods_id": 2094,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengji_3",
@@ -842,7 +842,7 @@
   {
     "desc": "偶数行程格获得属性少量增加",
     "goods_id": 2095,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengou_1",
@@ -856,7 +856,7 @@
   {
     "desc": "偶数行程格获得属性中量增加",
     "goods_id": 2096,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengou_2",
@@ -870,7 +870,7 @@
   {
     "desc": "偶数行程格获得属性大量增加",
     "goods_id": 2097,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "benefit_2_xingchengou_3",
@@ -884,7 +884,7 @@
   {
     "desc": "体能固定+10",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 2,
     "icon": "attr_tineng2",
@@ -898,7 +898,7 @@
   {
     "desc": "知识固定+10",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 2,
     "icon": "attr_zhishi2",
@@ -912,7 +912,7 @@
   {
     "desc": "实践固定+10",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 2,
     "icon": "attr_shijian2",
@@ -926,7 +926,7 @@
   {
     "desc": "感知固定+10",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 2,
     "icon": "attr_ganzhi2",
@@ -940,7 +940,7 @@
   {
     "desc": "体能固定+20",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 20,
     "goods_type": 2,
     "icon": "attr_tineng2",
@@ -954,7 +954,7 @@
   {
     "desc": "知识固定+20",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 20,
     "goods_type": 2,
     "icon": "attr_zhishi2",
@@ -968,7 +968,7 @@
   {
     "desc": "实践固定+20",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 20,
     "goods_type": 2,
     "icon": "attr_shijian2",
@@ -982,7 +982,7 @@
   {
     "desc": "感知固定+20",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 20,
     "goods_type": 2,
     "icon": "attr_ganzhi2",
@@ -996,7 +996,7 @@
   {
     "desc": "体能固定+40",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 40,
     "goods_type": 2,
     "icon": "attr_tineng2",
@@ -1010,7 +1010,7 @@
   {
     "desc": "知识固定+40",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 40,
     "goods_type": 2,
     "icon": "attr_zhishi2",
@@ -1024,7 +1024,7 @@
   {
     "desc": "实践固定+40",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 40,
     "goods_type": 2,
     "icon": "attr_shijian2",
@@ -1038,7 +1038,7 @@
   {
     "desc": "感知固定+40",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 40,
     "goods_type": 2,
     "icon": "attr_ganzhi2",
@@ -1052,7 +1052,7 @@
   {
     "desc": "体能固定+60",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 60,
     "goods_type": 2,
     "icon": "attr_tineng2",
@@ -1066,7 +1066,7 @@
   {
     "desc": "知识固定+60",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 60,
     "goods_type": 2,
     "icon": "attr_zhishi2",
@@ -1080,7 +1080,7 @@
   {
     "desc": "实践固定+60",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 60,
     "goods_type": 2,
     "icon": "attr_shijian2",
@@ -1094,7 +1094,7 @@
   {
     "desc": "感知固定+60",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 60,
     "goods_type": 2,
     "icon": "attr_ganzhi2",
@@ -1108,7 +1108,7 @@
   {
     "desc": "体能固定+80",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 80,
     "goods_type": 2,
     "icon": "attr_tineng2",
@@ -1122,7 +1122,7 @@
   {
     "desc": "知识固定+80",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 80,
     "goods_type": 2,
     "icon": "attr_zhishi2",
@@ -1136,7 +1136,7 @@
   {
     "desc": "实践固定+80",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 80,
     "goods_type": 2,
     "icon": "attr_shijian2",
@@ -1150,7 +1150,7 @@
   {
     "desc": "感知固定+80",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 80,
     "goods_type": 2,
     "icon": "attr_ganzhi2",
@@ -1164,7 +1164,7 @@
   {
     "desc": "心情固定+2",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 2,
     "goods_type": 3,
     "icon": "res_xinqing2",
@@ -1178,7 +1178,7 @@
   {
     "desc": "心情固定+4",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 4,
     "goods_type": 3,
     "icon": "res_xinqing2",
@@ -1192,7 +1192,7 @@
   {
     "desc": "心情固定+6",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 6,
     "goods_type": 3,
     "icon": "res_xinqing2",
@@ -1206,7 +1206,7 @@
   {
     "desc": "心情固定+8",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 8,
     "goods_type": 3,
     "icon": "res_xinqing2",
@@ -1220,7 +1220,7 @@
   {
     "desc": "心情固定+10",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 3,
     "icon": "res_xinqing2",
@@ -1234,7 +1234,7 @@
   {
     "desc": "行动力固定+1",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "res_xingdongli2",
@@ -1248,7 +1248,7 @@
   {
     "desc": "占星馆刷新次数+1",
     "goods_id": 305,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "res_refresh1",
@@ -1262,7 +1262,7 @@
   {
     "desc": "塔罗牌和词条的重抽次数+1",
     "goods_id": 306,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "res_refresh2",
@@ -1276,7 +1276,7 @@
   {
     "desc": "选择并升级1个释义",
     "goods_id": 1,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 5,
     "icon": "buff_2005",
@@ -1290,7 +1290,7 @@
   {
     "desc": "选择并升级1个释义",
     "goods_id": 1,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 5,
     "icon": "buff_2005",
@@ -1304,7 +1304,7 @@
   {
     "desc": "选择并升级1个释义",
     "goods_id": 1,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 5,
     "icon": "buff_2005",
@@ -2166,7 +2166,7 @@
   {
     "desc": "[测试配置，无需本地化]300体能",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 300,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2180,7 +2180,7 @@
   {
     "desc": "[测试配置，无需本地化]300知识",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 300,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2194,7 +2194,7 @@
   {
     "desc": "[测试配置，无需本地化]300实践",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 300,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2208,7 +2208,7 @@
   {
     "desc": "[测试配置，无需本地化]300感知",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 300,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2222,7 +2222,7 @@
   {
     "desc": "[测试配置，无需本地化]300金钱",
     "goods_id": 301,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 300,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2236,7 +2236,7 @@
   {
     "desc": "[测试配置，无需本地化]100心情",
     "goods_id": 302,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 100,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2250,7 +2250,7 @@
   {
     "desc": "[测试配置，无需本地化]3行动力",
     "goods_id": 303,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 3,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2264,7 +2264,7 @@
   {
     "desc": "[测试配置，无需本地化]10好感度",
     "goods_id": 304,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 10,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2278,7 +2278,7 @@
   {
     "desc": "[测试配置，无需本地化]5商店刷新次数",
     "goods_id": 305,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 5,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2292,7 +2292,7 @@
   {
     "desc": "[测试配置，无需本地化]5塔罗牌和词条的刷新次数",
     "goods_id": 306,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 5,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2306,7 +2306,7 @@
   {
     "desc": "[测试配置，无需本地化]3选1",
     "goods_id": 1,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 5,
     "icon": "benefit_2_xingchengou_3",
@@ -2320,7 +2320,7 @@
   {
     "desc": "[测试配置，无需本地化]3选1*2",
     "goods_id": 305,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 50,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2334,7 +2334,7 @@
   {
     "desc": "[测试配置，无需本地化]3选1&2选1",
     "goods_id": 305,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": -50,
     "goods_type": 2,
     "icon": "benefit_2_xingchengou_3",
@@ -2444,7 +2444,7 @@
   {
     "desc": "[测试配置，无需本地化]1个刷新次数（塔罗牌）-by benefit",
     "goods_id": 6,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2458,7 +2458,7 @@
   {
     "desc": "[测试配置，无需本地化]2个刷新次数（塔罗牌）-by benefit",
     "goods_id": 6,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 2,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2472,7 +2472,7 @@
   {
     "desc": "[测试配置，无需本地化]1个刷新次数（商店）-by benefit",
     "goods_id": 5,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2486,7 +2486,7 @@
   {
     "desc": "[测试配置，无需本地化]2个刷新次数（商店）-by benefit",
     "goods_id": 5,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 2,
     "goods_type": 3,
     "icon": "benefit_2_xingchengou_3",
@@ -2932,7 +2932,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810701,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -2946,7 +2946,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810621,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -2960,7 +2960,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810781,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -2974,7 +2974,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810321,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -2988,7 +2988,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3811041,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3002,7 +3002,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810661,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3016,7 +3016,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810821,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3030,7 +3030,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810921,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3044,7 +3044,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810581,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3058,7 +3058,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810741,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3072,7 +3072,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810541,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3086,7 +3086,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810441,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3100,7 +3100,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810381,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3114,7 +3114,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3811081,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3128,7 +3128,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810011,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3142,7 +3142,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810261,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3156,7 +3156,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810191,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3170,7 +3170,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810131,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3184,7 +3184,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810861,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3198,7 +3198,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810071,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3212,7 +3212,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810981,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",
@@ -3226,7 +3226,7 @@
   {
     "desc": "[测试配置，无需本地化]选择并获得1个塔罗牌",
     "goods_id": 3810481,
-    "goods_id_list": "",
+    "goods_id_list": [],
     "goods_num": 1,
     "goods_type": 1,
     "icon": "buff_2008",

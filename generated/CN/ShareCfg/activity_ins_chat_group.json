@@ -37,7 +37,7 @@
     "id": 1,
     "name": "休闲计划",
     "ship_group": 960007,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -145,7 +145,7 @@
     "id": 4,
     "name": "沐浴露",
     "ship_group": 960008,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -274,7 +274,7 @@
     "id": 7,
     "name": "爱好",
     "ship_group": 960009,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -382,7 +382,7 @@
     "id": 10,
     "name": "踩背",
     "ship_group": 960010,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -502,7 +502,7 @@
     "id": 13,
     "name": "手机短信",
     "ship_group": 960011,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -646,7 +646,7 @@
     "id": 16,
     "name": "请假",
     "ship_group": 960005,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -1603,7 +1603,7 @@
     "id": 29,
     "name": "甜品课",
     "ship_group": 20509,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -1732,7 +1732,7 @@
     "id": 32,
     "name": "音乐会邀请",
     "ship_group": 40503,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -1852,7 +1852,7 @@
     "id": 35,
     "name": "表情包的魔法",
     "ship_group": 49906,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -1968,7 +1968,7 @@
     "id": 38,
     "name": "睡过头了",
     "ship_group": 40404,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2105,7 +2105,7 @@
     "id": 41,
     "name": "高效沟通",
     "ship_group": 40704,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2214,7 +2214,7 @@
     "id": 44,
     "name": "跑酷线路",
     "ship_group": 40152,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2340,7 +2340,7 @@
     "id": 47,
     "name": "甜品店",
     "ship_group": 40211,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2462,7 +2462,7 @@
     "id": 50,
     "name": "整理文件",
     "ship_group": 40109,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2610,7 +2610,7 @@
     "id": 53,
     "name": "新游戏",
     "ship_group": 40111,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2742,7 +2742,7 @@
     "id": 56,
     "name": "口味调查",
     "ship_group": 50105,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2872,7 +2872,7 @@
     "id": 59,
     "name": "细节问题",
     "ship_group": 50301,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -2990,7 +2990,7 @@
     "id": 62,
     "name": "过度关注",
     "ship_group": 50210,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3119,7 +3119,7 @@
     "id": 65,
     "name": "撤回大法",
     "ship_group": 50109,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3251,7 +3251,7 @@
     "id": 68,
     "name": "保持洁净",
     "ship_group": 50108,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3467,7 +3467,7 @@
     "id": 72,
     "name": "排忧解难",
     "ship_group": 50209,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3607,7 +3607,7 @@
     "id": 75,
     "name": "灵感再现",
     "ship_group": 60508,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3743,7 +3743,7 @@
     "id": 78,
     "name": "探险！",
     "ship_group": 60803,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -3882,7 +3882,7 @@
     "id": 81,
     "name": "去标准化",
     "ship_group": 60111,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4036,7 +4036,7 @@
     "id": 84,
     "name": "特别的作战报告",
     "ship_group": 60203,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4177,7 +4177,7 @@
     "id": 87,
     "name": "问候之夜",
     "ship_group": 90107,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4295,7 +4295,7 @@
     "id": 90,
     "name": "探险装备",
     "ship_group": 10713,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4410,7 +4410,7 @@
     "id": 93,
     "name": "米勒大人的纸飞机",
     "ship_group": 10153,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4544,7 +4544,7 @@
     "id": 96,
     "name": "指挥官——！！！",
     "ship_group": 10234,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4678,7 +4678,7 @@
     "id": 99,
     "name": "宠物",
     "ship_group": 70203,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4822,7 +4822,7 @@
     "id": 102,
     "name": "植物交流",
     "ship_group": 110201,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -4956,7 +4956,7 @@
     "id": 105,
     "name": "绿色环境",
     "ship_group": 110101,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5065,7 +5065,7 @@
     "id": 108,
     "name": "送饭",
     "ship_group": 70509,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5177,7 +5177,7 @@
     "id": 111,
     "name": "提神机器人",
     "ship_group": 70208,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5314,7 +5314,7 @@
     "id": 114,
     "name": "休息的艺术",
     "ship_group": 20712,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5443,7 +5443,7 @@
     "id": 117,
     "name": "百密一疏",
     "ship_group": 20516,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5570,7 +5570,7 @@
     "id": 120,
     "name": "罪孽深重之人",
     "ship_group": 20138,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5695,7 +5695,7 @@
     "id": 123,
     "name": "尼罗河粽子",
     "ship_group": 20235,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5814,7 +5814,7 @@
     "id": 126,
     "name": "惊喜",
     "ship_group": 20139,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -5947,7 +5947,7 @@
     "id": 129,
     "name": "握住我的手",
     "ship_group": 20236,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6062,7 +6062,7 @@
     "id": 132,
     "name": "系统的日程规划",
     "ship_group": 40407,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6173,7 +6173,7 @@
     "id": 135,
     "name": "节能教学",
     "ship_group": 40814,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6298,7 +6298,7 @@
     "id": 138,
     "name": "开发顾问",
     "ship_group": 40113,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6439,7 +6439,7 @@
     "id": 141,
     "name": "甜点派送",
     "ship_group": 90401,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6588,7 +6588,7 @@
     "id": 144,
     "name": "神秘记事本",
     "ship_group": 90105,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6701,7 +6701,7 @@
     "id": 147,
     "name": "“公平交易”",
     "ship_group": 80401,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6822,7 +6822,7 @@
     "id": 150,
     "name": "线上工作",
     "ship_group": 80601,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -6937,7 +6937,7 @@
     "id": 153,
     "name": "形象改造",
     "ship_group": 80105,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7065,7 +7065,7 @@
     "id": 156,
     "name": "特色庆典",
     "ship_group": 80303,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7178,7 +7178,7 @@
     "id": 159,
     "name": "净化邪祟",
     "ship_group": 80204,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7281,7 +7281,7 @@
     "id": 162,
     "name": "一起喝",
     "ship_group": 10709,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7387,7 +7387,7 @@
     "id": 165,
     "name": "雨天的香道",
     "ship_group": 30716,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7495,7 +7495,7 @@
     "id": 168,
     "name": "水族馆",
     "ship_group": 31702,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7607,7 +7607,7 @@
     "id": 171,
     "name": "对酒当歌",
     "ship_group": 30516,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7719,7 +7719,7 @@
     "id": 174,
     "name": "迷迭香",
     "ship_group": 30320,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7826,7 +7826,7 @@
     "id": 177,
     "name": "奇特食材",
     "ship_group": 30227,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -7936,7 +7936,7 @@
     "id": 180,
     "name": "盆栽在说话",
     "ship_group": 30192,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8029,7 +8029,7 @@
     "id": 183,
     "name": "缝缝补补",
     "ship_group": 30225,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8132,7 +8132,7 @@
     "id": 186,
     "name": "宰了你！",
     "ship_group": 960012,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8249,7 +8249,7 @@
     "id": 189,
     "name": "指挥官，请下令吧！",
     "ship_group": 960013,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8359,7 +8359,7 @@
     "id": 192,
     "name": "温柔之心",
     "ship_group": 960014,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8474,7 +8474,7 @@
     "id": 195,
     "name": "出发！去钓鱼",
     "ship_group": 960015,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8588,7 +8588,7 @@
     "id": 198,
     "name": "仓库怪谈",
     "ship_group": 960016,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8714,7 +8714,7 @@
     "id": 201,
     "name": "烦恼咨询",
     "ship_group": 10324,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8835,7 +8835,7 @@
     "id": 204,
     "name": "这里挤不下这么多人",
     "ship_group": 80503,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -8956,7 +8956,7 @@
     "id": 207,
     "name": "惊人的差评率",
     "ship_group": 10233,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9143,7 +9143,7 @@
     "id": 211,
     "name": "要记得好好吃饭",
     "ship_group": 10702,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9257,7 +9257,7 @@
     "id": 214,
     "name": "追气球的人",
     "ship_group": 10702,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9369,7 +9369,7 @@
     "id": 217,
     "name": "要爆炸啦！",
     "ship_group": 10110,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9484,7 +9484,7 @@
     "id": 220,
     "name": "全面测试",
     "ship_group": 10155,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9595,7 +9595,7 @@
     "id": 223,
     "name": "快乐向导",
     "ship_group": 10235,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9708,7 +9708,7 @@
     "id": 226,
     "name": "营养速递",
     "ship_group": 10725,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9821,7 +9821,7 @@
     "id": 229,
     "name": "课题选择",
     "ship_group": 69903,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -9930,7 +9930,7 @@
     "id": 232,
     "name": "魔女的工作",
     "ship_group": 49910,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10050,7 +10050,7 @@
     "id": 235,
     "name": "自然之音",
     "ship_group": 119901,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10158,7 +10158,7 @@
     "id": 238,
     "name": "欢迎秘诀",
     "ship_group": 79903,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10272,7 +10272,7 @@
     "id": 241,
     "name": "请假方案",
     "ship_group": 19906,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10382,7 +10382,7 @@
     "id": 244,
     "name": "撒丁的午后",
     "ship_group": 60501,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10488,7 +10488,7 @@
     "id": 247,
     "name": "潮流日新月异",
     "ship_group": 30194,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10589,7 +10589,7 @@
     "id": 250,
     "name": "笑容的奥秘",
     "ship_group": 60509,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10698,7 +10698,7 @@
     "id": 253,
     "name": "万物诊断",
     "ship_group": 60112,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10807,7 +10807,7 @@
     "id": 256,
     "name": "华丽训练",
     "ship_group": 60204,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -10913,7 +10913,7 @@
     "id": 259,
     "name": "后勤保障",
     "ship_group": 51901,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11095,7 +11095,7 @@
     "id": 263,
     "name": "琢玉",
     "ship_group": 50302,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11202,7 +11202,7 @@
     "id": 266,
     "name": "隐试调香",
     "ship_group": 50212,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11308,7 +11308,7 @@
     "id": 269,
     "name": "关于称呼",
     "ship_group": 20607,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11418,7 +11418,7 @@
     "id": 272,
     "name": "同志，一起冬泳！",
     "ship_group": 70303,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11517,7 +11517,7 @@
     "id": 275,
     "name": "禁止加班",
     "ship_group": 70113,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11632,7 +11632,7 @@
     "id": 278,
     "name": "瓶颈期",
     "ship_group": 70209,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11735,7 +11735,7 @@
     "id": 281,
     "name": "一杯咖啡引起的过载",
     "ship_group": 70210,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -11844,7 +11844,7 @@
     "id": 284,
     "name": "好运的苦恼",
     "ship_group": 30116,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12031,7 +12031,7 @@
     "id": 288,
     "name": "二选一？",
     "ship_group": 30717,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12144,7 +12144,7 @@
     "id": 291,
     "name": "神使之证",
     "ship_group": 30228,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12251,7 +12251,7 @@
     "id": 294,
     "name": "尾巴护理",
     "ship_group": 30229,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12443,7 +12443,7 @@
     "id": 298,
     "name": "问卷调查",
     "ship_group": 20313,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12557,7 +12557,7 @@
     "id": 301,
     "name": "额外工作",
     "ship_group": 10601,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12745,7 +12745,7 @@
     "id": 305,
     "name": "不完美的下午茶",
     "ship_group": 20403,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12856,7 +12856,7 @@
     "id": 308,
     "name": "茶会的邀请",
     "ship_group": 40507,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -12969,7 +12969,7 @@
     "id": 311,
     "name": "夜晚的声音",
     "ship_group": 40815,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13077,7 +13077,7 @@
     "id": 314,
     "name": "这里已经满员了",
     "ship_group": 40317,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13189,7 +13189,7 @@
     "id": 317,
     "name": "脑力比赛？体力比赛？",
     "ship_group": 40114,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13304,7 +13304,7 @@
     "id": 320,
     "name": "交通“意外“",
     "ship_group": 40115,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13576,7 +13576,7 @@
     "id": 325,
     "name": "茶会游戏",
     "ship_group": 90111,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13682,7 +13682,7 @@
     "id": 328,
     "name": "乐趣之书",
     "ship_group": 81801,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13791,7 +13791,7 @@
     "id": 331,
     "name": "大力出奇迹",
     "ship_group": 80602,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -13896,7 +13896,7 @@
     "id": 334,
     "name": "烤肉分享",
     "ship_group": 80106,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14080,7 +14080,7 @@
     "id": 338,
     "name": "皇家女仆大赛",
     "ship_group": 20501,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14188,7 +14188,7 @@
     "id": 341,
     "name": "绝对的洁净",
     "ship_group": 29905,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14309,7 +14309,7 @@
     "id": 344,
     "name": "抽象艺术",
     "ship_group": 20237,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14408,7 +14408,7 @@
     "id": 347,
     "name": "街头战斗！",
     "ship_group": 20115,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14519,7 +14519,7 @@
     "id": 350,
     "name": "待命位置",
     "ship_group": 20314,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14716,7 +14716,7 @@
     "id": 354,
     "name": "限量版大作战！",
     "ship_group": 30129,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14820,7 +14820,7 @@
     "id": 357,
     "name": "阳光测评",
     "ship_group": 10720,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -14931,7 +14931,7 @@
     "id": 360,
     "name": "演出意外",
     "ship_group": 10236,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15038,7 +15038,7 @@
     "id": 363,
     "name": "安全测试",
     "ship_group": 10156,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15153,7 +15153,7 @@
     "id": 366,
     "name": "帮派对峙？",
     "ship_group": 10157,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15267,7 +15267,7 @@
     "id": 369,
     "name": "离家出走？",
     "ship_group": 10158,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15454,7 +15454,7 @@
     "id": 373,
     "name": "“觐见”安排 ",
     "ship_group": 30119,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15561,7 +15561,7 @@
     "id": 376,
     "name": "没有任何问题的便当",
     "ship_group": 30707,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15667,7 +15667,7 @@
     "id": 379,
     "name": "科技展会",
     "ship_group": 30409,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15784,7 +15784,7 @@
     "id": 382,
     "name": "舒缓曲",
     "ship_group": 20238,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -15902,7 +15902,7 @@
     "id": 385,
     "name": "躲避抓捕",
     "ship_group": 31703,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -16008,7 +16008,7 @@
     "id": 388,
     "name": "超可爱魔法使？",
     "ship_group": 20140,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },
@@ -16118,7 +16118,7 @@
     "id": 391,
     "name": "全面封锁",
     "ship_group": 20119,
-    "trigger_param": "",
+    "trigger_param": [],
     "trigger_type": 1,
     "unlock_desc": "获得角色"
   },

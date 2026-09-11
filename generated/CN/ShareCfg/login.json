@@ -33,7 +33,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -69,7 +69,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -105,7 +105,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -141,7 +141,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -177,7 +177,7 @@
     "login_cri": "",
     "login_static": "login_0921",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -213,7 +213,7 @@
     "login_cri": "",
     "login_static": "login_newyear",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "main-chunjie3",
@@ -249,7 +249,7 @@
     "login_cri": "loginbg",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -285,7 +285,7 @@
     "login_cri": "",
     "login_static": "login_0214",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -321,7 +321,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "login_0401",
@@ -357,7 +357,7 @@
     "login_cri": "loginbg_0401",
     "login_static": "",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -393,7 +393,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -429,7 +429,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -465,7 +465,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -501,7 +501,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "ryza-1",
@@ -537,7 +537,7 @@
     "login_cri": "",
     "login_static": "login_ryza",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -573,7 +573,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -769,7 +769,7 @@
     "login_cri": "loginbg_230401",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "doa_guanqia",
@@ -779,7 +779,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "story-musicanniversary-gorgeous",
@@ -877,7 +877,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -913,7 +913,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "story-musicanniversary-gorgeous",
@@ -985,7 +985,7 @@
     "login_cri": "",
     "login_static": "login_0817_1",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1021,7 +1021,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1031,7 +1031,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 1,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1289,7 +1289,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "theme-SeaAndSun-image",
@@ -1511,7 +1511,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1521,7 +1521,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1531,7 +1531,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1567,7 +1567,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1603,7 +1603,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1639,7 +1639,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "votefes-start",
@@ -1675,7 +1675,7 @@
     "login_cri": "",
     "login_static": "login_0401",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1711,7 +1711,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1747,7 +1747,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1783,7 +1783,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1819,7 +1819,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1855,7 +1855,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1953,7 +1953,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -1989,7 +1989,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2025,7 +2025,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2061,7 +2061,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2159,7 +2159,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "story-richang-light",
@@ -2195,7 +2195,7 @@
     "login_cri": "",
     "login_static": "login_0401",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2205,7 +2205,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2241,7 +2241,7 @@
     "login_cri": "",
     "login_static": "login_0424",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2277,7 +2277,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2287,7 +2287,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2323,7 +2323,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2333,7 +2333,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2343,7 +2343,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2353,7 +2353,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2363,7 +2363,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2399,7 +2399,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2435,7 +2435,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2471,7 +2471,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2481,7 +2481,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2491,7 +2491,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2501,7 +2501,7 @@
     "login_cri": "",
     "login_static": "login_0101",
     "op_play": 1,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2537,7 +2537,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2635,7 +2635,7 @@
     "login_cri": "",
     "login_static": "login_qiye",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2733,7 +2733,7 @@
     "login_cri": "",
     "login_static": "login_qiye",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -2743,7 +2743,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -3001,7 +3001,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -3197,7 +3197,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",
@@ -3331,7 +3331,7 @@
     "login_cri": "",
     "login_static": "login",
     "op_play": 0,
-    "op_time": ""
+    "op_time": []
   },
   {
     "bgm": "",

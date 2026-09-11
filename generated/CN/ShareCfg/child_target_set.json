@@ -1,6 +1,6 @@
 [
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述1",
     "drop_display": [
       3,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述2",
     "drop_display": [
       3,
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述3",
     "drop_display": [
       3,
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述4",
     "drop_display": [
       3,
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述5",
     "drop_display": [
       3,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述6",
     "drop_display": [
       3,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述7",
     "drop_display": [
       3,
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述8",
     "drop_display": [
       3,
@@ -268,7 +268,7 @@
     ]
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述9",
     "drop_display": [
       3,
@@ -298,7 +298,7 @@
     "target_progress_main": []
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述10",
     "drop_display": [
       3,
@@ -328,7 +328,7 @@
     "target_progress_main": []
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述11",
     "drop_display": [
       3,
@@ -358,7 +358,7 @@
     "target_progress_main": []
   },
   {
-    "condition": "",
+    "condition": [],
     "desc": "占位描述12",
     "drop_display": [
       3,

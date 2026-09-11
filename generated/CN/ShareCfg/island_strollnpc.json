@@ -3,7 +3,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 1001,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 100100,
     "unlock": 0
   },
@@ -11,7 +11,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 1008,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 100800,
     "unlock": 0
   },
@@ -19,7 +19,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 1009,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 100900,
     "unlock": 0
   },
@@ -27,7 +27,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 1010,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 101000,
     "unlock": 0
   },
@@ -35,7 +35,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 1012,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 101200,
     "unlock": 0
   },
@@ -529,7 +529,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 300900,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 300900,
     "unlock": 0
   },
@@ -537,7 +537,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 300901,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 300901,
     "unlock": 0
   },
@@ -545,7 +545,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 300902,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 300902,
     "unlock": 0
   },
@@ -553,7 +553,7 @@
     "action_feedback": 0,
     "behaviourTree": "",
     "id": 300903,
-    "mapId": "",
+    "mapId": [],
     "unit_id": 300903,
     "unlock": 0
   },

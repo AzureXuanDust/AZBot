@@ -1,6 +1,6 @@
 [
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 1,
     "isShow": 1,
@@ -8,7 +8,7 @@
     "settingName": "允许GPGPU"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 2,
     "isShow": 1,
@@ -121,7 +121,7 @@
     "settingName": "静态阴影"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 11,
     "isShow": 1,
@@ -129,7 +129,7 @@
     "settingName": "实时阴影"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 12,
     "isShow": 1,
@@ -137,7 +137,7 @@
     "settingName": "反射"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 13,
     "isShow": 1,
@@ -145,7 +145,7 @@
     "settingName": "多光源"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 14,
     "isShow": 1,
@@ -165,7 +165,7 @@
     "settingName": "后处理"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 16,
     "isShow": 1,
@@ -173,7 +173,7 @@
     "settingName": "抗锯齿"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 17,
     "isShow": 1,
@@ -181,7 +181,7 @@
     "settingName": "HDR"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 18,
     "isShow": 1,
@@ -189,7 +189,7 @@
     "settingName": "景深"
   },
   {
-    "dispaySelectName": "",
+    "dispaySelectName": [],
     "displayType": 1,
     "id": 19,
     "isShow": 1,

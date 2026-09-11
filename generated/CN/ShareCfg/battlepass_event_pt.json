@@ -207,7 +207,7 @@
     "bg": "bg_worldcruise_1",
     "bg_tips": "",
     "crusing_map": "CrusingMap_0",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 7001,
     "key_point_display": [
       10,
@@ -536,7 +536,7 @@
     "bg": "bg_worldcruise_1",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 7002,
     "key_point_display": [
       10,
@@ -865,7 +865,7 @@
     "bg": "bg_worldcruise_1",
     "bg_tips": "",
     "crusing_map": "CrusingMap_2",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 7003,
     "key_point_display": [
       10,
@@ -1194,7 +1194,7 @@
     "bg": "bg_worldcruise_1",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 7004,
     "key_point_display": [
       10,
@@ -1523,7 +1523,7 @@
     "bg": "bg_worldcruise_1",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 7005,
     "key_point_display": [
       10,
@@ -10602,7 +10602,7 @@
     "bg": "bg_worldcruise_2",
     "bg_tips": "",
     "crusing_map": "CrusingMap_0",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 45900,
     "key_point_display": [
       10,
@@ -10931,7 +10931,7 @@
     "bg": "bg_worldcruise_2",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 45901,
     "key_point_display": [
       10,
@@ -11260,7 +11260,7 @@
     "bg": "bg_worldcruise_2",
     "bg_tips": "",
     "crusing_map": "CrusingMap_2",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 45902,
     "key_point_display": [
       10,
@@ -11589,7 +11589,7 @@
     "bg": "bg_worldcruise_2",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 45903,
     "key_point_display": [
       10,
@@ -11918,7 +11918,7 @@
     "bg": "bg_worldcruise_2",
     "bg_tips": "",
     "crusing_map": "CrusingMap_1",
-    "equip_skin": "",
+    "equip_skin": [],
     "id": 45904,
     "key_point_display": [
       10,

@@ -684,243 +684,243 @@
     ]
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110201,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-1",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 1,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110202,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-2",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 1,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110203,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-3",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 2,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110204,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-4",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 2,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110205,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-5",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 3,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110206,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物1-6",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 3,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110207,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-1",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 4,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110208,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-2",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 4,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110209,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-3",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 4,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110210,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-4",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 6,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110211,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-5",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 6,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110212,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物2-6",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 6,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110213,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-1",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 7,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110214,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-2",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 7,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110215,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-3",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 7,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110216,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-4",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 8,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110217,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-5",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 8,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110218,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物3-6",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 8,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110219,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-1",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 9,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110220,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-2",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 9,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110221,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-3",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 9,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110222,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-4",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 10,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110223,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-5",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 10,
-    "work_unit": ""
+    "work_unit": []
   },
   {
-    "array": "",
+    "array": [],
     "id": 10110224,
-    "idle_unit": "",
+    "idle_unit": [],
     "name": "牧场动物4-6",
     "objId": 0,
     "place_group": 101102,
     "unlock_place_level": 10,
-    "work_unit": ""
+    "work_unit": []
   }
 ]

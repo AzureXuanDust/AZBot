@@ -7,7 +7,7 @@
     "id": 1001301,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -24,7 +24,7 @@
     "id": 1001302,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -41,7 +41,7 @@
     "id": 1002101,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -58,9 +58,9 @@
     "id": 1002801,
     "ik_move": "",
     "scene_item": "FurnitureSlots/100301/pre_db_sp_sh_xmas01(Clone)/pre_db_sp_sh_xmas_decoration02",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -70,7 +70,7 @@
     "id": 1003101,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -87,7 +87,7 @@
     "id": 1004101,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -104,7 +104,7 @@
     "id": 1007101,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -121,9 +121,9 @@
     "id": 2002501,
     "ik_move": "",
     "scene_item": "FurnitureSlots/120303/pre_db_nh_sp_nyd_livingroom01(Clone)/pre_db_nh_sp_nyd_decoration02",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -133,9 +133,9 @@
     "id": 2002502,
     "ik_move": "",
     "scene_item": "FurnitureSlots/120303/pre_db_nh_sp_nyd_livingroom01(Clone)/pre_db_nh_sp_nyd_table/all/pre_db_nh_sp_nyd_food01a",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -145,7 +145,7 @@
     "id": 3003321,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -162,7 +162,7 @@
     "id": 3003322,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -179,7 +179,7 @@
     "id": 3003323,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -201,7 +201,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -216,7 +216,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -231,7 +231,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -241,7 +241,7 @@
     "id": 3999991,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -258,7 +258,7 @@
     "id": 3999992,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -275,7 +275,7 @@
     "id": 3999993,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -292,7 +292,7 @@
     "id": 3999994,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -314,7 +314,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -329,7 +329,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -344,7 +344,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -359,7 +359,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -369,7 +369,7 @@
     "id": 5005001,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -386,7 +386,7 @@
     "id": 5005002,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -403,7 +403,7 @@
     "id": 5005003,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -425,7 +425,7 @@
       0
     ],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -435,9 +435,9 @@
     "id": 6004001,
     "ik_move": "",
     "scene_item": "FurnitureSlots/1140101/pre_db_aijier_bed01(Clone)/all/mesh/fbx_db_aje_bed01_1",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -447,7 +447,7 @@
     "id": 6004002,
     "ik_move": "",
     "scene_item": "",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
     "vibrate": [
       [
@@ -464,9 +464,9 @@
     "id": 6004003,
     "ik_move": "",
     "scene_item": "FurnitureSlots/1140301/pre_db_aijier_living01(Clone)/pre_db_aje_table02/all/ZZ/fbx_db_ceram28b3",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -556,9 +556,9 @@
     "id": 7001001,
     "ik_move": "",
     "scene_item": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)/all/Bone_MFJC_1/Bone_MFJC_2/Bone_MFJC_3",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -568,9 +568,9 @@
     "id": 7001002,
     "ik_move": "",
     "scene_item": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)/all/Bone_MFJC_1/Bone_MFJC_2/Bone_MFJC_3",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 1,
-    "vibrate": ""
+    "vibrate": []
   },
   {
     "action_emote": "",
@@ -580,8 +580,8 @@
     "id": 7001003,
     "ik_move": "",
     "scene_item": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)/all/Bone_MFJC_1/Bone_MFJC_2/Bone_MFJC_3",
-    "tip_offset": "",
+    "tip_offset": [],
     "trigger_type": 2,
-    "vibrate": ""
+    "vibrate": []
   }
 ]
