@@ -82,6 +82,7 @@ export async function applyBelfastFormat(outRoot, servers, templateRoot = null, 
   for (const server of servers) {
     await coerceServerFiles(outRoot, server, hints);
     await stripServerIndexKeys(outRoot, server, hints);
+    await coerceEmptyStringsToTemplateShapes(outRoot, server, hints);
     await mirrorServerFiles(outRoot, server, hints);
     await writeEmptyObjectFiles(outRoot, server, hints);
     await normalizeServerFiles(outRoot, server, hints);
@@ -91,6 +92,54 @@ export async function applyBelfastFormat(outRoot, servers, templateRoot = null, 
     await copyMissingTemplateFiles(outRoot, templateRoot, hints, servers);
     await pruneTemplateExtraFiles(outRoot, hints, servers);
   }
+}
+
+// Upstream lua dumps (CN 9.7.381+) encode empty tables as empty strings
+// (pic_list = "", effect_base = "", ...) where older data used {} / [].
+// The belfast server decodes those fields into typed Go slices, so an empty
+// string breaks json.Unmarshal for the whole entry. Restore any empty-string
+// value to the shape the template recorded for that path: arrays become [],
+// objects become {}. Paths the template never recorded (or recorded as mixed)
+// are left untouched.
+async function coerceEmptyStringsToTemplateShapes(outRoot, server, hints) {
+  if (!hints) return;
+  const serverRoot = path.join(outRoot, server);
+  if (!(await exists(serverRoot))) return;
+  const files = await listFiles(serverRoot, '.json');
+  await Promise.all(files.map(async (file) => {
+    const rel = `${server}/${toPosix(path.relative(serverRoot, file))}`;
+    if (!hints.hasFile(rel)) return;
+    let data;
+    try {
+      data = await readJson(file);
+    } catch {
+      return;
+    }
+    let changed = false;
+    const visit = (value, shapePath) => {
+      if (value === '') {
+        const shape = hints.pathShape(rel, shapePath);
+        if (shape === 'array') {
+          changed = true;
+          return [];
+        }
+        if (shape === 'object') {
+          changed = true;
+          return {};
+        }
+        return value;
+      }
+      if (Array.isArray(value)) {
+        for (let i = 0; i < value.length; i += 1) value[i] = visit(value[i], `${shapePath}/*`);
+        return value;
+      }
+      if (value === null || typeof value !== 'object') return value;
+      for (const key of Object.keys(value)) value[key] = visit(value[key], `${shapePath}/${key}`);
+      return value;
+    };
+    visit(data, '');
+    if (changed) await writeJson(file, data);
+  }));
 }
 
 export function isBelfastManagedRootFile(rel) {
