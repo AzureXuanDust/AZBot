@@ -64,7 +64,7 @@
     "icon": 5,
     "id": 501,
     "only_self": 1,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "停止",
     "type": 5
@@ -250,7 +250,7 @@
     "icon": 8,
     "id": 901,
     "only_self": 1,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "邀请跟随",
     "type": 23
@@ -708,7 +708,7 @@
     "icon": 1,
     "id": 1301,
     "only_self": 1,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "休息",
     "type": 9
@@ -718,7 +718,7 @@
     "icon": 1,
     "id": 1401,
     "only_self": 1,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "取消",
     "type": 10
@@ -1347,7 +1347,7 @@
     "icon": 1,
     "id": 2001,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "打开门",
     "type": 0
@@ -1767,7 +1767,7 @@
     "icon": 5,
     "id": 2601,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [
       [
         2,
@@ -1852,7 +1852,7 @@
     "icon": 4,
     "id": 2704,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [
       [
         4,
@@ -1867,7 +1867,7 @@
     "icon": 2,
     "id": 2705,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "集会岛扩建",
     "type": 19
@@ -1877,7 +1877,7 @@
     "icon": 3,
     "id": 2706,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [],
     "text": "岛屿主题更换",
     "type": 20
@@ -2790,7 +2790,7 @@
     "icon": 6,
     "id": 4001,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [
       [
         5,
@@ -2809,7 +2809,7 @@
     "icon": 6,
     "id": 4002,
     "only_self": 0,
-    "param": [],
+    "param": "",
     "show_condition": [
       [
         8,
@@ -2824,7 +2824,7 @@
     "icon": 6,
     "id": 4101,
     "only_self": 1,
-    "param": [],
+    "param": "",
     "show_condition": [
       [
         6,

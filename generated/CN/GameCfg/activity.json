@@ -1,0 +1,17 @@
+{
+  "mainuivirtualicondata": {
+    "1": {
+      "3": "slot0.isEnd",
+      "5": "slot1.isInBuffTime",
+      "8": true,
+      "11": false,
+      "CheckExist": "-- lua function:\nif not getProxy(ActivityProxy):getActivityById(ActivityConst.DOA_PT_ID) then\nreturn false",
+      "Image": "doa_virtual_buff",
+      "IsVirtualIcon": true,
+      "slot1": "ActivityPtData.New"
+    },
+    "CurrentIconList": [
+      1
+    ]
+  }
+}

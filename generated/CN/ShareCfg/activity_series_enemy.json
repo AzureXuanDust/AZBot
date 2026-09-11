@@ -1,6 +1,6 @@
 [
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "qinraozhe",
@@ -12,7 +12,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719101
     ],
@@ -82,7 +82,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719201,
       1719202
@@ -157,7 +157,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719301,
       1719302,
@@ -203,7 +203,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "qinraozhe_IV",
@@ -227,7 +227,7 @@
     "count": 1,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719401,
       1719402,
@@ -274,7 +274,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "qinraozhe_IV",
@@ -320,7 +320,7 @@
     "limitation": [],
     "name": "牵制：王冠",
     "oil": 0,
-    "pass_awards_display": [],
+    "pass_awards_display": "",
     "pos_x": "0.6265625",
     "pos_y": "0.15625",
     "pre_chapter": 1004,
@@ -333,7 +333,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "youeryuan_boss05",
@@ -345,7 +345,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819101
     ],
@@ -414,7 +414,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819201,
       1819202
@@ -488,7 +488,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819301,
       1819302,
@@ -567,7 +567,7 @@
     "count": 1,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819401,
       1819402,
@@ -612,7 +612,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "youeryuan_boss05",
@@ -658,7 +658,7 @@
     "limitation": [],
     "name": "童真森林",
     "oil": 0,
-    "pass_awards_display": [],
+    "pass_awards_display": "",
     "pos_x": "0.6265625",
     "pos_y": "0.15625",
     "pre_chapter": 2004,
@@ -671,7 +671,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "u37_3",
@@ -683,7 +683,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1930101
     ],
@@ -752,7 +752,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1930201,
       1930202
@@ -826,7 +826,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1930301,
       1930302,
@@ -870,7 +870,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "haiwangxing_4",
@@ -894,7 +894,7 @@
     "count": 1,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1930401,
       1930402,
@@ -939,7 +939,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "z13_2",
@@ -985,7 +985,7 @@
     "limitation": [],
     "name": "拍摄地：警视厅",
     "oil": 0,
-    "pass_awards_display": [],
+    "pass_awards_display": "",
     "pos_x": "0.6265625",
     "pos_y": "0.15625",
     "pre_chapter": 3004,
@@ -1025,7 +1025,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1980001,
       1980002
@@ -1105,7 +1105,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1980101,
       1980102
@@ -1189,7 +1189,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1981007,
       1981011,
@@ -1274,7 +1274,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1982007,
       1982011,
@@ -1359,7 +1359,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1981008,
       1981012,
@@ -1444,7 +1444,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1982008,
       1982012,
@@ -1529,7 +1529,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1981009,
       1981013,
@@ -1614,7 +1614,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1982009,
       1982013,
@@ -1699,7 +1699,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1981010,
       1981014,
@@ -1784,7 +1784,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1982010,
       1982014,
@@ -1873,7 +1873,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1983001,
       1983002,
@@ -1963,7 +1963,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1984001,
       1984002,
@@ -2018,7 +2018,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "aerbeituo_2",
@@ -2030,7 +2030,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1999101
     ],
@@ -2099,7 +2099,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1999201,
       1999202
@@ -2173,7 +2173,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1999301,
       1999302,
@@ -2217,7 +2217,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "aerbeituo_2",
@@ -2241,7 +2241,7 @@
     "count": 1,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1999401,
       1999402,
@@ -2286,7 +2286,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "aerbeituo_2",
@@ -2332,7 +2332,7 @@
     "limitation": [],
     "name": "夜阑私语",
     "oil": 0,
-    "pass_awards_display": [],
+    "pass_awards_display": "",
     "pos_x": "0",
     "pos_y": "0",
     "pre_chapter": 5004,
@@ -2345,7 +2345,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "sali_2",
@@ -2357,7 +2357,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       2049101
     ],
@@ -2426,7 +2426,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       2049201,
       2049202
@@ -2500,7 +2500,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       2049301,
       2049302,
@@ -2544,7 +2544,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "z11_3",
@@ -2568,7 +2568,7 @@
     "count": 1,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       2049401,
       2049402,
@@ -2613,7 +2613,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "z11_3",
@@ -2659,7 +2659,7 @@
     "limitation": [],
     "name": "停机坪",
     "oil": 0,
-    "pass_awards_display": [],
+    "pass_awards_display": "",
     "pos_x": "0",
     "pos_y": "0",
     "pre_chapter": 6004,
@@ -2672,7 +2672,7 @@
     "whether_singlefight": 0
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "qinraozhe",
@@ -2684,7 +2684,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719101
     ],
@@ -2739,7 +2739,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719201,
       1719202
@@ -2799,7 +2799,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1719301,
       1719302,
@@ -2835,7 +2835,7 @@
     "whether_singlefight": 1
   },
   {
-    "additional_awards_display": [],
+    "additional_awards_display": "",
     "boss_icon": [
       [
         "youeryuan_boss05",
@@ -2847,7 +2847,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819101
     ],
@@ -2902,7 +2902,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819201,
       1819202
@@ -2962,7 +2962,7 @@
     "count": 0,
     "defeat_story": [],
     "defeat_story_count": [],
-    "ex_count": [],
+    "ex_count": "",
     "expedition_id": [
       1819301,
       1819302,

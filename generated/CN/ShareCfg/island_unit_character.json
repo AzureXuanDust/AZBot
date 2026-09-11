@@ -1,6 +1,6 @@
 [
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -17,7 +17,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100100",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "我是奥林匹克，嗯……现在负责看管这座岛上的磨坊……\n这里总是弥漫着面粉的香气，伴着风车转动的节奏声……让人忍不住打起盹来……需要面粉的话……带小麦来找我就好……Zzzz",
@@ -34,7 +34,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100200",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官～我是帕特莉，货运中心的管理员。\n港口的订单、货船调度和贸易报表都交给我来处理吧～\n帕特莉保证让开发区的资材像海风一样快速流通！",
@@ -51,7 +51,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100300",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "嗨~指挥官！是我斯蒂芬妮呀～\n虽然偶尔会偷偷靠在货箱后面摸会儿鱼~不过不用担心！无论是建材还是作物，只要是你需要的，我一定好好安排！\n下次来港口记得叫我哟～",
@@ -68,7 +68,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100400",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官……我是赫莫……农场的种子正在安静地生长，阳光和雨露会一直滋养着它们……而我们只需耐心等待，等待着这片土地的馈赠。",
@@ -85,7 +85,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100500",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "咩哞哞～岛上充满活力的牧场管理员梅莉——登场！\n现在每天都被毛茸茸的小家伙们包围着，捡鸡蛋、挤牛奶、追着跑丢的小羊羔～这样的日子开心又热闹！指挥官有空也来牧场玩呀！",
@@ -102,7 +102,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100600",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官！乔安欢迎您来沉石矿山游玩！\n这里的矿洞非常有趣，很值得探索的！等我筹备好，可以带您坐着矿车进去游览一番！\n还会为您唱开矿用的专属曲目，就请好好期待吧！",
@@ -119,7 +119,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100700",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "我是奥布莱恩号，正在为岛屿开发计划努力着。\n指挥官一定不知道，每次工作很疲惫的时候……我都会偷偷想起你呢~这样就算伐木的时候再辛苦，我也依旧很开心。",
@@ -136,7 +136,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100800",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官，我是阿莫玛，港口商区的管理者。\n虽然工作细碎，每天都要核对报表、优化店铺陈列、分析客流数据……但看到港口商区日益繁荣，这份满足的成就感就胜过了一切。",
@@ -153,7 +153,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "100900",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "你好啊指挥官，我是开发区的工厂管理员萝莎！\n对我而言，流水线上轰鸣声就是最美妙的音乐！虽然扳手总失踪、进度经常爆炸——但只要指挥官需要，萝莎就能让所有的机器功率全开！",
@@ -170,7 +170,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101000",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官，我是集会岛的接待员莉莎。\n现在负责为指挥官提供集会岛的指引与建设支持。\n为了能让开发区的大家能在集会岛上的安全、愉快地活动，我会全力协助指挥官对集会岛的建设。",
@@ -187,7 +187,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101100",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "阳光～雨露～甜甜的果子快快长～！我是果园管理员露西！\n每天看着地里的果实一点点染上收获的颜色，就觉得世界真美好～",
@@ -204,7 +204,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101200",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官您好，我是布莱梅……港口啾咖啡的店员。\n我喜欢这里空气里咖啡的香味……每天望着热气缓缓升起的感觉，很安心……\n那个……指挥官如果想来，我会为您选个安静的位置。",
@@ -221,7 +221,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101300",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "嘀嘀嗒~这里是指挥官最活泼可爱的集会岛向导玛丽~\n我会用最灿烂的笑容为大家指明方向，让来到集会岛的所有人都能立刻感受到这里的热情与快乐！",
@@ -238,7 +238,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101400",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官，我是拉科尼娅……在岛上照看苗圃和蜜蜂们……\n阳光洒进来的时候，整个苗圃都很安静，只有蜜蜂嗡嗡的声音……这样的感觉……我很喜欢……\n指挥官……要不要也来尝尝新取的蜂蜜？很甜的……",
@@ -255,7 +255,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101500",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -272,7 +272,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101600",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "我是岛屿的开发季管理员佩芮，现在负责整理开发需要的物资清单。\n最近我在思考新的开发计划……指挥官如果有什么建议也可以告诉我。岛屿的开发之路还很长，但我们可以……一步一步慢慢走。",
@@ -289,7 +289,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "101800",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "你好呀指挥官，我是这片渔场的管理员布莉缇！\n这片海域的潮汐流向和鱼群脾气我都一清二楚，只听水流的动静我就知道有没有大家伙在！\n呜喵~偷偷告诉指挥官，我还掌握着独家钓技哦，想学的话随时都可以来找我~",
@@ -306,7 +306,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "gongzuojiu",
     "animator": "island/animator/ani_role_3002_01_01",
     "describe_illustrated_guid": "",
@@ -323,7 +323,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3003_01_01",
     "describe_illustrated_guid": "",
@@ -340,7 +340,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3004_01_01",
     "describe_illustrated_guid": "",
@@ -357,7 +357,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3005_01_01",
     "describe_illustrated_guid": "",
@@ -374,7 +374,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -391,7 +391,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3007_01_01",
     "describe_illustrated_guid": "",
@@ -408,7 +408,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3008_01_01",
     "describe_illustrated_guid": "",
@@ -614,7 +614,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3023_03_01",
     "describe_illustrated_guid": "",
@@ -631,7 +631,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3024_03_01",
     "describe_illustrated_guid": "",
@@ -648,7 +648,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3025_03_01",
     "describe_illustrated_guid": "",
@@ -665,7 +665,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3026_03_01",
     "describe_illustrated_guid": "",
@@ -682,7 +682,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3027_03_01",
     "describe_illustrated_guid": "",
@@ -699,7 +699,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3028_03_01",
     "describe_illustrated_guid": "",
@@ -716,7 +716,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3029_03_01",
     "describe_illustrated_guid": "",
@@ -733,7 +733,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3030_03_01",
     "describe_illustrated_guid": "",
@@ -750,7 +750,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3031_03_01",
     "describe_illustrated_guid": "",
@@ -767,7 +767,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3033_03_01",
     "describe_illustrated_guid": "",
@@ -784,7 +784,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3034_03_01",
     "describe_illustrated_guid": "",
@@ -801,7 +801,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3035_03_01",
     "describe_illustrated_guid": "",
@@ -818,7 +818,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3036_03_01",
     "describe_illustrated_guid": "",
@@ -835,7 +835,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3037_03_01",
     "describe_illustrated_guid": "",
@@ -852,7 +852,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3038_03_01",
     "describe_illustrated_guid": "",
@@ -869,7 +869,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_3039_03_01",
     "describe_illustrated_guid": "",
@@ -886,7 +886,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -903,7 +903,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -920,7 +920,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -937,7 +937,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -954,7 +954,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -971,7 +971,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -988,7 +988,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1005,7 +1005,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1022,7 +1022,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1039,7 +1039,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1056,7 +1056,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1073,7 +1073,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "",
     "animator": "island/animator/ani_role_9001_02_01",
     "describe_illustrated_guid": "",
@@ -1090,7 +1090,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "bote",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官！岛屿探险地图我已经画好了！虽然、虽然可能有点歪……但这次我一定会找到传说中的秘密宝藏的！相信我吧！",
@@ -1107,7 +1107,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "bote",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1124,7 +1124,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "bote",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1141,7 +1141,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lafei",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "呼……这里的空气很清新，草地也软软的……指挥官，拉菲想在这里睡个午觉……要来一起躺一会儿吗……",
@@ -1158,7 +1158,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lafei",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1175,7 +1175,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lafei",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1192,7 +1192,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "hailunna",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "这里的海风很温和，阳光也正好……那个，指挥官，如果工作累了，我泡了新的花茶，要一起尝尝看吗？",
@@ -1209,7 +1209,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "hailunna",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1226,7 +1226,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "hailunna",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1243,7 +1243,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "xinzexi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "无论是战场还是林地，Black Dragon都会是最强的存在！Honey~和我一起迈向世界第一吧♪",
@@ -1260,7 +1260,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "xinzexi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1277,7 +1277,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "xinzexi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1294,7 +1294,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "salatuojia",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "从天空到大地，萨拉托加带着满满的收获来啦！指挥官，要尝尝我亲手种出的新鲜蔬菜吗？嘿嘿，保证“营养”丰富哦~",
@@ -1311,7 +1311,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "salatuojia",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1328,7 +1328,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "salatuojia",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1345,7 +1345,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ankeleiqi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "哇——这里……有趣的地方……好多！老师……可以……一起逛逛吗？和安克雷奇……一起！",
@@ -1362,7 +1362,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ankeleiqi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1379,7 +1379,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ankeleiqi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1396,7 +1396,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "biaoqiang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "呜哇~这里的风景好好啊~阳光暖暖的，天气也很好，有种想办野餐的冲动……指挥官也来参加吧！",
@@ -1413,7 +1413,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "biaoqiang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1430,7 +1430,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "biaoqiang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1447,7 +1447,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "beierfasite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "这里的景色很宜人，主人。若您愿意，不妨先将繁忙事务放到一旁，让我陪您稍稍休息一会儿吧。",
@@ -1464,7 +1464,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "beierfasite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1481,7 +1481,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "beierfasite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1498,7 +1498,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "hude",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "皇家的优雅从不因时光而褪色~指挥官，可愿与我共品红茶，细语未来的胜利。",
@@ -1515,7 +1515,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "dujiaoshou",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "哥、哥哥……能像现在这样帮上大家的忙，独角兽真的很开心！之后，我也会继续加油的……因为……最喜欢哥哥了！",
@@ -1532,7 +1532,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "dujiaoshou",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1549,7 +1549,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "dujiaoshou",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1566,7 +1566,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "chaijun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "亲爱的~你的目光又落在柴郡身上了呢……真好！再多看看我，只看着我吧~喵♡",
@@ -1583,7 +1583,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "chaijun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1600,7 +1600,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "chaijun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1617,7 +1617,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "daofeng",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "速度是制胜的关键！无论是配送、收割还是支援，全都交给最快的岛风吧！哼哼，绝对轻松搞定~",
@@ -1634,7 +1634,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "daofeng",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1651,7 +1651,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "daofeng",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1668,7 +1668,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "gaoxiong",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "这座岛的地形我已大致熟悉，若需要巡逻或训练，随时可以叫我。……放松的话，坐在海边看日出也不错。",
@@ -1685,7 +1685,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "gaoxiong",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1702,7 +1702,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "gaoxiong",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1719,7 +1719,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aidang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "工作？任务？那些都暂时忘掉吧~来，指挥官，枕在姐姐腿上，好好享受只属于你的安心午睡时间……",
@@ -1736,7 +1736,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aidang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1753,7 +1753,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aidang",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1770,7 +1770,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tiancheng_younv",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "呵护岛上的每一棵小树……这就是现在的我守护大家的方式！指挥官，要看着我的果树慢慢长大哦～",
@@ -1787,7 +1787,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tiancheng_younv",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1804,7 +1804,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tiancheng_younv",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -1821,7 +1821,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "dafeng",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官大人～不管在哪里……{namecode:97}的全部，都是只属于您一个人的哦？要好好珍惜呢~♡",
@@ -1838,7 +1838,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mingshi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "喵哈哈~万能的明石可以用最新技术给指挥升级工具喵！只要一点点的研发费用和材料~很实惠吧喵~",
@@ -1855,7 +1855,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mingshi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1872,7 +1872,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mingshi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1889,7 +1889,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mingshi99",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1906,7 +1906,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ougen",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官，想尝尝我为你特别准备的惊喜吗？……呵呵，不必担心，这微妙的滋味一定会让你……回味无穷哦~",
@@ -1923,7 +1923,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ougen",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1940,7 +1940,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "ougen",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1957,7 +1957,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiteliedadi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "将战场上的布局，化为庭院的规划。这里是属于我们的新天地，你只需尽情享受这份宁静……其余的，交给我就好，我的孩子。",
@@ -1974,7 +1974,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiteliedadi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -1991,7 +1991,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiteliedadi",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2008,7 +2008,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aogusite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "安静得让人有些不习惯呢……指挥官，你就这么顺从地享受悠闲时光吗？偶尔换换口味，说不定会更有趣哦。",
@@ -2025,7 +2025,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aogusite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2042,7 +2042,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "aogusite",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2059,7 +2059,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiyun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "哇~这里有好大的森林！还有小河，石山，以及好多没见过的小花！指挥官指挥官，能让飞云大人在这里探险吗？！",
@@ -2076,7 +2076,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiyun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2093,7 +2093,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "feiyun",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2110,7 +2110,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "changfeng",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官，岛屿上事务繁多，要注意好好休息哦？我去给你泡壶热茶吧，还有点心和靠垫也会一并拿来的~",
@@ -2127,7 +2127,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "changfeng",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2144,7 +2144,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "changfeng",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2161,7 +2161,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "yixian",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "这里的清晨格外宁静，茶香和露水混在一起，很是让人心神安宁呢……指挥官，我刚沏好了你喜欢的茶，来尝尝吧。",
@@ -2178,7 +2178,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "yixian",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2195,7 +2195,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "yixian",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2212,7 +2212,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "yingrui",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "茶已沏好，墨亦研匀……指挥官，要暂时放下工作，来陪我共赏这幅未完成的画吗？",
@@ -2229,7 +2229,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "zhaohe",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "真是的…！要我说多少次才行——我才是姐姐呀！指挥官，你可要好好记住这一点哦？不然我会生气的！",
@@ -2246,7 +2246,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "zhenhai",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "棋局暂歇，方寸田园亦有趣味。指挥官，不妨将岛屿的运营也视作一盘棋？不过现在，我只想与你静静品茗观花。",
@@ -2263,7 +2263,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "zhenhai",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2280,7 +2280,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "zhenhai",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2297,7 +2297,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "dafenqi",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "指挥官，这地方给我提供了不少有趣的灵感呢~我的大脑已经在全速运转啦！有任何需求都尽管来找我吧~",
@@ -2314,7 +2314,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tashigan",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "天蓝色的轨迹会继续延伸至远方……不过比起独行，塔什干更期待与同志酱共享这份宁静。",
@@ -2331,7 +2331,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mojiaduoer",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "指挥官~这里的风吹着好舒服，就是稍微有点小，不够过瘾呢~所以……一起去寻找风最大的地方吧，指挥官~♡",
@@ -2348,7 +2348,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mojiaduoer",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2365,7 +2365,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "mojiaduoer",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2382,7 +2382,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "edu",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "虽然确实说过尽管吩咐……但这工作范围未免也太广了……哈啊……指挥官，我先小睡五分钟……就五分钟……",
@@ -2399,7 +2399,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "huangjiacaifu",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "这里位置偏僻，风景优美，是个藏宝物的好地方呢~决定了，之后就把我那些珍藏的战利品，分出一点藏在这里！",
@@ -2416,7 +2416,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "huangjiacaifu",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2433,7 +2433,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "huangjiacaifu",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2450,7 +2450,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lingyangzhe32_1",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "呐——笨蛋指挥官还在按部就班吗？真没劲~！要不要跟我来点刺激的？比如……在岛屿上举办一场冒险比赛？输的人可要听赢家的话哦！",
@@ -2467,7 +2467,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lingyangzhe1_2",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2484,7 +2484,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "lingyangzhe1_1",
     "animator": "island/animator/ani_role_all_01_01",
     "describe_illustrated_guid": "",
@@ -2501,7 +2501,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "linghangyuan32_1",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "正在扫描岛屿生态……判断当前环境适宜度：优。切换至休闲模式……指挥官，我的数据库可辅助规划最优日程，要现在生成方案吗？",
@@ -2518,7 +2518,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "linghangyuan1_1",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2535,7 +2535,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "linghangyuan2_1",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2552,7 +2552,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tansuozhe21_1",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "家长大人，您看……这片叶子的形状很特别。是我在一处很漂亮的花园中发现的，如果您喜欢，我可以带您去看哦~",
@@ -2569,7 +2569,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tansuozhe1_2",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",
@@ -2586,7 +2586,7 @@
     "shipId": 0
   },
   {
-    "CollisionParam": [],
+    "CollisionParam": "",
     "IslandShipIcon": "tansuozhe32_1",
     "animator": "island/animator/ani_role_all_01_02",
     "describe_illustrated_guid": "",

@@ -5,7 +5,7 @@
       1,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地岛屿权限认证装置</color>处激活角色权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地岛屿权限认证装置</color>处激活角色权限",
@@ -30,7 +30,7 @@
       2,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往主界面查看<color=#1E8FFE>地图</color>",
     "complete_title": "可前往主界面查看<color=#1E8FFE>地图</color>",
@@ -60,7 +60,7 @@
       8,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>啾咖啡</color>和<color=#1E8FFE>港口商区</color>在<color=#1E8FFE>经营管理界面</color>查看",
     "complete_title": "可前往<color=#1E8FFE>啾咖啡</color>和<color=#1E8FFE>港口商区</color>在<color=#1E8FFE>经营管理界面</color>查看",
@@ -98,7 +98,7 @@
       13,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>主界面</color>点击进入<color=#1E8FFE>管理界面</color>中查看",
     "complete_title": "可前往<color=#1E8FFE>主界面</color>点击进入<color=#1E8FFE>管理界面</color>中查看",
@@ -132,7 +132,7 @@
       6,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -162,7 +162,7 @@
       12,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -192,7 +192,7 @@
       13,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -226,7 +226,7 @@
       16,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -256,7 +256,7 @@
       19,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -286,7 +286,7 @@
       21,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -316,7 +316,7 @@
       23,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -346,7 +346,7 @@
       24,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -380,7 +380,7 @@
       28,
       9.5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -410,7 +410,7 @@
       28,
       10
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
     "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
@@ -948,7 +948,7 @@
       7,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -978,7 +978,7 @@
       15,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1012,7 +1012,7 @@
       22,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1042,7 +1042,7 @@
       26,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1072,7 +1072,7 @@
       28,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1102,7 +1102,7 @@
       28,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1136,7 +1136,7 @@
       28,
       3
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿权限认证装置</color>处激活权限",
@@ -1170,7 +1170,7 @@
       14,
       2
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "领取<color=#1E8FFE>好友日常补给</color>的次数增加，可前往<color=#1E8FFE>好友拜访界面</color>查看",
     "complete_title": "领取<color=#1E8FFE>好友日常补给</color>的次数增加，可前往<color=#1E8FFE>好友拜访界面</color>查看",
@@ -1208,7 +1208,7 @@
       17,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "领取<color=#1E8FFE>好友日常补给</color>的次数增加，可前往<color=#1E8FFE>好友拜访界面</color>查看",
     "complete_title": "领取<color=#1E8FFE>好友日常补给</color>的次数增加，可前往<color=#1E8FFE>好友拜访界面</color>查看",
@@ -1242,7 +1242,7 @@
       9,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1007,
     "complete_tips": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿科技研发装置</color>处查看",
     "complete_title": "可前往<color=#1E8FFE>岛屿基地</color>中<color=#1E8FFE>岛屿科技研发装置</color>处查看",
@@ -1496,7 +1496,7 @@
       3.5,
       4.5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
@@ -1526,7 +1526,7 @@
       6.5,
       4.5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
@@ -1556,7 +1556,7 @@
       11.5,
       4.5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野翠土林场</color>处手动获取",
@@ -1874,7 +1874,7 @@
       6,
       10
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
@@ -1904,7 +1904,7 @@
       3,
       10
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
@@ -1934,7 +1934,7 @@
       9,
       10
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
     "complete_title": "可前往<color=#1E8FFE>栖风原野沉石矿山</color>处手动获取",
@@ -1996,7 +1996,7 @@
       19,
       3
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处手动播种作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处手动播种作物",
@@ -2218,7 +2218,7 @@
       1,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2248,7 +2248,7 @@
       4,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2278,7 +2278,7 @@
       7,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2308,7 +2308,7 @@
       10,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2338,7 +2338,7 @@
       13,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2368,7 +2368,7 @@
       16,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2398,7 +2398,7 @@
       19,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2428,7 +2428,7 @@
       22,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2458,7 +2458,7 @@
       25,
       1
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
     "complete_title": "可前往<color=#1E8FFE>晨露农场丰壤农田</color>处播种更多农田作物",
@@ -2520,7 +2520,7 @@
       28,
       5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃拉科尼娅</color>处委派角色生产苗圃作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃拉科尼娅</color>处委派角色生产苗圃作物",
@@ -2750,7 +2750,7 @@
       4,
       5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
@@ -2780,7 +2780,7 @@
       13,
       5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
@@ -2810,7 +2810,7 @@
       16,
       5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
@@ -2840,7 +2840,7 @@
       25,
       5
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃青芽苗圃</color>处播种更多苗圃作物",
@@ -3034,7 +3034,7 @@
       7,
       7
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
@@ -3064,7 +3064,7 @@
       13,
       7
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
@@ -3094,7 +3094,7 @@
       19,
       7
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1005,
     "complete_tips": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
     "complete_title": "可前往<color=#1E8FFE>繁荫农圃坠香果园</color>处播种更多果园作物",
@@ -3700,7 +3700,7 @@
       16,
       6
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1001,
     "complete_tips": "可前往<color=#1E8FFE>晨露农场</color>蜂蜜采集点采集<color=#1E8FFE>蜂蜜</color>",
     "complete_title": "可前往<color=#1E8FFE>晨露农场</color>蜂蜜采集点采集<color=#1E8FFE>蜂蜜</color>",
@@ -3725,7 +3725,7 @@
       19,
       6
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 1004,
     "complete_tips": "可前往<color=#1E8FFE>栖风原野</color>蜂蜜采集点采集<color=#1E8FFE>蜂蜜</color>",
     "complete_title": "可前往<color=#1E8FFE>栖风原野</color>蜂蜜采集点采集<color=#1E8FFE>蜂蜜</color>",
@@ -4163,7 +4163,7 @@
       1,
       10
     ],
-    "complete_character_id": [],
+    "complete_character_id": "",
     "complete_map_id": 0,
     "complete_tips": "可前往<color=#1E8FFE>啾咖啡和港口商区</color>在制作商品界面制作套餐",
     "complete_title": "可前往<color=#1E8FFE>啾咖啡和港口商区</color>在制作商品界面制作套餐",

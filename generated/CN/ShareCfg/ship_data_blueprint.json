@@ -29,7 +29,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK19901",
     "name": "西雅图",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9907,
     "strengthen_effect": [
@@ -134,7 +134,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK19902",
     "name": "佐治亚",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9908,
     "strengthen_effect": [
@@ -239,7 +239,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK19903",
     "name": "安克雷奇",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9918,
     "strengthen_effect": [
@@ -330,7 +330,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "奇尔沙治",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9928,
     "strengthen_effect": [
@@ -432,7 +432,7 @@
     "is_pursuing": 0,
     "luck_story": "LUCK19905",
     "name": "哈尔福德",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9933,
     "strengthen_effect": [
@@ -641,7 +641,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK29901",
     "name": "海王星",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -746,7 +746,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK29902",
     "name": "君主",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -851,7 +851,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK29903",
     "name": "柴郡",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9913,
     "strengthen_effect": [
@@ -957,7 +957,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK29904",
     "name": "德雷克",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9914,
     "strengthen_effect": [
@@ -1048,7 +1048,7 @@
     "is_pursuing": 1,
     "luck_story": "",
     "name": "普利茅斯",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9923,
     "strengthen_effect": [
@@ -1139,7 +1139,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "邓肯",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9943,
     "strengthen_effect": [
@@ -1244,7 +1244,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39901",
     "name": "伊吹",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -1349,7 +1349,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39902",
     "name": "出云",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -1454,7 +1454,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39903",
     "name": "北风",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9909,
     "strengthen_effect": [
@@ -1560,7 +1560,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39904",
     "name": "吾妻",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9910,
     "strengthen_effect": [
@@ -1666,7 +1666,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39905",
     "name": "白龙",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9919,
     "strengthen_effect": [
@@ -1770,7 +1770,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK39906",
     "name": "四万十",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9929,
     "strengthen_effect": [
@@ -1872,7 +1872,7 @@
     "is_pursuing": 0,
     "luck_story": "LUCK39907",
     "name": "大山",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9934,
     "strengthen_effect": [
@@ -1963,7 +1963,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "高梁",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9944,
     "strengthen_effect": [
@@ -2068,7 +2068,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49901",
     "name": "罗恩",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -2174,7 +2174,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49902",
     "name": "腓特烈大帝",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9911,
     "strengthen_effect": [
@@ -2279,7 +2279,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49903",
     "name": "美因茨",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9915,
     "strengthen_effect": [
@@ -2384,7 +2384,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49904",
     "name": "奥丁",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9916,
     "strengthen_effect": [
@@ -2475,7 +2475,7 @@
     "is_pursuing": 1,
     "luck_story": "",
     "name": "埃吉尔",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9920,
     "strengthen_effect": [
@@ -2580,7 +2580,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49906",
     "name": "奥古斯特·冯·帕塞瓦尔",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9921,
     "strengthen_effect": [
@@ -2684,7 +2684,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49907",
     "name": "鲁普雷希特亲王",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9924,
     "strengthen_effect": [
@@ -2788,7 +2788,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK49908",
     "name": "菲利克斯·舒尔茨",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9930,
     "strengthen_effect": [
@@ -2879,7 +2879,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "兴登堡",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9931,
     "strengthen_effect": [
@@ -2970,7 +2970,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "梅克伦堡",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9939,
     "strengthen_effect": [
@@ -3061,7 +3061,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "马克斯·殷麦曼",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9945,
     "strengthen_effect": [
@@ -3165,7 +3165,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK59901",
     "name": "哈尔滨",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9925,
     "strengthen_effect": [
@@ -3270,7 +3270,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK69901",
     "name": "马可波罗",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9922,
     "strengthen_effect": [
@@ -3362,7 +3362,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "那不勒斯",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9935,
     "strengthen_effect": [
@@ -3465,7 +3465,7 @@
     "is_pursuing": 0,
     "luck_story": "LUCK69903",
     "name": "维托里奥·库尼贝尔蒂",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9940,
     "strengthen_effect": [
@@ -3569,7 +3569,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK79901",
     "name": "契卡洛夫",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9926,
     "strengthen_effect": [
@@ -3661,7 +3661,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "纳希莫夫",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9936,
     "strengthen_effect": [
@@ -3764,7 +3764,7 @@
     "is_pursuing": 0,
     "luck_story": "LUCK79903",
     "name": "迪米特里·顿斯科伊",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9941,
     "strengthen_effect": [
@@ -3869,7 +3869,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK89901",
     "name": "路易九世",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 0,
     "strengthen_effect": [
@@ -3974,7 +3974,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK89902",
     "name": "香槟",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9917,
     "strengthen_effect": [
@@ -4066,7 +4066,7 @@
     "is_pursuing": 1,
     "luck_story": "",
     "name": "布雷斯特",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9927,
     "strengthen_effect": [
@@ -4168,7 +4168,7 @@
     "is_pursuing": 0,
     "luck_story": "LUCK89904",
     "name": "贝亚德",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9937,
     "strengthen_effect": [
@@ -4259,7 +4259,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "暴风雨",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9946,
     "strengthen_effect": [
@@ -4364,7 +4364,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK99901",
     "name": "加斯科涅",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9912,
     "strengthen_effect": [
@@ -4469,7 +4469,7 @@
     "is_pursuing": 1,
     "luck_story": "LUCK99902",
     "name": "弗兰德尔",
-    "normal_display": [],
+    "normal_display": "",
     "price": 1500,
     "simulate_dungeon": 9932,
     "strengthen_effect": [
@@ -4655,7 +4655,7 @@
     "is_pursuing": 0,
     "luck_story": "",
     "name": "瓦尔帕莱索",
-    "normal_display": [],
+    "normal_display": "",
     "price": 6000,
     "simulate_dungeon": 9947,
     "strengthen_effect": [

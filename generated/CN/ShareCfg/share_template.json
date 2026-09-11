@@ -10,13 +10,13 @@
       "/UICamera/Canvas/UIMain/PlayerVitaeUI(Clone)/detail/PlayerVitaeDetailPage(Clone)/btn_attire"
     ],
     "id": 1,
-    "move_comps": [],
+    "move_comps": "",
     "name": "个人信息界面",
     "qrcode_location": [
       373,
       178
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
@@ -29,13 +29,13 @@
       "/UICamera/Canvas/UIMain/ShipProfileUI(Clone)/profile_panel/view_btn"
     ],
     "id": 2,
-    "move_comps": [],
+    "move_comps": "",
     "name": "档案界面",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
@@ -73,13 +73,13 @@
       "/UICamera/Canvas/UIMain/CourtYardUI(Clone)/main"
     ],
     "id": 4,
-    "move_comps": [],
+    "move_comps": "",
     "name": "后宅",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
@@ -93,13 +93,13 @@
       "/OverlayCamera/Overlay/UIOverlay/TipPanel(Clone)"
     ],
     "id": 5,
-    "move_comps": [],
+    "move_comps": "",
     "name": "获得新皮肤界面",
     "qrcode_location": [
       -340,
       160
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
@@ -109,13 +109,13 @@
       "UICamera/Canvas/UIMain/PlayerSummaryUI(Clone)/bg/main/pages/page5/share"
     ],
     "id": 6,
-    "move_comps": [],
+    "move_comps": "",
     "name": "玩家历程界面",
     "qrcode_location": [
       -592,
       -381
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
@@ -125,27 +125,27 @@
       "UICamera/Canvas/UIMain/SnapshotShareUI(Clone)/BtnPanel"
     ],
     "id": 7,
-    "move_comps": [],
+    "move_comps": "",
     "name": "拍照分享",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
     "deck": 1,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 8,
-    "move_comps": [],
+    "move_comps": "",
     "name": "回流纪念信",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
@@ -156,27 +156,27 @@
       "/OverlayCamera/Overlay/UIMain/GetCommanderUI(Clone)/left_panel/btns/share"
     ],
     "id": 9,
-    "move_comps": [],
+    "move_comps": "",
     "name": "获得新指挥喵界面",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
     "deck": 1,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 10,
-    "move_comps": [],
+    "move_comps": "",
     "name": "画图功能分享",
     "qrcode_location": [
       -592,
       -381
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
@@ -187,35 +187,35 @@
       "UICamera/Canvas/UIMain/LimitChallengeUI(Clone)/Adapt/StartBtn"
     ],
     "id": 11,
-    "move_comps": [],
+    "move_comps": "",
     "name": "挑战分享",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
     "deck": 1,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 12,
-    "move_comps": [],
+    "move_comps": "",
     "name": "ins分享",
     "qrcode_location": [
       373,
       120
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
     "deck": 2,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 13,
-    "move_comps": [],
+    "move_comps": "",
     "name": "必胜客分享",
     "qrcode_location": [
       314.5,
@@ -229,15 +229,15 @@
     "camera": "UICamera",
     "deck": 0,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 14,
-    "move_comps": [],
+    "move_comps": "",
     "name": "玩家历程MarkII界面分享",
     "qrcode_location": [
       -38,
       -279
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
@@ -247,21 +247,21 @@
       "/OverlayCamera/Overlay/UIEffect/ClickEffect(Clone)"
     ],
     "id": 15,
-    "move_comps": [],
+    "move_comps": "",
     "name": "POLARIS活动大佬章界面分享",
     "qrcode_location": [
       -592,
       -436
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
     "deck": 2,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 16,
-    "move_comps": [],
+    "move_comps": "",
     "name": "熊小白分享",
     "qrcode_location": [
       314.5,
@@ -284,7 +284,7 @@
       "/OverlayCamera/Overlay/UIEffect"
     ],
     "id": 17,
-    "move_comps": [],
+    "move_comps": "",
     "name": "情人节qet",
     "qrcode_location": [
       470,
@@ -298,9 +298,9 @@
     "camera": "OverlayCamera",
     "deck": 1,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 18,
-    "move_comps": [],
+    "move_comps": "",
     "name": "连战活动 - EX分享界面",
     "qrcode_location": [
       383,
@@ -324,13 +324,13 @@
       "/OverlayCamera/Overlay/UIOverlay/TipPanel(Clone)"
     ],
     "id": 19,
-    "move_comps": [],
+    "move_comps": "",
     "name": "3d宿舍拍照分享界面",
     "qrcode_location": [
       -308,
       88
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "OverlayCamera",
@@ -344,21 +344,21 @@
       "/OverlayCamera/Overlay/UIOverlay/TipPanel(Clone)"
     ],
     "id": 20,
-    "move_comps": [],
+    "move_comps": "",
     "name": "港区竞拍分享界面",
     "qrcode_location": [
       -308,
       88
     ],
-    "show_comps": []
+    "show_comps": ""
   },
   {
     "camera": "UICamera",
     "deck": 1,
     "description": "#碧蓝航线#",
-    "hidden_comps": [],
+    "hidden_comps": "",
     "id": 5000,
-    "move_comps": [],
+    "move_comps": "",
     "name": "台服分享活动（改动过唯一id 原id12）",
     "qrcode_location": [
       373,

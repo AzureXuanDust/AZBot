@@ -9,11 +9,11 @@
     "key_value": 0
   },
   "academy_random_ship_coldtime": {
-    "description": [],
+    "description": "",
     "key_value": 600
   },
   "academy_random_ship_count": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "act_npc_ship_id": {
@@ -23,7 +23,7 @@
     "key_value": 0
   },
   "activity_level_multiple_sorties_times": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "activity_mall_profit_factor": {
@@ -48,7 +48,7 @@
     "key_value": 0
   },
   "activity_res_id": {
-    "description": [],
+    "description": "",
     "key_value": 643
   },
   "activity_town_bubble": {
@@ -69,7 +69,7 @@
     "key_value": 0
   },
   "activity_town_favor": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "activity_town_param": {
@@ -84,99 +84,99 @@
     "key_value": 0
   },
   "activity_town_special_work": {
-    "description": [],
+    "description": "",
     "key_value": 8
   },
   "air_dominance_a": {
-    "description": [],
+    "description": "",
     "key_value": 8000
   },
   "air_dominance_level_1": {
-    "description": [],
+    "description": "",
     "key_value": 10011
   },
   "air_dominance_level_2": {
-    "description": [],
+    "description": "",
     "key_value": 10012
   },
   "air_dominance_level_3": {
-    "description": [],
+    "description": "",
     "key_value": 10013
   },
   "air_dominance_level_4": {
-    "description": [],
+    "description": "",
     "key_value": 10014
   },
   "air_dominance_level_5": {
-    "description": [],
+    "description": "",
     "key_value": 10015
   },
   "air_dominance_p": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "air_dominance_q": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "air_dominance_r": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "air_dominance_s": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "air_dominance_t": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "air_dominance_x": {
-    "description": [],
+    "description": "",
     "key_value": 150
   },
   "air_dominance_y": {
-    "description": [],
+    "description": "",
     "key_value": 450
   },
   "archives_level_multiple_sorties_times": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "attr_world_damage_fix": {
-    "description": [],
+    "description": "",
     "key_value": 1000
   },
   "attr_world_value_H1": {
-    "description": [],
+    "description": "",
     "key_value": 7000
   },
   "attr_world_value_H2": {
-    "description": [],
+    "description": "",
     "key_value": 10000
   },
   "attr_world_value_X1": {
-    "description": [],
+    "description": "",
     "key_value": 7000
   },
   "attr_world_value_X2": {
-    "description": [],
+    "description": "",
     "key_value": 13000
   },
   "attr_world_value_Y1": {
-    "description": [],
+    "description": "",
     "key_value": 7000
   },
   "attr_world_value_Y2": {
-    "description": [],
+    "description": "",
     "key_value": 13000
   },
   "attr_world_value_Z1": {
-    "description": [],
+    "description": "",
     "key_value": 10000
   },
   "attr_world_value_Z2": {
-    "description": [],
+    "description": "",
     "key_value": 10000
   },
   "auction_bid_time": {
@@ -404,15 +404,15 @@
     "key_value": 0
   },
   "bar_card_time": {
-    "description": [],
+    "description": "",
     "key_value": 15
   },
   "bar_default_character": {
-    "description": [],
+    "description": "",
     "key_value": 10703
   },
   "bar_match_wait_time": {
-    "description": [],
+    "description": "",
     "key_value": 300
   },
   "bar_not_display_dress_type": {
@@ -422,39 +422,39 @@
     "key_value": 0
   },
   "bar_punishment_eliminate_time": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "bar_punishment_limit": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "bar_punishment_rotate_time": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "bar_punishment_turntable_time": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "bar_question_time": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "bar_refreshcard_time": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "bar_runaway_time": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "bar_showcard_time": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "barbot_automatic_hosting": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "barbot_card_time": {
@@ -465,15 +465,15 @@
     "key_value": 0
   },
   "barbot_card1_weight": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "barbot_card2_weight": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "barbot_card3_weight": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "barbot_dress_type": {
@@ -493,15 +493,15 @@
     "key_value": 0
   },
   "barbot_increase_probability_Y": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "barbot_increase_probability_Z": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "barbot_initial_probability_X": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "barbot_match_waittime": {
@@ -549,15 +549,15 @@
     "key_value": 0
   },
   "battle_consume_energy": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "battle_dead_energy": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "battlepass_level": {
-    "description": [],
+    "description": "",
     "key_value": 50
   },
   "bb_front_awards": {
@@ -618,7 +618,7 @@
     "key_value": 0
   },
   "big_seven_old_skin_timestamp": {
-    "description": [],
+    "description": "",
     "key_value": 1540396800
   },
   "blueprint_pursue_discount_ssr": {
@@ -705,7 +705,7 @@
     "key_value": 0
   },
   "buy_oil_limit": {
-    "description": [],
+    "description": "",
     "key_value": 16
   },
   "card_pairs_param": {
@@ -730,7 +730,7 @@
     "key_value": 0
   },
   "catnest_expand_capacity": {
-    "description": [],
+    "description": "",
     "key_value": 400
   },
   "changeskin_switch_block": {
@@ -740,11 +740,11 @@
     "key_value": 0
   },
   "chapter_move_speed_1": {
-    "description": [],
+    "description": "",
     "key_value": 25
   },
   "chapter_move_speed_2": {
-    "description": [],
+    "description": "",
     "key_value": 36
   },
   "child_attr_2_add": {
@@ -798,11 +798,11 @@
     "key_value": 0
   },
   "child_cg_add_price": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "child_cg_max_price": {
-    "description": [],
+    "description": "",
     "key_value": 2000
   },
   "child_charactor_time": {
@@ -968,15 +968,15 @@
     "key_value": 0
   },
   "child_polaroid_add_price": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "child_polaroid_basic_price": {
-    "description": [],
+    "description": "",
     "key_value": 1000
   },
   "child_polaroid_max_price": {
-    "description": [],
+    "description": "",
     "key_value": 1000
   },
   "child_polaroid_unlock": {
@@ -1521,11 +1521,11 @@
     "key_value": 0
   },
   "child2_draw_factor": {
-    "description": [],
+    "description": "",
     "key_value": 500
   },
   "child2_effect_refresh_limit": {
-    "description": [],
+    "description": "",
     "key_value": 999
   },
   "child2_endless_loop_extra_factor": {
@@ -1607,7 +1607,7 @@
     "key_value": 0
   },
   "child2_rank_switch": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "child2_select_sleep_time": {
@@ -1615,15 +1615,15 @@
     "key_value": 0
   },
   "child2_shop_refresh_count": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "child2_shop_refresh_price": {
-    "description": [],
+    "description": "",
     "key_value": 150
   },
   "child2_tarot_refresh_limit": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "class_upgrade_reset_time": {
@@ -1656,51 +1656,51 @@
     "key_value": 0
   },
   "commander_ability_limit": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "commander_ability_reset_coldtime": {
-    "description": [],
+    "description": "",
     "key_value": 86400
   },
   "commander_ability_reset_time": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "commander_box_count": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "commander_capacity": {
-    "description": [],
+    "description": "",
     "key_value": 40
   },
   "commander_exp_a": {
-    "description": [],
+    "description": "",
     "key_value": 7000
   },
   "commander_exp_retio": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "commander_exp_same_rate": {
-    "description": [],
+    "description": "",
     "key_value": 12000
   },
   "commander_form_a": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "commander_form_b": {
-    "description": [],
+    "description": "",
     "key_value": 1500
   },
   "commander_form_c": {
-    "description": [],
+    "description": "",
     "key_value": 250
   },
   "commander_form_n": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "commander_get_cost": {
@@ -1719,35 +1719,35 @@
     "key_value": 0
   },
   "commander_grow_form_a": {
-    "description": [],
+    "description": "",
     "key_value": 24
   },
   "commander_grow_form_b": {
-    "description": [],
+    "description": "",
     "key_value": 304
   },
   "commander_home_number": {
-    "description": [],
+    "description": "",
     "key_value": 8
   },
   "commander_learn_ability_own": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "commander_learn_ability_total": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "commander_rename_coldtime": {
-    "description": [],
+    "description": "",
     "key_value": 86400
   },
   "commander_rename_open": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "commander_skill_exp": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "commander_skill_reset_cost": {
@@ -1764,7 +1764,7 @@
     "key_value": 0
   },
   "create_guild_cost": {
-    "description": [],
+    "description": "",
     "key_value": 300
   },
   "crossroad_speed_down": {
@@ -1772,7 +1772,7 @@
     "key_value": 33
   },
   "cuise_shop_type2_limit_num": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "curr_boss_ticket": {
@@ -1849,11 +1849,11 @@
     "key_value": 8761
   },
   "doa_fever_count": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "doa_fever_recover": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "doa_fever_strategy": {
@@ -1863,119 +1863,119 @@
     "key_value": 10021
   },
   "dorm_dorm_pop_max": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "dorm_dorm_pop_min": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "dorm_dorm_pop_rant": {
-    "description": [],
+    "description": "",
     "key_value": 500
   },
   "dorm_exp_base": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "dorm_exp_once_limit_base": {
-    "description": [],
+    "description": "",
     "key_value": 50000
   },
   "dorm_exp_once_limit_by_level": {
-    "description": [],
+    "description": "",
     "key_value": 1000
   },
   "dorm_exp_ratio_by_1": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "dorm_exp_ratio_by_2": {
-    "description": [],
+    "description": "",
     "key_value": 90
   },
   "dorm_exp_ratio_by_3": {
-    "description": [],
+    "description": "",
     "key_value": 80
   },
   "dorm_exp_ratio_by_4": {
-    "description": [],
+    "description": "",
     "key_value": 70
   },
   "dorm_exp_ratio_by_5": {
-    "description": [],
+    "description": "",
     "key_value": 64
   },
   "dorm_exp_ratio_by_6": {
-    "description": [],
+    "description": "",
     "key_value": 60
   },
   "dorm_exp_ratio_comfort_degree": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "dorm_food_ratio_by_1": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "dorm_food_ratio_by_2": {
-    "description": [],
+    "description": "",
     "key_value": 180
   },
   "dorm_food_ratio_by_3": {
-    "description": [],
+    "description": "",
     "key_value": 240
   },
   "dorm_food_ratio_by_4": {
-    "description": [],
+    "description": "",
     "key_value": 280
   },
   "dorm_food_ratio_by_5": {
-    "description": [],
+    "description": "",
     "key_value": 320
   },
   "dorm_food_ratio_by_6": {
-    "description": [],
+    "description": "",
     "key_value": 360
   },
   "dorm_intimacy_pop_max": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "dorm_intimacy_pop_min": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "dorm_intimacy_pop_rant": {
-    "description": [],
+    "description": "",
     "key_value": 500
   },
   "dorm_pop_time": {
-    "description": [],
+    "description": "",
     "key_value": 1800
   },
   "each_attrib_need_exp": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "elite_quota": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "equip_capacity": {
-    "description": [],
+    "description": "",
     "key_value": 300
   },
   "equip_select_limit": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "event_tips": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "exchange_character_id": {
-    "description": [],
+    "description": "",
     "key_value": 100001
   },
   "exchangecode_ios_on": {
@@ -1983,31 +1983,31 @@
     "key_value": 1
   },
   "exp_admiral_a": {
-    "description": [],
+    "description": "",
     "key_value": 50
   },
   "exp_admiral_b": {
-    "description": [],
+    "description": "",
     "key_value": 25
   },
   "exp_admiral_c": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "exp_overflow_max": {
-    "description": [],
+    "description": "",
     "key_value": 3000000
   },
   "extra_attr_level_limit": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "fate_sim_ssr": {
-    "description": [],
+    "description": "",
     "key_value": 165
   },
   "fate_sim_ur": {
-    "description": [],
+    "description": "",
     "key_value": 215
   },
   "first_pay_drop": {
@@ -2036,7 +2036,7 @@
     "key_value": 4000
   },
   "flagship_exp_percent": {
-    "description": [],
+    "description": "",
     "key_value": 150
   },
   "food_shop_id": {
@@ -2086,23 +2086,23 @@
     "key_value": 0
   },
   "game_coin_initial": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "game_coin_max": {
-    "description": [],
+    "description": "",
     "key_value": 40
   },
   "game_coin_week": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "game_room_remax": {
-    "description": [],
+    "description": "",
     "key_value": 50000
   },
   "game_ticket_month": {
-    "description": [],
+    "description": "",
     "key_value": 10000
   },
   "gemshop_pack_red_dot": {
@@ -2137,27 +2137,27 @@
     "key_value": 0
   },
   "hard_level_multiple_sorties_times": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "integral_consecutive_victories": {
-    "description": [],
+    "description": "",
     "key_value": 20
   },
   "joint_boss_ap_max": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "joint_boss_ap_recove_cnt_pre_day": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "joint_boss_bonus_time": {
-    "description": [],
+    "description": "",
     "key_value": 86400
   },
   "joint_boss_fighter_max": {
-    "description": [],
+    "description": "",
     "key_value": 30
   },
   "joint_boss_oil_consume": {
@@ -2231,15 +2231,15 @@
     "key_value": 0
   },
   "joint_boss_world_time": {
-    "description": [],
+    "description": "",
     "key_value": 1800
   },
   "juuschat_dialogue_trigger_time": {
-    "description": [],
+    "description": "",
     "key_value": 3000
   },
   "juuschat_entering_time": {
-    "description": [],
+    "description": "",
     "key_value": 2000
   },
   "l2d_tips_default_icon": {
@@ -2247,11 +2247,11 @@
     "key_value": 0
   },
   "language_default": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "level_get_proficency": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "live_streaming26_data1": {
@@ -2296,7 +2296,7 @@
     "key_value": 0
   },
   "love_base_id": {
-    "description": [],
+    "description": "",
     "key_value": 31201
   },
   "loveletter_item_new": {
@@ -2366,7 +2366,7 @@
     "key_value": 0
   },
   "main_level_multiple_sorties_times": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "main_live_area_time": {
@@ -2400,7 +2400,7 @@
     "key_value": 0
   },
   "main_scene_silent_time": {
-    "description": [],
+    "description": "",
     "key_value": 60
   },
   "maintenance_message": {
@@ -2425,11 +2425,11 @@
     "key_value": 0
   },
   "match_expand": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "match_refuseCD": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "match_time_expand": {
@@ -2450,27 +2450,27 @@
     "key_value": 0
   },
   "match_time_limit": {
-    "description": [],
+    "description": "",
     "key_value": 50
   },
   "max_commander_bag": {
-    "description": [],
+    "description": "",
     "key_value": 200
   },
   "max_gold": {
-    "description": [],
+    "description": "",
     "key_value": 600000
   },
   "max_oil": {
-    "description": [],
+    "description": "",
     "key_value": 25000
   },
   "meta_skill_exp_double": {
-    "description": [],
+    "description": "",
     "key_value": 9000
   },
   "meta_skill_exp_max": {
-    "description": [],
+    "description": "",
     "key_value": 30000
   },
   "meta_tech_sort": {
@@ -2573,7 +2573,7 @@
     "key_value": 0
   },
   "modify_guild_cost": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "MONOPOLY_AWARD_LIST": {
@@ -2585,23 +2585,23 @@
     "key_value": 0
   },
   "monopoly2024_bubble_time": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "music_AutoScrollIndex": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "music_NewCount": {
-    "description": [],
+    "description": "",
     "key_value": 21
   },
   "music_Version": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "mvp_exp_percent": {
-    "description": [],
+    "description": "",
     "key_value": 200
   },
   "naval_academy_theme": {
@@ -2621,11 +2621,11 @@
     "key_value": 0
   },
   "night_collection_begin": {
-    "description": [],
+    "description": "",
     "key_value": 21
   },
   "night_collection_end": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "ninja_Param1": {
@@ -2633,7 +2633,7 @@
     "key_value": 0
   },
   "ninja_Param10": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "ninja_Param11": {
@@ -2653,11 +2653,11 @@
     "key_value": 0
   },
   "ninja_Param16": {
-    "description": [],
+    "description": "",
     "key_value": 60
   },
   "ninja_Param2": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "ninja_Param3": {
@@ -2665,7 +2665,7 @@
     "key_value": 0
   },
   "ninja_Param4": {
-    "description": [],
+    "description": "",
     "key_value": 20
   },
   "ninja_Param5": {
@@ -2673,7 +2673,7 @@
     "key_value": 0
   },
   "ninja_Param6": {
-    "description": [],
+    "description": "",
     "key_value": 20
   },
   "ninja_Param7": {
@@ -2726,11 +2726,11 @@
     "key_value": 0
   },
   "package_view_display": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "past_joint_boss_autofight_time": {
-    "description": [],
+    "description": "",
     "key_value": 900
   },
   "past_joint_boss_ticket": {
@@ -2763,11 +2763,11 @@
     "key_value": 0
   },
   "player_name_change_lv_limit": {
-    "description": [],
+    "description": "",
     "key_value": 25
   },
   "player_name_cold_time": {
-    "description": [],
+    "description": "",
     "key_value": 2592000
   },
   "player_name_illegal": {
@@ -2829,23 +2829,23 @@
     "key_value": 0
   },
   "reactivity_ticket_daily": {
-    "description": [],
+    "description": "",
     "key_value": 20
   },
   "reactivity_ticket_max": {
-    "description": [],
+    "description": "",
     "key_value": 300
   },
   "reactivity_time": {
-    "description": [],
+    "description": "",
     "key_value": 900
   },
   "report_level_limit": {
-    "description": [],
+    "description": "",
     "key_value": 75
   },
   "report_level_limit_all": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "return_player_set": {
@@ -2885,15 +2885,15 @@
     "key_value": 0
   },
   "series_enemy_mood_limit": {
-    "description": [],
+    "description": "",
     "key_value": 30
   },
   "series_enemy_multiple_limit": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "series_enemy_story_Pttrigger": {
-    "description": [],
+    "description": "",
     "key_value": 489
   },
   "series_enemy_story_reward": {
@@ -2904,7 +2904,7 @@
     "key_value": 0
   },
   "sham_battle_para": {
-    "description": [],
+    "description": "",
     "key_value": 60000
   },
   "ship_exp_books": {
@@ -2916,55 +2916,55 @@
     "key_value": 0
   },
   "ship_select_limit": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "shipyard_capacity": {
-    "description": [],
+    "description": "",
     "key_value": 150
   },
   "shop_banner_capacity": {
-    "description": [],
+    "description": "",
     "key_value": 9
   },
   "skin_ticket": {
-    "description": [],
+    "description": "",
     "key_value": 756
   },
   "sos_signal_interval": {
-    "description": [],
+    "description": "",
     "key_value": 1800
   },
   "sos_signal_max": {
-    "description": [],
+    "description": "",
     "key_value": 16
   },
   "sos_signal_rate": {
-    "description": [],
+    "description": "",
     "key_value": 600
   },
   "strength_cost_gold": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "submarine_chapter_activate_time": {
-    "description": [],
+    "description": "",
     "key_value": 43200
   },
   "submarine_move_speed_1": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "submarine_move_speed_2": {
-    "description": [],
+    "description": "",
     "key_value": 25
   },
   "submarine_round": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "submarine_support_oil_consume": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "supports_config": {
@@ -2993,11 +2993,11 @@
     "key_value": 0
   },
   "task_first_daily_pre_id": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "task_first_weekly_pre_id": {
-    "description": [],
+    "description": "",
     "key_value": 4
   },
   "tech_sort_mot": {
@@ -3049,35 +3049,35 @@
     "key_value": 0
   },
   "technology_daily_limit": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "technology_once_limit": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "technology_protect_num": {
-    "description": [],
+    "description": "",
     "key_value": 10
   },
   "technology_shadow_num": {
-    "description": [],
+    "description": "",
     "key_value": 6
   },
   "technology_shadow_unlock_lv": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "test_ship_config_1": {
-    "description": [],
+    "description": "",
     "key_value": 100001
   },
   "test_ship_config_2": {
-    "description": [],
+    "description": "",
     "key_value": 100011
   },
   "test_ship_config_3": {
-    "description": [],
+    "description": "",
     "key_value": 100021
   },
   "tip_unlock_shipIds": {
@@ -3106,23 +3106,23 @@
     "key_value": 0
   },
   "version_build": {
-    "description": [],
+    "description": "",
     "key_value": 0
   },
   "version_major": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "version_minor": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "voice_version": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "vote_enlarge": {
-    "description": [],
+    "description": "",
     "key_value": 15000
   },
   "vote_web_url": {
@@ -3137,11 +3137,11 @@
     "key_value": 0
   },
   "WeChat_Mini_Program": {
-    "description": [],
+    "description": "",
     "key_value": 50098
   },
   "weekly_bonus_task": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "weekly_drop": {
@@ -3446,15 +3446,15 @@
     "key_value": 0
   },
   "world_boss_joindamage": {
-    "description": [],
+    "description": "",
     "key_value": 200
   },
   "world_boss_resfresh": {
-    "description": [],
+    "description": "",
     "key_value": 5
   },
   "world_boss_stage": {
-    "description": [],
+    "description": "",
     "key_value": 23
   },
   "world_buff_morale": {
@@ -3612,7 +3612,7 @@
     "key_value": 0
   },
   "world_cell_cost_movepower": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "world_cruise_comp_time": {
@@ -3624,11 +3624,11 @@
     "key_value": 7
   },
   "world_currency_initial_num": {
-    "description": [],
+    "description": "",
     "key_value": 2000
   },
   "world_daily_task_limit": {
-    "description": [],
+    "description": "",
     "key_value": 12
   },
   "world_daily_task_num": {
@@ -3871,15 +3871,15 @@
     "key_value": 0
   },
   "world_daily_task_stage": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "world_death_buff": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "world_death_hpfix": {
-    "description": [],
+    "description": "",
     "key_value": 1000
   },
   "world_default_entrance": {
@@ -4091,7 +4091,7 @@
     "key_value": 0
   },
   "world_log_max_count": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "world_mapbuff_list": {
@@ -4103,7 +4103,7 @@
     "key_value": 0
   },
   "world_mapbuff_tips": {
-    "description": [],
+    "description": "",
     "key_value": 7000
   },
   "world_metaboss_supportattack": {
@@ -4118,15 +4118,15 @@
     "key_value": 0
   },
   "world_move_buff_desc": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "world_move_initial_step": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "world_move_initial_view": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "world_movelimit_event": {
@@ -4139,11 +4139,11 @@
     "key_value": 0
   },
   "world_movepower_maxvalue": {
-    "description": [],
+    "description": "",
     "key_value": 200
   },
   "world_movepower_recovery_interval": {
-    "description": [],
+    "description": "",
     "key_value": 600
   },
   "world_newshop_date": {
@@ -4255,11 +4255,11 @@
     "key_value": 0
   },
   "world_port_service_2_price": {
-    "description": [],
+    "description": "",
     "key_value": 600
   },
   "world_port_taskmax": {
-    "description": [],
+    "description": "",
     "key_value": 7
   },
   "world_quickmode_skiplua": {
@@ -4446,11 +4446,11 @@
     "key_value": 0
   },
   "world_resetting_sairen_chapter": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "world_resetting_stage": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "world_resetting_story": {
@@ -4460,7 +4460,7 @@
     "key_value": 0
   },
   "world_resource_max": {
-    "description": [],
+    "description": "",
     "key_value": 1000000
   },
   "world_sairen_infection": {
@@ -4471,15 +4471,15 @@
     "key_value": 0
   },
   "world_sairen_max1": {
-    "description": [],
+    "description": "",
     "key_value": 1
   },
   "world_sairen_max2": {
-    "description": [],
+    "description": "",
     "key_value": 3
   },
   "world_sairen_openstage": {
-    "description": [],
+    "description": "",
     "key_value": 100
   },
   "world_sairen_weekly": {
@@ -4545,7 +4545,7 @@
     "key_value": 0
   },
   "world_strength_correct": {
-    "description": [],
+    "description": "",
     "key_value": 333
   },
   "world_suggest_level": {
@@ -4619,7 +4619,7 @@
     "key_value": 0
   },
   "world_target_obtain": {
-    "description": [],
+    "description": "",
     "key_value": 2
   },
   "world_tip_last": {

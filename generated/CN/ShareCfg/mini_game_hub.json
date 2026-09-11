@@ -109,7 +109,7 @@
     "id": 8,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -465,7 +465,7 @@
     "id": 33,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -475,7 +475,7 @@
     "id": 34,
     "reborn_times": 1,
     "reward": 98068,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -513,7 +513,7 @@
     "id": 37,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -523,7 +523,7 @@
     "id": 38,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -547,7 +547,7 @@
     "id": 40,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -571,7 +571,7 @@
     "id": 42,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -581,7 +581,7 @@
     "id": 43,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -591,7 +591,7 @@
     "id": 44,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": [
@@ -603,7 +603,7 @@
     "id": 45,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -627,7 +627,7 @@
     "id": 47,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -637,7 +637,7 @@
     "id": 48,
     "reborn_times": 0,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -647,7 +647,7 @@
     "id": 49,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -657,7 +657,7 @@
     "id": 50,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -667,7 +667,7 @@
     "id": 51,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -677,7 +677,7 @@
     "id": 52,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -729,7 +729,7 @@
     "id": 56,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -797,7 +797,7 @@
     "id": 60,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -807,7 +807,7 @@
     "id": 61,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -831,7 +831,7 @@
     "id": 63,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -841,7 +841,7 @@
     "id": 64,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -851,7 +851,7 @@
     "id": 65,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -861,7 +861,7 @@
     "id": 66,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -871,7 +871,7 @@
     "id": 67,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -881,7 +881,7 @@
     "id": 68,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -905,7 +905,7 @@
     "id": 70,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -915,7 +915,7 @@
     "id": 71,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -925,7 +925,7 @@
     "id": 75,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -949,7 +949,7 @@
     "id": 77,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []
@@ -959,7 +959,7 @@
     "id": 78,
     "reborn_times": 1,
     "reward": 0,
-    "reward_display": [],
+    "reward_display": "",
     "reward_need": 7,
     "reward_target": 0,
     "signet_reward": []

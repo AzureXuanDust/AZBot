@@ -6,7 +6,7 @@
     "hierarchy": 5,
     "icon": "furniture_1",
     "id": 1,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50102/prefab/pre_item_05_50102",
     "name": "林中小屋",
@@ -27,7 +27,7 @@
     "hierarchy": 5,
     "icon": "furniture_2",
     "id": 2,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50237/prefab/pre_item_05_50237",
     "name": "红枫树",
@@ -48,7 +48,7 @@
     "hierarchy": 5,
     "icon": "furniture_3",
     "id": 3,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50238/prefab/pre_item_05_50238",
     "name": "阔叶树",
@@ -69,7 +69,7 @@
     "hierarchy": 5,
     "icon": "furniture_4",
     "id": 4,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -95,7 +95,7 @@
     "hierarchy": 5,
     "icon": "furniture_5",
     "id": 5,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50243/prefab/pre_item_05_50243",
     "name": "绿灌木丛",
@@ -116,7 +116,7 @@
     "hierarchy": 5,
     "icon": "furniture_6",
     "id": 6,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50244/prefab/pre_item_05_50244",
     "name": "黄花灌木",
@@ -137,7 +137,7 @@
     "hierarchy": 5,
     "icon": "furniture_7",
     "id": 7,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50245/prefab/pre_item_05_50245",
     "name": "矮丛花簇",
@@ -158,7 +158,7 @@
     "hierarchy": 5,
     "icon": "furniture_8",
     "id": 8,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50249/prefab/pre_item_05_50249",
     "name": "明黄木",
@@ -179,7 +179,7 @@
     "hierarchy": 5,
     "icon": "furniture_9",
     "id": 9,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -205,7 +205,7 @@
     "hierarchy": 5,
     "icon": "furniture_10",
     "id": 10,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50247/prefab/pre_item_05_50247",
     "name": "黄枝小树",
@@ -226,7 +226,7 @@
     "hierarchy": 5,
     "icon": "furniture_11",
     "id": 11,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -252,7 +252,7 @@
     "hierarchy": 6,
     "icon": "furniture_12",
     "id": 12,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59001/prefab/pre_item_05_59001",
     "name": "陶土地砖(小)",
@@ -273,7 +273,7 @@
     "hierarchy": 6,
     "icon": "furniture_13",
     "id": 13,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59002/prefab/pre_item_05_59002",
     "name": "陶土地砖(中)",
@@ -294,7 +294,7 @@
     "hierarchy": 6,
     "icon": "furniture_14",
     "id": 14,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59003/prefab/pre_item_05_59003",
     "name": "陶土地砖(大)",
@@ -315,7 +315,7 @@
     "hierarchy": 6,
     "icon": "furniture_15",
     "id": 15,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59004/prefab/pre_item_05_59004",
     "name": "瓷面地砖(小)",
@@ -336,7 +336,7 @@
     "hierarchy": 6,
     "icon": "furniture_16",
     "id": 16,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59005/prefab/pre_item_05_59005",
     "name": "瓷面地砖(中)",
@@ -357,7 +357,7 @@
     "hierarchy": 6,
     "icon": "furniture_17",
     "id": 17,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59006/prefab/pre_item_05_59006",
     "name": "瓷面地砖(大)",
@@ -378,7 +378,7 @@
     "hierarchy": 6,
     "icon": "furniture_18",
     "id": 18,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59007/prefab/pre_item_05_59007",
     "name": "拼花地砖(小)",
@@ -399,7 +399,7 @@
     "hierarchy": 6,
     "icon": "furniture_19",
     "id": 19,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59008/prefab/pre_item_05_59008",
     "name": "拼花地砖(中)",
@@ -420,7 +420,7 @@
     "hierarchy": 6,
     "icon": "furniture_20",
     "id": 20,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59009/prefab/pre_item_05_59009",
     "name": "拼花地砖(大)",
@@ -441,7 +441,7 @@
     "hierarchy": 6,
     "icon": "furniture_21",
     "id": 21,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59010/prefab/pre_item_05_59010",
     "name": "灰石地砖(小)",
@@ -462,7 +462,7 @@
     "hierarchy": 6,
     "icon": "furniture_22",
     "id": 22,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59011/prefab/pre_item_05_59011",
     "name": "灰石地砖(中)",
@@ -483,7 +483,7 @@
     "hierarchy": 6,
     "icon": "furniture_23",
     "id": 23,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/59012/prefab/pre_item_05_59012",
     "name": "灰石地砖(大)",
@@ -504,7 +504,7 @@
     "hierarchy": 5,
     "icon": "furniture_100",
     "id": 100,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "秋季特产经营",
@@ -530,7 +530,7 @@
     "hierarchy": 5,
     "icon": "furniture_101",
     "id": 101,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "春季特产经营",
@@ -556,7 +556,7 @@
     "hierarchy": 5,
     "icon": "furniture_102",
     "id": 102,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "夏季特产经营",
@@ -582,7 +582,7 @@
     "hierarchy": 5,
     "icon": "furniture_103",
     "id": 103,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "秋季特产经营",
@@ -608,7 +608,7 @@
     "hierarchy": 5,
     "icon": "furniture_10101",
     "id": 10101,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "图鉴",
@@ -710,7 +710,7 @@
     "hierarchy": 5,
     "icon": "furniture_10303",
     "id": 10303,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -736,7 +736,7 @@
     "hierarchy": 5,
     "icon": "furniture_10304",
     "id": 10304,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -762,7 +762,7 @@
     "hierarchy": 5,
     "icon": "furniture_10305",
     "id": 10305,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -788,7 +788,7 @@
     "hierarchy": 5,
     "icon": "furniture_10306",
     "id": 10306,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -842,7 +842,7 @@
     "hierarchy": 5,
     "icon": "furniture_10402",
     "id": 10402,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -896,7 +896,7 @@
     "hierarchy": 5,
     "icon": "furniture_10404",
     "id": 10404,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -922,7 +922,7 @@
     "hierarchy": 5,
     "icon": "furniture_10405",
     "id": 10405,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "图鉴",
@@ -948,7 +948,7 @@
     "hierarchy": 5,
     "icon": "furniture_10406",
     "id": 10406,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -974,7 +974,7 @@
     "hierarchy": 5,
     "icon": "furniture_10407",
     "id": 10407,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季I-累积PT",
@@ -1028,7 +1028,7 @@
     "hierarchy": 5,
     "icon": "furniture_10409",
     "id": 10409,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1054,7 +1054,7 @@
     "hierarchy": 5,
     "icon": "furniture_10410",
     "id": 10410,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1080,7 +1080,7 @@
     "hierarchy": 5,
     "icon": "furniture_10411",
     "id": 10411,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1106,7 +1106,7 @@
     "hierarchy": 5,
     "icon": "furniture_10412",
     "id": 10412,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1132,7 +1132,7 @@
     "hierarchy": 5,
     "icon": "furniture_10413",
     "id": 10413,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1158,7 +1158,7 @@
     "hierarchy": 5,
     "icon": "furniture_10414",
     "id": 10414,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1184,7 +1184,7 @@
     "hierarchy": 5,
     "icon": "furniture_10415",
     "id": 10415,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1210,7 +1210,7 @@
     "hierarchy": 5,
     "icon": "furniture_10416",
     "id": 10416,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1236,7 +1236,7 @@
     "hierarchy": 5,
     "icon": "furniture_10417",
     "id": 10417,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "图鉴",
@@ -1262,7 +1262,7 @@
     "hierarchy": 5,
     "icon": "furniture_10418",
     "id": 10418,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1288,7 +1288,7 @@
     "hierarchy": 5,
     "icon": "furniture_10419",
     "id": 10419,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50112/prefab/pre_item_05_50112",
     "name": "森林木屋",
@@ -1309,7 +1309,7 @@
     "hierarchy": 5,
     "icon": "furniture_10420",
     "id": 10420,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1335,7 +1335,7 @@
     "hierarchy": 5,
     "icon": "furniture_10421",
     "id": 10421,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "成就",
@@ -1361,7 +1361,7 @@
     "hierarchy": 6,
     "icon": "furniture_10801",
     "id": 10801,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50134/prefab/pre_item_05_50134",
     "name": "木制路面(小) ",
@@ -1382,7 +1382,7 @@
     "hierarchy": 6,
     "icon": "furniture_10802",
     "id": 10802,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50135/prefab/pre_item_05_50135",
     "name": "木制路面(中)",
@@ -1403,7 +1403,7 @@
     "hierarchy": 6,
     "icon": "furniture_10803",
     "id": 10803,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50136/prefab/pre_item_05_50136",
     "name": "木制路面(大)",
@@ -1424,7 +1424,7 @@
     "hierarchy": 5,
     "icon": "furniture_20101",
     "id": 20101,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1507,7 +1507,7 @@
     "hierarchy": 5,
     "icon": "furniture_20302",
     "id": 20302,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1533,7 +1533,7 @@
     "hierarchy": 5,
     "icon": "furniture_20303",
     "id": 20303,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1559,7 +1559,7 @@
     "hierarchy": 5,
     "icon": "furniture_20304",
     "id": 20304,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1585,7 +1585,7 @@
     "hierarchy": 5,
     "icon": "furniture_20305",
     "id": 20305,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1611,7 +1611,7 @@
     "hierarchy": 5,
     "icon": "furniture_20306",
     "id": 20306,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1665,7 +1665,7 @@
     "hierarchy": 5,
     "icon": "furniture_20402",
     "id": 20402,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1691,7 +1691,7 @@
     "hierarchy": 5,
     "icon": "furniture_20403",
     "id": 20403,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1717,7 +1717,7 @@
     "hierarchy": 5,
     "icon": "furniture_20404",
     "id": 20404,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1743,7 +1743,7 @@
     "hierarchy": 5,
     "icon": "furniture_20405",
     "id": 20405,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1769,7 +1769,7 @@
     "hierarchy": 5,
     "icon": "furniture_20406",
     "id": 20406,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1823,7 +1823,7 @@
     "hierarchy": 5,
     "icon": "furniture_20408",
     "id": 20408,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1849,7 +1849,7 @@
     "hierarchy": 5,
     "icon": "furniture_20409",
     "id": 20409,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1875,7 +1875,7 @@
     "hierarchy": 5,
     "icon": "furniture_20410",
     "id": 20410,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1901,7 +1901,7 @@
     "hierarchy": 5,
     "icon": "furniture_20411",
     "id": 20411,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1927,7 +1927,7 @@
     "hierarchy": 5,
     "icon": "furniture_20412",
     "id": 20412,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1953,7 +1953,7 @@
     "hierarchy": 5,
     "icon": "furniture_20413",
     "id": 20413,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -1979,7 +1979,7 @@
     "hierarchy": 5,
     "icon": "furniture_20414",
     "id": 20414,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2005,7 +2005,7 @@
     "hierarchy": 5,
     "icon": "furniture_20415",
     "id": 20415,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2031,7 +2031,7 @@
     "hierarchy": 6,
     "icon": "furniture_20801",
     "id": 20801,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2057,7 +2057,7 @@
     "hierarchy": 6,
     "icon": "furniture_20802",
     "id": 20802,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2083,7 +2083,7 @@
     "hierarchy": 6,
     "icon": "furniture_20803",
     "id": 20803,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2109,7 +2109,7 @@
     "hierarchy": 5,
     "icon": "furniture_30001",
     "id": 30001,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50218/prefab/pre_item_05_50218",
     "name": "暖色石灯（小）",
@@ -2130,7 +2130,7 @@
     "hierarchy": 5,
     "icon": "furniture_30002",
     "id": 30002,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2156,7 +2156,7 @@
     "hierarchy": 5,
     "icon": "furniture_30003",
     "id": 30003,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50220/prefab/pre_item_05_50220",
     "name": "兔兔夜灯",
@@ -2177,7 +2177,7 @@
     "hierarchy": 5,
     "icon": "furniture_30004",
     "id": 30004,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2203,7 +2203,7 @@
     "hierarchy": 5,
     "icon": "furniture_30005",
     "id": 30005,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "战术推演",
@@ -2229,7 +2229,7 @@
     "hierarchy": 5,
     "icon": "furniture_30006",
     "id": 30006,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季II-累积PT",
@@ -2255,7 +2255,7 @@
     "hierarchy": 5,
     "icon": "furniture_30007",
     "id": 30007,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季II-累积PT",
@@ -2281,7 +2281,7 @@
     "hierarchy": 5,
     "icon": "furniture_30008",
     "id": 30008,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季II-累积PT",
@@ -2307,7 +2307,7 @@
     "hierarchy": 5,
     "icon": "furniture_30009",
     "id": 30009,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季II-累积PT",
@@ -2333,7 +2333,7 @@
     "hierarchy": 5,
     "icon": "furniture_30010",
     "id": 30010,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季II-累积PT",
@@ -2359,7 +2359,7 @@
     "hierarchy": 5,
     "icon": "furniture_30101",
     "id": 30101,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2442,7 +2442,7 @@
     "hierarchy": 5,
     "icon": "furniture_30302",
     "id": 30302,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2468,7 +2468,7 @@
     "hierarchy": 5,
     "icon": "furniture_30303",
     "id": 30303,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2494,7 +2494,7 @@
     "hierarchy": 5,
     "icon": "furniture_30304",
     "id": 30304,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2520,7 +2520,7 @@
     "hierarchy": 5,
     "icon": "furniture_30305",
     "id": 30305,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2630,7 +2630,7 @@
     "hierarchy": 5,
     "icon": "furniture_30404",
     "id": 30404,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2656,7 +2656,7 @@
     "hierarchy": 5,
     "icon": "furniture_30405",
     "id": 30405,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2682,7 +2682,7 @@
     "hierarchy": 5,
     "icon": "furniture_30406",
     "id": 30406,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2708,7 +2708,7 @@
     "hierarchy": 5,
     "icon": "furniture_30407",
     "id": 30407,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2734,7 +2734,7 @@
     "hierarchy": 5,
     "icon": "furniture_30408",
     "id": 30408,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2760,7 +2760,7 @@
     "hierarchy": 5,
     "icon": "furniture_30409",
     "id": 30409,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2786,7 +2786,7 @@
     "hierarchy": 5,
     "icon": "furniture_30410",
     "id": 30410,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2812,7 +2812,7 @@
     "hierarchy": 5,
     "icon": "furniture_30411",
     "id": 30411,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2838,7 +2838,7 @@
     "hierarchy": 5,
     "icon": "furniture_30412",
     "id": 30412,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2864,7 +2864,7 @@
     "hierarchy": 5,
     "icon": "furniture_30413",
     "id": 30413,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2890,7 +2890,7 @@
     "hierarchy": 5,
     "icon": "furniture_30414",
     "id": 30414,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2916,7 +2916,7 @@
     "hierarchy": 5,
     "icon": "furniture_30415",
     "id": 30415,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2942,7 +2942,7 @@
     "hierarchy": 5,
     "icon": "furniture_30416",
     "id": 30416,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2968,7 +2968,7 @@
     "hierarchy": 6,
     "icon": "furniture_30801",
     "id": 30801,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -2994,7 +2994,7 @@
     "hierarchy": 6,
     "icon": "furniture_30802",
     "id": 30802,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3020,7 +3020,7 @@
     "hierarchy": 6,
     "icon": "furniture_30803",
     "id": 30803,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3046,7 +3046,7 @@
     "hierarchy": 5,
     "icon": "furniture_40002",
     "id": 40002,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50226/prefab/pre_item_05_50226",
     "name": "竹子长凳",
@@ -3067,7 +3067,7 @@
     "hierarchy": 5,
     "icon": "furniture_40004",
     "id": 40004,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50214/prefab/pre_item_05_50214",
     "name": "木制院门",
@@ -3088,7 +3088,7 @@
     "hierarchy": 5,
     "icon": "furniture_40005",
     "id": 40005,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50221/prefab/pre_item_05_50221",
     "name": "石制古井",
@@ -3109,7 +3109,7 @@
     "hierarchy": 5,
     "icon": "furniture_40006",
     "id": 40006,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50223/prefab/pre_item_05_50223",
     "name": "石制矮墙",
@@ -3130,7 +3130,7 @@
     "hierarchy": 5,
     "icon": "furniture_40007",
     "id": 40007,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50224/prefab/pre_item_05_50224",
     "name": "木制栅栏",
@@ -3151,7 +3151,7 @@
     "hierarchy": 5,
     "icon": "furniture_40101",
     "id": 40101,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3205,7 +3205,7 @@
     "hierarchy": 5,
     "icon": "furniture_40301",
     "id": 40301,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3231,7 +3231,7 @@
     "hierarchy": 5,
     "icon": "furniture_40302",
     "id": 40302,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3257,7 +3257,7 @@
     "hierarchy": 5,
     "icon": "furniture_40303",
     "id": 40303,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3283,7 +3283,7 @@
     "hierarchy": 5,
     "icon": "furniture_40304",
     "id": 40304,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3337,7 +3337,7 @@
     "hierarchy": 5,
     "icon": "furniture_40402",
     "id": 40402,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3363,7 +3363,7 @@
     "hierarchy": 5,
     "icon": "furniture_40403",
     "id": 40403,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3445,7 +3445,7 @@
     "hierarchy": 5,
     "icon": "furniture_40406",
     "id": 40406,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3471,7 +3471,7 @@
     "hierarchy": 5,
     "icon": "furniture_40407",
     "id": 40407,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3497,7 +3497,7 @@
     "hierarchy": 5,
     "icon": "furniture_40408",
     "id": 40408,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3523,7 +3523,7 @@
     "hierarchy": 5,
     "icon": "furniture_40409",
     "id": 40409,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3549,7 +3549,7 @@
     "hierarchy": 5,
     "icon": "furniture_40410",
     "id": 40410,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3575,7 +3575,7 @@
     "hierarchy": 5,
     "icon": "furniture_40411",
     "id": 40411,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3601,7 +3601,7 @@
     "hierarchy": 5,
     "icon": "furniture_40412",
     "id": 40412,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3627,7 +3627,7 @@
     "hierarchy": 5,
     "icon": "furniture_40413",
     "id": 40413,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3653,7 +3653,7 @@
     "hierarchy": 5,
     "icon": "furniture_40414",
     "id": 40414,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3679,7 +3679,7 @@
     "hierarchy": 5,
     "icon": "furniture_40415",
     "id": 40415,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3705,7 +3705,7 @@
     "hierarchy": 5,
     "icon": "furniture_40416",
     "id": 40416,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3731,7 +3731,7 @@
     "hierarchy": 5,
     "icon": "furniture_40417",
     "id": 40417,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3757,7 +3757,7 @@
     "hierarchy": 5,
     "icon": "furniture_40418",
     "id": 40418,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3783,7 +3783,7 @@
     "hierarchy": 5,
     "icon": "furniture_40419",
     "id": 40419,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3809,7 +3809,7 @@
     "hierarchy": 5,
     "icon": "furniture_40420",
     "id": 40420,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -3835,7 +3835,7 @@
     "hierarchy": 6,
     "icon": "furniture_40801",
     "id": 40801,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50194/prefab/pre_item_05_50194",
     "name": "花格地砖（小）",
@@ -3856,7 +3856,7 @@
     "hierarchy": 6,
     "icon": "furniture_40802",
     "id": 40802,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50195/prefab/pre_item_05_50195",
     "name": "花格地砖（中）",
@@ -3877,7 +3877,7 @@
     "hierarchy": 6,
     "icon": "furniture_40803",
     "id": 40803,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50196/prefab/pre_item_05_50196",
     "name": "花格地砖（大）",
@@ -3898,7 +3898,7 @@
     "hierarchy": 5,
     "icon": "furniture_50173",
     "id": 50173,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季IV-累积PT",
@@ -3924,7 +3924,7 @@
     "hierarchy": 5,
     "icon": "furniture_50176",
     "id": 50176,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季IV-累积PT",
@@ -3950,7 +3950,7 @@
     "hierarchy": 5,
     "icon": "furniture_50179",
     "id": 50179,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季IV-累积PT",
@@ -3976,7 +3976,7 @@
     "hierarchy": 5,
     "icon": "furniture_50203",
     "id": 50203,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季IV-累积PT",
@@ -4002,7 +4002,7 @@
     "hierarchy": 5,
     "icon": "furniture_50207",
     "id": 50207,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "开发季IV-累积PT",
@@ -4028,7 +4028,7 @@
     "hierarchy": 5,
     "icon": "furniture_50234",
     "id": 50234,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4054,7 +4054,7 @@
     "hierarchy": 5,
     "icon": "furniture_50300",
     "id": 50300,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4164,7 +4164,7 @@
     "hierarchy": 5,
     "icon": "furniture_50305",
     "id": 50305,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4218,7 +4218,7 @@
     "hierarchy": 5,
     "icon": "furniture_50307",
     "id": 50307,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4244,7 +4244,7 @@
     "hierarchy": 5,
     "icon": "furniture_50308",
     "id": 50308,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4270,7 +4270,7 @@
     "hierarchy": 5,
     "icon": "furniture_50309",
     "id": 50309,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4296,7 +4296,7 @@
     "hierarchy": 5,
     "icon": "furniture_50310",
     "id": 50310,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4322,7 +4322,7 @@
     "hierarchy": 5,
     "icon": "furniture_50311",
     "id": 50311,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4348,7 +4348,7 @@
     "hierarchy": 5,
     "icon": "furniture_50312",
     "id": 50312,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4374,7 +4374,7 @@
     "hierarchy": 5,
     "icon": "furniture_50313",
     "id": 50313,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4428,7 +4428,7 @@
     "hierarchy": 5,
     "icon": "furniture_50315",
     "id": 50315,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4454,7 +4454,7 @@
     "hierarchy": 5,
     "icon": "furniture_50316",
     "id": 50316,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4480,7 +4480,7 @@
     "hierarchy": 5,
     "icon": "furniture_50318",
     "id": 50318,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4506,7 +4506,7 @@
     "hierarchy": 5,
     "icon": "furniture_50319",
     "id": 50319,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4532,7 +4532,7 @@
     "hierarchy": 5,
     "icon": "furniture_50320",
     "id": 50320,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4558,7 +4558,7 @@
     "hierarchy": 5,
     "icon": "furniture_50321",
     "id": 50321,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4584,7 +4584,7 @@
     "hierarchy": 5,
     "icon": "furniture_50322",
     "id": 50322,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4610,7 +4610,7 @@
     "hierarchy": 5,
     "icon": "furniture_50325",
     "id": 50325,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [
       [
         "星彩奖",
@@ -4636,7 +4636,7 @@
     "hierarchy": 6,
     "icon": "furniture_50347",
     "id": 50347,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50347/prefab/pre_item_05_50347",
     "name": "荒野地砖（小）",
@@ -4657,7 +4657,7 @@
     "hierarchy": 6,
     "icon": "furniture_50348",
     "id": 50348,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50348/prefab/pre_item_05_50348",
     "name": "荒野地砖（中）",
@@ -4678,7 +4678,7 @@
     "hierarchy": 6,
     "icon": "furniture_50349",
     "id": 50349,
-    "interact_point": [],
+    "interact_point": "",
     "jump_page": [],
     "model": "island/item/05/50349/prefab/pre_item_05_50349",
     "name": "荒野地砖（大）",

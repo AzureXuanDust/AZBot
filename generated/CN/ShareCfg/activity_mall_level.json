@@ -157,7 +157,7 @@
         ]
       ]
     ],
-    "unlock_function": [],
+    "unlock_function": "",
     "unlock_param": {
       "story_id": [
         201
@@ -522,7 +522,7 @@
         ]
       ]
     ],
-    "unlock_function": [],
+    "unlock_function": "",
     "unlock_param": {
       "story_id": [
         203,
@@ -900,7 +900,7 @@
         ]
       ]
     ],
-    "unlock_function": [],
+    "unlock_function": "",
     "unlock_param": {
       "story_id": [
         205,
@@ -1277,7 +1277,7 @@
         ]
       ]
     ],
-    "unlock_function": [],
+    "unlock_function": "",
     "unlock_param": {
       "story_id": [
         207,
@@ -1463,7 +1463,7 @@
         ]
       ]
     ],
-    "unlock_function": [],
+    "unlock_function": "",
     "unlock_param": {
       "story_id": [
         208

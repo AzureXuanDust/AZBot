@@ -16,7 +16,7 @@
     ],
     "id": 1,
     "name": "Stage1",
-    "story": [],
+    "story": "",
     "unlock_txt": "三星通关T1"
   },
   {
@@ -66,7 +66,7 @@
     ],
     "id": 3,
     "name": "Stage3",
-    "story": [],
+    "story": "",
     "unlock_txt": "三星通关T3"
   },
   {
@@ -128,7 +128,7 @@
     ],
     "id": 5,
     "name": "Stage5",
-    "story": [],
+    "story": "",
     "unlock_txt": "三星通关T5"
   },
   {
@@ -206,7 +206,7 @@
     ],
     "id": 7,
     "name": "Stage7",
-    "story": [],
+    "story": "",
     "unlock_txt": "完成S6"
   },
   {
@@ -250,7 +250,7 @@
     ],
     "id": 8,
     "name": "EX",
-    "story": [],
+    "story": "",
     "unlock_txt": "完成S1—S7"
   }
 ]

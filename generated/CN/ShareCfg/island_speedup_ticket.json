@@ -26,7 +26,7 @@
   {
     "desc": "使用后，能加速1分钟的时间，让发展快人一步。（该加速券有效期为7天）",
     "duration": 7,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket1",
     "icon_normal": "props/item_speedup_ticket1",
@@ -39,7 +39,7 @@
   {
     "desc": "使用后，能加速1分钟的时间，让发展快人一步。（该加速券有效期为3天）",
     "duration": 3,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket1",
     "icon_normal": "props/item_speedup_ticket1",
@@ -52,7 +52,7 @@
   {
     "desc": "使用后，能加速1分钟的时间，让发展快人一步。（该加速券有效期为2天）",
     "duration": 2,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket1",
     "icon_normal": "props/item_speedup_ticket1",
@@ -161,7 +161,7 @@
   {
     "desc": "使用后，能加速10分钟的时间，让发展快人一步。（该加速券有效期为7天）",
     "duration": 7,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket2",
     "icon_normal": "props/item_speedup_ticket2",
@@ -174,7 +174,7 @@
   {
     "desc": "使用后，能加速10分钟的时间，让发展快人一步。（该加速券有效期为3天）",
     "duration": 3,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket2",
     "icon_normal": "props/item_speedup_ticket2",
@@ -187,7 +187,7 @@
   {
     "desc": "使用后，能加速10分钟的时间，让发展快人一步。（该加速券有效期为2天）",
     "duration": 2,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket2",
     "icon_normal": "props/item_speedup_ticket2",
@@ -296,7 +296,7 @@
   {
     "desc": "使用后，能加速60分钟的时间，让发展快人一步。（该加速券有效期为7天）",
     "duration": 7,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket3",
     "icon_normal": "props/item_speedup_ticket3",
@@ -309,7 +309,7 @@
   {
     "desc": "使用后，能加速60分钟的时间，让发展快人一步。（该加速券有效期为3天）",
     "duration": 3,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket3",
     "icon_normal": "props/item_speedup_ticket3",
@@ -322,7 +322,7 @@
   {
     "desc": "使用后，能加速60分钟的时间，让发展快人一步。（该加速券有效期为2天）",
     "duration": 2,
-    "expiration_time": [],
+    "expiration_time": "",
     "expiration_type": 1,
     "icon": "islandprops/item_speedup_ticket3",
     "icon_normal": "props/item_speedup_ticket3",

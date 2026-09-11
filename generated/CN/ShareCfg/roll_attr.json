@@ -175,7 +175,7 @@
     "ID": 1001,
     "default_value": "",
     "name": "姓名",
-    "random_value": []
+    "random_value": ""
   },
   {
     "ID": 1002,

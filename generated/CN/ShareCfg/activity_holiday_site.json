@@ -128,7 +128,7 @@
   {
     "icon": "",
     "id": 8,
-    "jumpto": [],
+    "jumpto": "",
     "locate": [
       9999,
       9999
@@ -140,7 +140,7 @@
   {
     "icon": "",
     "id": 9,
-    "jumpto": [],
+    "jumpto": "",
     "locate": [
       9999,
       9999
@@ -152,7 +152,7 @@
   {
     "icon": "",
     "id": 10,
-    "jumpto": [],
+    "jumpto": "",
     "locate": [
       9999,
       9999
