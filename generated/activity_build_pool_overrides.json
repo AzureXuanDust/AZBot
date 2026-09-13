@@ -163,6 +163,11 @@
         "source": "inferred_base_pool,inferred_pray_pool"
       },
       {
+        "ship_id": 206021,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
         "ship_id": 206031,
         "is_pickup": false,
         "source": "inferred_base_pool"
@@ -193,16 +198,6 @@
         "source": "inferred_base_pool"
       },
       {
-        "ship_id": 207021,
-        "is_pickup": false,
-        "source": "inferred_base_pool"
-      },
-      {
-        "ship_id": 207031,
-        "is_pickup": false,
-        "source": "inferred_base_pool"
-      },
-      {
         "ship_id": 207041,
         "is_pickup": false,
         "source": "inferred_base_pool"
@@ -224,11 +219,6 @@
       },
       {
         "ship_id": 306091,
-        "is_pickup": false,
-        "source": "inferred_base_pool"
-      },
-      {
-        "ship_id": 307071,
         "is_pickup": false,
         "source": "inferred_base_pool"
       },
@@ -293,11 +283,6 @@
         "source": "inferred_base_pool"
       },
       {
-        "ship_id": 407011,
-        "is_pickup": false,
-        "source": "inferred_base_pool"
-      },
-      {
         "ship_id": 407021,
         "is_pickup": false,
         "source": "inferred_base_pool"
@@ -329,6 +314,11 @@
       },
       {
         "ship_id": 408101,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 408131,
         "is_pickup": false,
         "source": "inferred_base_pool"
       },
@@ -368,17 +358,27 @@
         "source": "inferred_base_pool"
       },
       {
-        "ship_id": 900462,
-        "is_pickup": false,
-        "source": "inferred_base_pool"
-      },
-      {
         "ship_id": 907011,
         "is_pickup": false,
         "source": "inferred_base_pool"
       },
       {
+        "ship_id": 9600041,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
         "ship_id": 9600051,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 9600151,
+        "is_pickup": false,
+        "source": "inferred_base_pool"
+      },
+      {
+        "ship_id": 9708011,
         "is_pickup": false,
         "source": "inferred_base_pool"
       }
