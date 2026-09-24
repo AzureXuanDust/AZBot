@@ -26,6 +26,30 @@
   {
     "background": "voice_placeholder",
     "content": [
+      22,
+      220601
+    ],
+    "id": 20707301,
+    "name": "怨仇视频通话",
+    "ship_group": 20707,
+    "type": 1,
+    "unlock_desc": "进入怨仇宿舍"
+  },
+  {
+    "background": "voice_placeholder",
+    "content": [
+      22,
+      220602
+    ],
+    "id": 20707302,
+    "name": "怨仇视频通话",
+    "ship_group": 20707,
+    "type": 1,
+    "unlock_desc": "怨仇契合度12级"
+  },
+  {
+    "background": "voice_placeholder",
+    "content": [
       12,
       120601
     ],

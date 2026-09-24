@@ -24,6 +24,14 @@
     "skin_model": 202201
   },
   {
+    "asset_name": "Yuanchou_DB",
+    "bind_room": 22,
+    "default_appellation": "指挥官",
+    "id": 20707,
+    "name": "怨仇",
+    "skin_model": 207071
+  },
+  {
     "asset_name": "nengdai_db",
     "bind_room": 2,
     "default_appellation": "指挥官",

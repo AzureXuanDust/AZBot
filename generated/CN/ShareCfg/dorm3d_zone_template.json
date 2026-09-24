@@ -400,6 +400,36 @@
     "watch_camera": "Chair"
   },
   {
+    "id": 22001,
+    "is_global": 0,
+    "name": "卧室",
+    "room_id": 22,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Bed"
+  },
+  {
+    "id": 22002,
+    "is_global": 0,
+    "name": "密室",
+    "room_id": 22,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Table"
+  },
+  {
+    "id": 22003,
+    "is_global": 0,
+    "name": "客厅",
+    "room_id": 22,
+    "special_action": [],
+    "touch_id": [],
+    "type_prioritys": [],
+    "watch_camera": "Chair"
+  },
+  {
     "id": 26001,
     "is_global": 0,
     "name": "停车间",

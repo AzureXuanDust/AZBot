@@ -25,6 +25,14 @@
   },
   {
     "background": "",
+    "name": "Implacable",
+    "nationality": 0,
+    "sculpture": "yuanchou",
+    "ship_group": 20707,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Nshiro",
     "nationality": 0,
     "sculpture": "nengdai_idol",

@@ -11979,6 +11979,18 @@
     ]
   },
   {
+    "key": "lingmin_alter",
+    "res_list": [
+      "painting/lingmin_alter_tex",
+      "painting/lingmin_alter_rw_tex",
+      "painting/lingmin_alter_n_tex",
+      "painting/lingmin_alter_n_rw_tex",
+      "painting/lingmin_alter_n",
+      "painting/lingmin_alter_bj_tex",
+      "painting/lingmin_alter"
+    ]
+  },
+  {
     "key": "lingyangzhe1_1",
     "res_list": [
       "painting/lingyangzhe1_1_tex",
@@ -17767,6 +17779,17 @@
     ]
   },
   {
+    "key": "sikula_h",
+    "res_list": [
+      "painting/sikula_h_tex",
+      "painting/sikula_h_rw_tex",
+      "painting/sikula_h_n_rw_tex",
+      "painting/sikula_h_n",
+      "painting/sikula_h_bj_tex",
+      "painting/sikula_h"
+    ]
+  },
+  {
     "key": "silverfox",
     "res_list": [
       "painting/silverfox_tex",
@@ -19970,6 +19993,17 @@
     ]
   },
   {
+    "key": "weizhang_h",
+    "res_list": [
+      "painting/weizhang_h_tex",
+      "painting/weizhang_h_rw_tex",
+      "painting/weizhang_h_n_rw_tex",
+      "painting/weizhang_h_n",
+      "painting/weizhang_h_bj_tex",
+      "painting/weizhang_h"
+    ]
+  },
+  {
     "key": "wenqinzuojiaobeidi",
     "res_list": [
       "painting/wenqinzuojiaobeidi_tex",
@@ -21222,6 +21256,17 @@
     ]
   },
   {
+    "key": "xinnong_h",
+    "res_list": [
+      "painting/xinnong_h_tex",
+      "painting/xinnong_h_rw_tex",
+      "painting/xinnong_h_n_rw_tex",
+      "painting/xinnong_h_n",
+      "painting/xinnong_h_bj_tex",
+      "painting/xinnong_h"
+    ]
+  },
+  {
     "key": "xinnong_younv",
     "res_list": [
       "painting/xinnong_younv_tex",
@@ -22286,6 +22331,16 @@
     "res_list": [
       "painting/yinggelahan_2_tex",
       "painting/yinggelahan_2"
+    ]
+  },
+  {
+    "key": "yinggelahan_3",
+    "res_list": [
+      "painting/yinggelahan_3_tex",
+      "painting/yinggelahan_3_rw_tex",
+      "painting/yinggelahan_3_n_rw_tex",
+      "painting/yinggelahan_3_n",
+      "painting/yinggelahan_3"
     ]
   },
   {

@@ -37224,6 +37224,70 @@
   {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
+    "desc": "980钻石购买限时礼包-比翼双飞(260924虎UR第三弹版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40100
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60863,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 0,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 980,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          9,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 5
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
     "desc": "200钻石扩展船坞容量+10（船坞数量在0~1999时）",
     "discount": 0,
     "discount_time": [],
@@ -135316,6 +135380,70 @@
   {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
+    "desc": "通行证复刻-梧换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      301042
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "cruise_skin",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 105015,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 880,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
     "desc": "通行证复刻-流星鱼雷",
     "discount": 0,
     "discount_time": [],
@@ -138900,6 +139028,262 @@
   {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
+    "desc": "通行证复刻-陨石术炮弹",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2061
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106057,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 100,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "通行证复刻-宝石魔弹",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2062
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106058,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 100,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "通行证复刻-（快乐）幽灵鱼雷",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2063
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106059,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 100,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "通行证复刻-未知魔法阵",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2064
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106060,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 100,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_new": [],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
     "desc": "宿舍1000物资购买花束",
     "discount": 0,
     "discount_time": [],
@@ -139658,6 +140042,46 @@
   {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
+    "desc": "宿舍280钻石购买眷恋手记",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2070701
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 260801,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 280,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": "always",
+    "time_new": [],
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
     "desc": "宿舍480钻石购买甜蜜心事",
     "discount": 0,
     "discount_time": [],
@@ -140160,6 +140584,40 @@
     "group_limit": 0,
     "group_type": 0,
     "id": 270121,
+    "limit_args": [],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 800,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": "always",
+    "time_new": [],
+    "time_second": 0,
+    "type": 32,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "维修区工作站邀请怨仇解锁",
+    "discount": 0,
+    "discount_time": "always",
+    "effect_args": [
+      207072
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270122,
     "limit_args": [],
     "limit_args2": [],
     "num": 1,
@@ -141039,6 +141497,46 @@
     "group_limit": 0,
     "group_type": 0,
     "id": 270701,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": [],
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 480,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": "always",
+    "time_new": [],
+    "time_second": 0,
+    "type": 26,
+    "type_order": 0
+  },
+  {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "宿舍480钻石购买研习长案",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2261
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270801,
     "limit_args": [
       [
         "count",

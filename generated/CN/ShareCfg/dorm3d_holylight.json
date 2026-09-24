@@ -62,6 +62,118 @@
       0
     ],
     "base_size": [
+      140,
+      210
+    ],
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "default_threshold": 0.75,
+    "id": 20707101,
+    "invert": 1,
+    "rotation_offset": [
+      0,
+      0,
+      0
+    ],
+    "skin_id": 207071,
+    "target_bone": "all/Bip001/Bip001 Pelvis",
+    "texture": "dorm3dholylight/Eff_smoke_117"
+  },
+  {
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "base_size": [
+      140,
+      210
+    ],
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "default_threshold": 0.75,
+    "id": 20707102,
+    "invert": 1,
+    "rotation_offset": [
+      0,
+      0,
+      0
+    ],
+    "skin_id": 207072,
+    "target_bone": "all/Bip001/Bip001 Pelvis",
+    "texture": "dorm3dholylight/Eff_smoke_117"
+  },
+  {
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "base_size": [
+      140,
+      210
+    ],
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "default_threshold": 0.75,
+    "id": 20707103,
+    "invert": 1,
+    "rotation_offset": [
+      0,
+      0,
+      0
+    ],
+    "skin_id": 207073,
+    "target_bone": "all/Bip001/Bip001 Pelvis",
+    "texture": "dorm3dholylight/Eff_smoke_117"
+  },
+  {
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "base_size": [
+      140,
+      210
+    ],
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "default_threshold": 0.75,
+    "id": 20707104,
+    "invert": 1,
+    "rotation_offset": [
+      0,
+      0,
+      0
+    ],
+    "skin_id": 207074,
+    "target_bone": "all/Bip001/Bip001 Pelvis",
+    "texture": "dorm3dholylight/Eff_smoke_117"
+  },
+  {
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "base_size": [
       96,
       96
     ],

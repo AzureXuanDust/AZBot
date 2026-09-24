@@ -279,6 +279,132 @@
     "type": 2
   },
   {
+    "content": 20707101,
+    "id": 20707101,
+    "text": "怨仇进入宿舍1天",
+    "trigger_id": 0,
+    "trigger_num": 1,
+    "trigger_type": 152,
+    "type": 1
+  },
+  {
+    "content": 20707102,
+    "id": 20707102,
+    "text": "怨仇解锁宿舍2天",
+    "trigger_id": 0,
+    "trigger_num": 2,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 20707103,
+    "id": 20707103,
+    "text": "怨仇解锁宿舍4天",
+    "trigger_id": 0,
+    "trigger_num": 4,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 20707104,
+    "id": 20707104,
+    "text": "收集物品解锁20个",
+    "trigger_id": 0,
+    "trigger_num": 20,
+    "trigger_type": 153,
+    "type": 1
+  },
+  {
+    "content": 20707105,
+    "id": 20707105,
+    "text": "累计互动3次",
+    "trigger_id": 0,
+    "trigger_num": 3,
+    "trigger_type": 156,
+    "type": 1
+  },
+  {
+    "content": 20707106,
+    "id": 20707106,
+    "text": "怨仇累计赠礼5次",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 157,
+    "type": 1
+  },
+  {
+    "content": 20707107,
+    "id": 20707107,
+    "text": "怨仇解锁宿舍7天",
+    "trigger_id": 0,
+    "trigger_num": 7,
+    "trigger_type": 151,
+    "type": 1
+  },
+  {
+    "content": 20707108,
+    "id": 20707108,
+    "text": "累计对话15次 ",
+    "trigger_id": 0,
+    "trigger_num": 15,
+    "trigger_type": 155,
+    "type": 1
+  },
+  {
+    "content": 20707109,
+    "id": 20707109,
+    "text": "累计互动5次 ",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 156,
+    "type": 1
+  },
+  {
+    "content": 20707110,
+    "id": 20707110,
+    "text": "累计赠礼10次 ",
+    "trigger_id": 0,
+    "trigger_num": 10,
+    "trigger_type": 157,
+    "type": 1
+  },
+  {
+    "content": 20707201,
+    "id": 20707201,
+    "text": "怨仇契合度5级",
+    "trigger_id": 0,
+    "trigger_num": 5,
+    "trigger_type": 101,
+    "type": 3
+  },
+  {
+    "content": 20707202,
+    "id": 20707202,
+    "text": "怨仇契合度10级",
+    "trigger_id": 0,
+    "trigger_num": 10,
+    "trigger_type": 101,
+    "type": 3
+  },
+  {
+    "content": 20707301,
+    "id": 20707301,
+    "text": "怨仇进入宿舍1天",
+    "trigger_id": 0,
+    "trigger_num": 1,
+    "trigger_type": 152,
+    "type": 2
+  },
+  {
+    "content": 20707302,
+    "id": 20707302,
+    "text": "怨仇契合度12级",
+    "trigger_id": 0,
+    "trigger_num": 12,
+    "trigger_type": 101,
+    "type": 2
+  },
+  {
     "content": 30707101,
     "id": 30707101,
     "text": "玩家进入宿舍1天",

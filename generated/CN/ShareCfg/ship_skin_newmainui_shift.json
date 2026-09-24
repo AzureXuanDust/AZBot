@@ -2572,6 +2572,54 @@
   },
   {
     "battle_result_display_shift": [
+      40.43,
+      0,
+      0,
+      1,
+      0
+    ],
+    "formation_shift": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "l2d_shift": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "skin": 202338,
+    "skin_card_shift": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "skin_shift": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "skin_shop_shift": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "spine_shift": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "battle_result_display_shift": [
       -53,
       -13.99996,
       0,
@@ -4938,6 +4986,54 @@
     ],
     "skin_shift": [
       -96.33,
+      0,
+      0,
+      1
+    ],
+    "skin_shop_shift": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "spine_shift": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "battle_result_display_shift": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "formation_shift": [
+      0,
+      0,
+      0,
+      1,
+      343.75
+    ],
+    "l2d_shift": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "skin": 307088,
+    "skin_card_shift": [
+      0,
+      0,
+      0,
+      1,
+      339.71
+    ],
+    "skin_shift": [
+      0,
       0,
       0,
       1

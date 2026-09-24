@@ -4196,6 +4196,17 @@
     "t_level_1": 23
   },
   {
+    "id": 970113,
+    "name": "灵敏·META",
+    "nation": 97,
+    "ships": [
+      970113
+    ],
+    "shiptype": 1,
+    "t_level": 4,
+    "t_level_1": 6
+  },
+  {
     "id": 970201,
     "name": "海伦娜·META",
     "nation": 97,

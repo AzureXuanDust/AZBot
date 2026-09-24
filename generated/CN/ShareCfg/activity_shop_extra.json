@@ -5096,11 +5096,11 @@
     ]
   },
   {
-    "activity": 7030,
-    "commodity_id": 103092,
+    "activity": 7031,
+    "commodity_id": 101482,
     "commodity_type": 7,
     "end_by_maintenance": 0,
-    "id": 146,
+    "id": 148,
     "num": 1,
     "num_limit": 1,
     "order": 10,
@@ -5113,7 +5113,7 @@
       [
         [
           2026,
-          8,
+          10,
           1
         ],
         [
@@ -5125,45 +5125,7 @@
       [
         [
           2026,
-          9,
-          30
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ]
-  },
-  {
-    "activity": 51129,
-    "commodity_id": 802014,
-    "commodity_type": 7,
-    "end_by_maintenance": 0,
-    "id": 147,
-    "num": 1,
-    "num_limit": 1,
-    "order": 5,
-    "scene": [],
-    "shop_tag": 2,
-    "time": [
-      [
-        [
-          2026,
-          9,
-          4
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          9,
+          11,
           30
         ],
         [

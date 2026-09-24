@@ -330,5 +330,49 @@
       26,
       79902
     ]
+  },
+  {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 221,
+    "image": "yuanchou_accompany_room",
+    "jump_trigger": [],
+    "name": "日常相伴",
+    "performance_time": 20,
+    "resource_room": 22,
+    "sceneInfo": "map_yuanchou_01|Yuanchou_DB/Yuanchouhostel",
+    "ship_id": 20707,
+    "timeline": "Xiangban_personal_20707",
+    "unlock": []
+  },
+  {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 222,
+    "image": "carwash_accompany",
+    "jump_trigger": [],
+    "name": "休闲相伴",
+    "performance_time": 20,
+    "resource_room": 26,
+    "sceneInfo": "map_carwash_01|Carwash",
+    "ship_id": 20707,
+    "timeline": "Xiangban_carwash_20707",
+    "unlock": [
+      5,
+      26,
+      20707
+    ]
   }
 ]
