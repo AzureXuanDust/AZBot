@@ -169,6 +169,21 @@ jobs:
             --title "${VERSION}" \
             --notes "CN data generated from AzurLaneLuaScripts ${{ steps.upstream.outputs.current_commit }}"
 
+      - name: Prune old releases (keep only latest)
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          # 优雅路线：GitHub 上只保留当前这一个 release/tag，其余全删
+          gh release list --repo "${GITHUB_REPOSITORY}" --limit 200 --json tagName --jq '.[].tagName' \
+            | while read -r tag; do
+                if [ -n "${tag}" ] && [ "${tag}" != "${VERSION}" ]; then
+                  echo "删除旧 release: ${tag}"
+                  gh release delete "${tag}" --repo "${GITHUB_REPOSITORY}" --cleanup-tag --yes
+                fi
+              done
+
       - name: Keep latest 5 workflow runs
         if: always()
         env:
@@ -240,3 +255,67 @@ jobs:
           LANZOU_PHPDISK_INFO: ${{ secrets.LANZOU_PHPDISK_INFO }}
           PROJECT_NAME: "Belfast"
         run: python lanzou_upload_workflow.py
+
+  upload-to-r2:
+    name: Upload to Cloudflare R2
+    needs: update
+    if: needs.update.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    env:
+      R2_BUCKET: tianjg-update
+      R2_PREFIX: Azurl
+      R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
+      # 新版 aws-cli v2 默认给上传加 CRC 校验，R2 会拒；只在服务端要求时才算
+      AWS_REQUEST_CHECKSUM_CALCULATION: WHEN_REQUIRED
+      AWS_RESPONSE_CHECKSUM_VALIDATION: WHEN_REQUIRED
+
+    steps:
+      - name: Download release package
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ needs.update.outputs.version }}
+        run: |
+          mkdir -p release-packages
+          gh release download "${RELEASE_TAG}" --repo "${GITHUB_REPOSITORY}" \
+            --pattern "Resources-*.zip" --dir release-packages
+          ls -l release-packages
+
+      - name: Upload archive + latest.json, prune old
+        env:
+          VERSION: ${{ needs.update.outputs.version }}
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          files=(release-packages/Resources-*.zip)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "未找到 Resources-*.zip"; exit 1
+          fi
+          archive="${files[0]}"
+          name="$(basename "${archive}")"
+          size="$(stat -c %s "${archive}")"
+          sha="$(sha256sum "${archive}" | cut -d' ' -f1)"
+          base="s3://${R2_BUCKET}/${R2_PREFIX}"
+          echo "上传 ${name}（${size} 字节, sha256=${sha}）"
+
+          # 1) 新包：文件名带版本，URL 唯一，可长缓存
+          aws s3 cp "${archive}" "${base}/${name}" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --content-type application/zip \
+            --cache-control "public, max-age=31536000, immutable"
+
+          # 2) latest.json：固定名，短缓存，避免 CDN 缓存住旧版本
+          printf '{"version":"%s","archive":"%s","size":%s,"sha256":"%s"}\n' \
+            "${VERSION}" "${name}" "${size}" "${sha}" > latest.json
+          aws s3 cp latest.json "${base}/latest.json" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --content-type application/json \
+            --cache-control "no-cache, max-age=30"
+
+          # 3) 优雅路线：删掉同前缀下其它旧 Resources-*.zip，只留当前版本
+          aws s3 rm "${base}/" --recursive \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --exclude "*" --include "Resources-*.zip" --exclude "${name}"
+
