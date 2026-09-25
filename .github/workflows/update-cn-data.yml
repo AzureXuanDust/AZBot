@@ -105,35 +105,42 @@ jobs:
       - name: Commit updated CN data
         id: commit_generated
         if: steps.upstream.outputs.should_generate == 'true'
+        env:
+          FORCE: ${{ inputs.force }}
         run: |
-          # Only data files (everything except source.json) trigger a release;
-          # a changed upstream pointer alone must not publish an empty version.
-          # The '^##' filter drops the branch header that git status --short
-          # always prints (even with a pathspec), which would otherwise make
-          # the emptiness check below always fail.
+          # 数据文件（source.json 以外）有变化才触发常规发布；
+          # 强制运行（force=true）则无论 git 有无 diff 都发布，重新打包现有数据。
+          # '^##' 过滤掉 git status --short 总会打印的分支头。
           data_changes="$(git status --short -- generated | grep -v '^##' | grep -v 'generated/source.json$' || true)"
+          pointer_changed="$(git status --short -- generated/source.json | grep -v '^##' || true)"
 
-          if [ -z "${data_changes}" ]; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "${data_changes}" ]; then
+            git add -A generated
+            git commit -m "Update generated CN data"
+            git push
+            echo "has_changes=true" >> "${GITHUB_OUTPUT}"
+          elif [ "${FORCE}" = "true" ]; then
+            echo "无数据变化，但触发了强制运行：重新发布现有数据。"
+            # 上游指针有变则一并提交，保持变更检测准确
+            if [ -n "${pointer_changed}" ]; then
+              git add -A generated
+              git commit -m "Track upstream revision (forced republish)"
+              git push
+            fi
+            echo "has_changes=true" >> "${GITHUB_OUTPUT}"
+          else
             echo "No generated data changes."
             echo "has_changes=false" >> "${GITHUB_OUTPUT}"
-            # Still commit the source.json pointer so upstream-change detection
-            # stays accurate, but skip the release/upload entirely.
-            if [ -n "$(git status --short -- generated/source.json | grep -v '^##' || true)" ]; then
-              git config user.name "github-actions[bot]"
-              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # 仅上游指针变化：提交指针但不发布空版本
+            if [ -n "${pointer_changed}" ]; then
               git add -A generated
               git commit -m "Track upstream revision (no data changes)"
               git push
             fi
-            exit 0
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A generated
-          git commit -m "Update generated CN data"
-          git push
-          echo "has_changes=true" >> "${GITHUB_OUTPUT}"
 
       - name: Generate version
         id: version
@@ -164,6 +171,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # 强制重发时同名 tag 可能已存在，先删再建，保证幂等
+          gh release delete "${VERSION}" --repo "${GITHUB_REPOSITORY}" --cleanup-tag --yes 2>/dev/null || true
           gh release create "${VERSION}" \
             "release/Resources-${VERSION}.zip#Resources-${VERSION}.zip" \
             --title "${VERSION}" \
