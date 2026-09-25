@@ -1,0 +1,83 @@
+name: Test R2 operations
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  R2_BUCKET: tianjg-update
+  R2_PREFIX: _r2-selftest
+  R2_PUBLIC_BASE: https://upd.tianjg.com
+  R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+  AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  AWS_DEFAULT_REGION: auto
+  # 新版 aws-cli v2 默认给上传加 CRC 校验，R2 会拒；只在服务端要求时才算
+  AWS_REQUEST_CHECKSUM_CALCULATION: WHEN_REQUIRED
+  AWS_RESPONSE_CHECKSUM_VALIDATION: WHEN_REQUIRED
+
+jobs:
+  test-r2:
+    name: Test R2 operations
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run R2 self-test
+        run: |
+          set -uo pipefail
+          fail=0
+          check() { if [ "$1" = "$2" ]; then echo "  ✓ $3"; else echo "  ✗ $3（期望 [$2] 实际 [$1]）"; fail=1; fi; }
+          base="s3://${R2_BUCKET}/${R2_PREFIX}"
+          ep="--endpoint-url ${R2_ENDPOINT}"
+          old="Resources-vTEST-old.zip"
+          new="Resources-vTEST-new.zip"
+
+          echo "== 0) 准备测试文件（隔离前缀 ${R2_PREFIX}，测完删光）=="
+          head -c 1048576 /dev/urandom > "$new"
+          echo "old-dummy" > "$old"
+          size=$(stat -c %s "$new"); sha=$(sha256sum "$new" | cut -d' ' -f1)
+
+          echo "== 1) 上传旧包 + 新包（application/zip，长缓存）=="
+          aws s3 cp "$old" "${base}/${old}" $ep --content-type application/zip --cache-control "public, max-age=31536000, immutable"
+          aws s3 cp "$new" "${base}/${new}" $ep --content-type application/zip --cache-control "public, max-age=31536000, immutable"
+
+          echo "== 2) 上传 latest.json（application/json，短缓存）=="
+          printf '{"version":"vTEST-new","archive":"%s","size":%s,"sha256":"%s"}\n' "$new" "$size" "$sha" > latest.json
+          aws s3 cp latest.json "${base}/latest.json" $ep --content-type application/json --cache-control "no-cache, max-age=30"
+
+          echo "== 3) 列出前缀（应有 old / new / latest.json）=="
+          aws s3 ls "${base}/" $ep
+
+          echo "== 4) prune：删旧包只留 new =="
+          aws s3 rm "${base}/" --recursive $ep --exclude "*" --include "Resources-*.zip" --exclude "${new}"
+
+          echo "== 5) 再列出并断言 =="
+          listing=$(aws s3 ls "${base}/" $ep); echo "$listing"
+          echo "$listing" | grep -q "$new" && r=y || r=n; check "$r" "y" "prune 后保留 ${new}"
+          echo "$listing" | grep -q "$old" && r=y || r=n; check "$r" "n" "prune 后删除 ${old}"
+          echo "$listing" | grep -q "latest.json" && r=y || r=n; check "$r" "y" "latest.json 仍在"
+
+          echo "== 6) 自定义域（Cloudflare CDN）公开访问校验 =="
+          url_new="${R2_PUBLIC_BASE}/${R2_PREFIX}/${new}"
+          url_json="${R2_PUBLIC_BASE}/${R2_PREFIX}/latest.json"
+          url_old="${R2_PUBLIC_BASE}/${R2_PREFIX}/${old}"
+
+          check "$(curl -s -o /dev/null -w '%{http_code}' -I "$url_new")" "200" "新包 HTTP 200"
+          check "$(curl -sI "$url_new" | tr -d '\r' | awk -F': ' 'tolower($1)=="content-type"{print $2}')" "application/zip" "新包 Content-Type"
+          check "$(curl -sI "$url_new" | tr -d '\r' | awk -F': ' 'tolower($1)=="accept-ranges"{print $2}')" "bytes" "新包 Accept-Ranges（断点续传）"
+          check "$(curl -s -r 0-9 -o /dev/null -w '%{http_code}' "$url_new")" "206" "Range 请求返回 206"
+
+          check "$(curl -s -o /dev/null -w '%{http_code}' "${url_json}?t=${RANDOM}")" "200" "latest.json HTTP 200"
+          body=$(curl -s "${url_json}?t=${RANDOM}"); echo "  latest.json = $body"
+          echo "$body" | grep -q "\"archive\":\"${new}\"" && r=y || r=n; check "$r" "y" "latest.json 指向 ${new}"
+          echo "  latest.json Cache-Control = $(curl -sI "${url_json}?t=${RANDOM}" | tr -d '\r' | awk -F': ' 'tolower($1)=="cache-control"{print $2}')"
+
+          check "$(curl -s -o /dev/null -w '%{http_code}' -I "${url_old}?t=${RANDOM}")" "404" "旧包被删后 404"
+
+          echo "== 7) 清理测试前缀 =="
+          aws s3 rm "${base}/" --recursive $ep
+          echo "剩余：$(aws s3 ls "${base}/" $ep || true)"
+
+          echo ""
+          if [ "$fail" = "0" ]; then echo "✅ R2 全部操作测试通过"; else echo "❌ 有检查未通过，见上方 ✗"; exit 1; fi
