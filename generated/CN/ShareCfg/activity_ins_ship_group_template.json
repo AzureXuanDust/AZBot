@@ -802,6 +802,15 @@
   },
   {
     "background": "",
+    "name": "Pensacola",
+    "nationality": 1,
+    "sculpture": "pengsakela",
+    "sculpture_ii": "",
+    "ship_group": 10301,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Northampton",
     "nationality": 0,
     "sculpture": "beianpudunII",
@@ -1905,6 +1914,15 @@
     "sculpture": "lundun",
     "sculpture_ii": "",
     "ship_group": 20301,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Shropshire",
+    "nationality": 2,
+    "sculpture": "shiluopujun",
+    "sculpture_ii": "",
+    "ship_group": 20302,
     "type": 1
   },
   {
@@ -4348,6 +4366,15 @@
   },
   {
     "background": "",
+    "name": "Max Immelmann",
+    "nationality": 3,
+    "sculpture": "makesi",
+    "sculpture_ii": "",
+    "ship_group": 49911,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Anshan1",
     "nationality": 0,
     "sculpture": "anshan",
@@ -5213,7 +5240,7 @@
   {
     "background": "",
     "name": "Волга",
-    "nationality": 0,
+    "nationality": 7,
     "sculpture": "fuerjia",
     "sculpture_ii": "",
     "ship_group": 70701,
@@ -5734,6 +5761,15 @@
   },
   {
     "background": "",
+    "name": [],
+    "nationality": 0,
+    "sculpture": "zhihuiguan",
+    "sculpture_ii": "",
+    "ship_group": 99999,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Evertsen",
     "nationality": 11,
     "sculpture": "aifosen",
@@ -5798,7 +5834,7 @@
   {
     "background": "",
     "name": "Golden Hind",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "jinluhao",
     "sculpture_ii": "",
     "ship_group": 960003,

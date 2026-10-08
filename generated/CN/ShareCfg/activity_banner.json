@@ -2,15 +2,16 @@
   {
     "id": 1,
     "param": [
-      "scene dockyard"
+      "scene skinshop",
+      []
     ],
     "pic": "temp1",
     "time": [
       [
         [
           2026,
-          9,
-          24
+          10,
+          8
         ],
         [
           0,
@@ -22,12 +23,12 @@
         [
           2026,
           10,
-          8
+          14
         ],
         [
-          12,
-          0,
-          0
+          23,
+          59,
+          59
         ]
       ]
     ],
@@ -43,32 +44,7 @@
       }
     ],
     "pic": "temp2",
-    "time": [
-      [
-        [
-          2026,
-          9,
-          8
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          9,
-          30
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "type": 2
   },
   {
@@ -76,36 +52,11 @@
     "param": [
       "scene charge",
       {
-        "wrap": 4
+        "wrap": 2
       }
     ],
     "pic": "temp3",
-    "time": [
-      [
-        [
-          2026,
-          9,
-          17
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          9,
-          30
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "type": 2
   },
   {
@@ -113,36 +64,11 @@
     "param": [
       "scene core activity",
       {
-        "coreName": "ShadowCityCoreActivityUI"
+        "coreName": "StarsCityCoreActivityUI"
       }
     ],
     "pic": "temp4",
-    "time": [
-      [
-        [
-          2026,
-          9,
-          8
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          9,
-          30
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "type": 2
   },
   {
@@ -150,7 +76,7 @@
     "param": [
       "scene charge",
       {
-        "wrap": 4
+        "wrap": 2
       }
     ],
     "pic": "temp5",
@@ -158,7 +84,7 @@
       [
         [
           2026,
-          9,
+          10,
           8
         ],
         [
@@ -170,8 +96,8 @@
       [
         [
           2026,
-          9,
-          30
+          10,
+          14
         ],
         [
           23,
@@ -185,17 +111,27 @@
   {
     "id": 6,
     "param": [
-      "scene charge",
-      {
-        "wrap": 2
-      }
+      "scene court yard"
     ],
     "pic": "temp6",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 7,
+    "param": [
+      "scene equip",
+      {
+        "designPage": 2,
+        "warp": "WARP_TO_DESIGN"
+      }
+    ],
+    "pic": "temp7",
     "time": [
       [
         [
           2026,
-          9,
+          10,
           8
         ],
         [
@@ -207,50 +143,13 @@
       [
         [
           2026,
-          9,
-          30
+          10,
+          15
         ],
         [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
-    "type": 2
-  },
-  {
-    "id": 7,
-    "param": [
-      "scene charge",
-      {
-        "wrap": 2
-      }
-    ],
-    "pic": "temp7",
-    "time": [
-      [
-        [
-          2026,
-          9,
-          24
-        ],
-        [
-          0,
+          12,
           0,
           0
-        ]
-      ],
-      [
-        [
-          2026,
-          10,
-          7
-        ],
-        [
-          23,
-          59,
-          59
         ]
       ]
     ],
@@ -296,32 +195,7 @@
       "dorm 3d select"
     ],
     "pic": "temp9",
-    "time": [
-      [
-        [
-          2026,
-          9,
-          24
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          10,
-          8
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
+    "time": "stop",
     "type": 2
   },
   {
@@ -418,5 +292,348 @@
     "pic": "winter",
     "time": "stop",
     "type": 13
+  },
+  {
+    "id": 1001,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1001",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1002,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1003,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "ActivityRemasterCoreActivityAdaptUI"
+      }
+    ],
+    "pic": "temp1002",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1004,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1003",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1011,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1011",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1012,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1013,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "ActivityRemasterCoreActivityAdaptUI"
+      }
+    ],
+    "pic": "temp1012",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1014,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1013",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1021,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1021",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1022,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1023,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "ActivityRemasterCoreActivityAdaptUI"
+      }
+    ],
+    "pic": "temp1022",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1024,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1023",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1031,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1031",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1032,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1033,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "ActivityRemasterCoreActivityAdaptUI"
+      }
+    ],
+    "pic": "temp1032",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1034,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1033",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1041,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1041",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1042,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1043,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "ActivityRemasterCoreActivityAdaptUI"
+      }
+    ],
+    "pic": "temp1042",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1044,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1043",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1051,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1051",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1052,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1053,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "SecretsAbyssCoreActivityReUI"
+      }
+    ],
+    "pic": "temp1052",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1054,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1053",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1061,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1061",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1062,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1063,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "TianYuTianYuanCoreActivityReUI"
+      }
+    ],
+    "pic": "temp1062",
+    "time": "stop",
+    "type": 2
+  },
+  {
+    "id": 1064,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1063",
+    "time": "stop",
+    "type": 2
   }
 ]

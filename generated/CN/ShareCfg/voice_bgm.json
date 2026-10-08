@@ -79,6 +79,11 @@
     "default_bgm": "main",
     "special_bgm": []
   },
+  "ActivityRemasterScene ": {
+    "bgm": "story-richang",
+    "default_bgm": "story-richang",
+    "special_bgm": ""
+  },
   "ActivityShop50430": {
     "bgm": "story-china-0226-pv",
     "default_bgm": "story-china-0226-pv",

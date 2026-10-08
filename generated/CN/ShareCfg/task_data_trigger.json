@@ -990,5 +990,13 @@
     "id": 126,
     "task_id": 500281,
     "type": 2
+  },
+  {
+    "activity_id": 0,
+    "count": 1,
+    "group_id": 70701,
+    "id": 127,
+    "task_id": 500291,
+    "type": 2
   }
 ]

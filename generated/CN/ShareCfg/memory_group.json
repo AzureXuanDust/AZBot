@@ -10034,6 +10034,28 @@
   },
   {
     "auto_unlock": [],
+    "group_id": [
+      10000
+    ],
+    "icon": "title_chara_fuerjia",
+    "id": 627,
+    "link_event": 0,
+    "memories": [
+      5491,
+      5492,
+      5493,
+      5494,
+      5495,
+      5496,
+      5497
+    ],
+    "ship_group": 70701,
+    "subtype": 0,
+    "title": "伏尔加的“健康任务”",
+    "type": 3
+  },
+  {
+    "auto_unlock": [],
     "group_id": [],
     "icon": "title_event",
     "id": 1000,

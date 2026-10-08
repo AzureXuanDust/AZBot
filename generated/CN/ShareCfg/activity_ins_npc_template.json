@@ -123467,5 +123467,313 @@
     "npc_reply_persist": [],
     "ship_group": 60108,
     "time_persist": []
+  },
+  {
+    "id": 100471,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 90402,
+    "time_persist": []
+  },
+  {
+    "id": 100472,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 110201,
+    "time_persist": []
+  },
+  {
+    "id": 100473,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 20703,
+    "time_persist": []
+  },
+  {
+    "id": 100474,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 60501,
+    "time_persist": []
+  },
+  {
+    "id": 100475,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10213,
+    "time_persist": []
+  },
+  {
+    "id": 100476,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10324,
+    "time_persist": []
+  },
+  {
+    "id": 100477,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10227,
+    "time_persist": []
+  },
+  {
+    "id": 100478,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 31201,
+    "time_persist": []
+  },
+  {
+    "id": 100479,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10209,
+    "time_persist": []
+  },
+  {
+    "id": 100480,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10215,
+    "time_persist": []
+  },
+  {
+    "id": 100481,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10214,
+    "time_persist": []
+  },
+  {
+    "id": 100482,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 69901,
+    "time_persist": []
+  },
+  {
+    "id": 100483,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 89903,
+    "time_persist": []
+  },
+  {
+    "id": 100484,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 50207,
+    "time_persist": []
+  },
+  {
+    "id": 100485,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 49901,
+    "time_persist": []
+  },
+  {
+    "id": 100486,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10601,
+    "time_persist": []
+  },
+  {
+    "id": 100487,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10205,
+    "time_persist": []
+  },
+  {
+    "id": 100488,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10205,
+    "time_persist": []
+  },
+  {
+    "id": 100489,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30606,
+    "time_persist": []
+  },
+  {
+    "id": 100490,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10226,
+    "time_persist": []
+  },
+  {
+    "id": 100491,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10311,
+    "time_persist": []
+  },
+  {
+    "id": 100492,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30510,
+    "time_persist": []
+  },
+  {
+    "id": 100493,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10517,
+    "time_persist": []
+  },
+  {
+    "id": 100494,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 90111,
+    "time_persist": []
+  },
+  {
+    "id": 100495,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10117,
+    "time_persist": []
+  },
+  {
+    "id": 100496,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10131,
+    "time_persist": []
+  },
+  {
+    "id": 100497,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 60702,
+    "time_persist": []
+  },
+  {
+    "id": 100498,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 20303,
+    "time_persist": []
+  },
+  {
+    "id": 100499,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10501,
+    "time_persist": []
+  },
+  {
+    "id": 100500,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10502,
+    "time_persist": []
+  },
+  {
+    "id": 100501,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10301,
+    "time_persist": []
+  },
+  {
+    "id": 100502,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 20302,
+    "time_persist": []
+  },
+  {
+    "id": 100504,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 20212,
+    "time_persist": []
+  },
+  {
+    "id": 100505,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10707,
+    "time_persist": []
+  },
+  {
+    "id": 100506,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 59901,
+    "time_persist": []
+  },
+  {
+    "id": 100507,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 81801,
+    "time_persist": []
+  },
+  {
+    "id": 100509,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 40815,
+    "time_persist": []
+  },
+  {
+    "id": 100510,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 70303,
+    "time_persist": []
+  },
+  {
+    "id": 100511,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 49911,
+    "time_persist": []
+  },
+  {
+    "id": 100512,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 10725,
+    "time_persist": []
+  },
+  {
+    "id": 100513,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 80601,
+    "time_persist": []
+  },
+  {
+    "id": 100514,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30112,
+    "time_persist": []
+  },
+  {
+    "id": 100515,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 30110,
+    "time_persist": []
+  },
+  {
+    "id": 100516,
+    "message_persist": "",
+    "npc_reply_persist": [],
+    "ship_group": 99999,
+    "time_persist": []
   }
 ]

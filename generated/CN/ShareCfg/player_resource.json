@@ -21,7 +21,7 @@
   },
   {
     "id": 5,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "oilField"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "id": 7,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "goldField"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "id": 10,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "expField"
   },
   {
@@ -2845,6 +2845,26 @@
     "name": "limit_skinticket120"
   },
   {
+    "id": 763,
+    "itemid": 68373,
+    "name": "limit_skinticket121"
+  },
+  {
+    "id": 764,
+    "itemid": 68374,
+    "name": "limit_skinticket122"
+  },
+  {
+    "id": 765,
+    "itemid": 68375,
+    "name": "limit_skinticket123"
+  },
+  {
+    "id": 766,
+    "itemid": 67002,
+    "name": "skinTicket126"
+  },
+  {
     "id": 950,
     "itemid": 59111,
     "name": "yisegefuke_pt1"
@@ -3331,47 +3351,47 @@
   },
   {
     "id": 4186,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt1"
   },
   {
     "id": 4276,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt1jp"
   },
   {
     "id": 4599,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_2022"
   },
   {
     "id": 4699,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_jp2023"
   },
   {
     "id": 5081,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_us2023"
   },
   {
     "id": 5082,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_2023"
   },
   {
     "id": 5653,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_2024"
   },
   {
     "id": 5704,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_2024_cn"
   },
   {
     "id": 30853,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_us2022"
   },
   {
@@ -3466,7 +3486,7 @@
   },
   {
     "id": 41375,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt_tw2024"
   },
   {
@@ -3486,7 +3506,7 @@
   },
   {
     "id": 100004,
-    "itemid": 0,
+    "itemid": 59099,
     "name": "skin_rerun_pt"
   },
   {
