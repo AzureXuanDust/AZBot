@@ -44549,7 +44549,7 @@
     "id": 323101,
     "new": 0,
     "not_for_sale": 0,
-    "time": "always"
+    "time": "stop"
   },
   {
     "collaboration_furniture_time": "",
@@ -44560,7 +44560,7 @@
     "id": 323102,
     "new": 0,
     "not_for_sale": 0,
-    "time": "always"
+    "time": "stop"
   },
   {
     "collaboration_furniture_time": "",
