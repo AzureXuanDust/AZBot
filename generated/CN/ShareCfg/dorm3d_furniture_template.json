@@ -2233,6 +2233,42 @@
   {
     "acesses": "",
     "can_remove": 0,
+    "desc": "圆形床榻裹着纯白绒面，猫耳竖起、尾巴轻蜷，躺进去就像掉进了毛茸茸的梦里一般~",
+    "icon": "dorm3dIcon/3Ddrom_naximofu_PremiumFurniture2",
+    "id": 2162,
+    "is_exclusive": 1,
+    "is_special": 0,
+    "model": "Pay_Naximofuhostel/pre_db_naximofu_bed01",
+    "model_night": "",
+    "name": "猫绒圆梦巢 ",
+    "rarity": 4,
+    "room_id": 21,
+    "scene_hides": [
+      "no_bake_pay_prop/bedroom"
+    ],
+    "shop_id": [
+      270702
+    ],
+    "target_slots": [
+      2210101
+    ],
+    "touch_id": [
+      [
+        79902,
+        7990250
+      ]
+    ],
+    "type": 4,
+    "unlock_banners": [
+      "banner_furniture2162"
+    ],
+    "unlock_tips": [
+      3
+    ]
+  },
+  {
+    "acesses": "",
+    "can_remove": 0,
     "desc": "宽大舒适的居家床铺营造出安稳平和的休憩氛围，没有多余点缀，却自有令人放松下来的温柔。很适合在漫长一天后安心躺下。",
     "icon": "dorm3dIcon/3Ddrom_yuanchou_CommonFurniture1",
     "id": 2201,

@@ -1339,6 +1339,30 @@
         1013
       ]
     ],
+    "id": 7990250,
+    "ik_status": [
+      700510
+    ]
+  },
+  {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
     "id": 10100104,
     "ik_status": [
       100410

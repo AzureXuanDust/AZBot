@@ -511088,6 +511088,438 @@
     "hideAuto": true,
     "hideRecord": true,
     "hideSkip": true,
+    "id": "DORM3DTOUCH21029",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle01_fb01",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle01_fb01_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 1.5,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "指挥官……一起来睡觉吧……唔……抱抱……",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture2_tone1/drom3d_nakhimov_ik_furniture2_tone1"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21030",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle01_fb02",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle01_fb02_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 22,
+                "type": "wait"
+              },
+              {
+                "skip": false,
+                "time": 2,
+                "type": "blackscreen"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "咕……有点挤挤的……",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture2_tone4/drom3d_nakhimov_ik_furniture2_tone4"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21031",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle02_fb01",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle02_fb01_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 16.9,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "这个……很好玩……有点移不开视线呢……",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture2_tone5/drom3d_nakhimov_ik_furniture2_tone5"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21032",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle02_fb02",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle02_fb02_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 1.5,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "嗯……就是现在……嘿——",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture2_tone6/drom3d_nakhimov_ik_furniture2_tone6"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21033",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle02_fb03",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle02_fb03_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 1.5,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "唔……有点够不到……要坐起来……不对，要站起来！",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture2_tone7/drom3d_nakhimov_ik_furniture2_tone7"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21034",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle02_fb01",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle02_fb01_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 2,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "唔喵……呼噜……呼噜……",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture3_tone3/drom3d_nakhimov_ik_furniture3_tone3"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
+    "id": "DORM3DTOUCH21035",
+    "mode": 2,
+    "placeholder": [
+      "dorm3d"
+    ],
+    "scripts": [
+      {
+        "actorName": 79902,
+        "dir": 1,
+        "dispatcher": {
+          "callbackData": {
+            "hideUI": false,
+            "name": "STORY_EVENT.TEST_DONE"
+          },
+          "data": {
+            "op_list": [
+              {
+                "name": "IK_bed02_idle02_fb03",
+                "param": "Play",
+                "skip": true,
+                "time": 0,
+                "type": "action"
+              },
+              {
+                "id": 3006,
+                "name": "IK_bed02_idle02_fb03_MW",
+                "type": "item_action"
+              },
+              {
+                "name": "Face_amazed_start",
+                "skip": true,
+                "type": "action"
+              },
+              {
+                "skip": false,
+                "time": 1.5,
+                "type": "wait"
+              }
+            ]
+          },
+          "name": "STORY_EVENT.TEST"
+        },
+        "hidePaintObj": true,
+        "nameColor": "#FFFFFF",
+        "say": "唔喵……！指挥官……好喜欢……嘿嘿……",
+        "side": 2,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "voice": "event:/dorm/drom3d_nakhimov_ik_furniture3_tone8/drom3d_nakhimov_ik_furniture3_tone8"
+      }
+    ]
+  },
+  {
+    "alpha": 0,
+    "dialogbox": 2,
+    "fadeOut": 1.5,
+    "hideAuto": true,
+    "hideRecord": true,
+    "hideSkip": true,
     "id": "DORM3DTOUCH22001",
     "mode": 2,
     "placeholder": [

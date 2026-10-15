@@ -413,5 +413,14 @@
     "param": [
       "act boss battle"
     ]
+  },
+  {
+    "id": 50,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "WindFogCorridorCoreActivityUI"
+      }
+    ]
   }
 ]
