@@ -59708,7 +59708,9 @@
       "daily_task": 27815,
       "once_task": 27816,
       "ptActId": 51203,
-      "show_task": [
+      "subType": 1,
+      "sub_act_id": 51203,
+      "unlock_task": [
         [
           27801,
           27802
@@ -59737,8 +59739,7 @@
           27813,
           27814
         ]
-      ],
-      "sub_act_id": 51203
+      ]
     },
     "config_data": [
       [

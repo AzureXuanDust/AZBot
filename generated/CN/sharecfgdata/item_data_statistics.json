@@ -136482,7 +136482,28 @@
     "compose_number": 0,
     "display": "用于补发2026年9月大型作战委托作战部分奖励异常所涉及的奖励。开启后可随机获得特别兑换凭证、海域坐标记录仪或塞壬坐标记录仪。 ",
     "display_effect": "",
-    "display_icon": [],
+    "display_icon": [
+      [
+        12,
+        101,
+        10
+      ],
+      [
+        12,
+        2100001,
+        1
+      ],
+      [
+        12,
+        2100002,
+        1
+      ],
+      [
+        12,
+        2100003,
+        1
+      ]
+    ],
     "icon": "Props/giftbox",
     "id": 99985,
     "index": [],
@@ -136491,7 +136512,7 @@
     "link_id": 0,
     "max_num": 10000,
     "name": "作战奖励补给箱",
-    "open_directly": 0,
+    "open_directly": 1,
     "order": 0,
     "other_item_cost": "[]",
     "other_resource_cost": "[]",
