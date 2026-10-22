@@ -29052,6 +29052,755 @@
     ],
     "id": 143
   },
+  "theme_144": {
+    "furnitures_1": [
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344110,
+        "parent": 0,
+        "shipId": 1,
+        "x": 15,
+        "y": 20
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344112,
+        "parent": 0,
+        "shipId": 1,
+        "x": 22,
+        "y": 12
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344302,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344001,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344002,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 19,
+        "y": 14
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 12,
+        "y": 23
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 16,
+        "y": 14
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344303,
+        "parent": 0,
+        "shipId": 1,
+        "x": 14,
+        "y": 24
+      }
+    ],
+    "furnitures_2": [
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344001,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344110,
+        "parent": 0,
+        "shipId": 1,
+        "x": 11,
+        "y": 20
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344115,
+        "parent": 0,
+        "shipId": 1,
+        "x": 22,
+        "y": 8
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344107,
+        "parent": 0,
+        "shipId": 1,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344112,
+        "parent": 0,
+        "shipId": 1,
+        "x": 18,
+        "y": 16
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344002,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 12,
+        "y": 14
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344302,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344101,
+        "parent": 0,
+        "shipId": 1,
+        "x": 22,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344304,
+        "parent": 0,
+        "shipId": 1,
+        "x": 8,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 8,
+        "y": 23
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344103,
+        "parent": 0,
+        "shipId": 1,
+        "x": 20,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 16,
+        "y": 14
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344303,
+        "parent": 0,
+        "shipId": 1,
+        "x": 11,
+        "y": 24
+      }
+    ],
+    "furnitures_3": [
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344303,
+        "parent": 0,
+        "shipId": 1,
+        "x": 9,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344115,
+        "parent": 0,
+        "shipId": 1,
+        "x": 18,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344001,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344101,
+        "parent": 0,
+        "shipId": 1,
+        "x": 22,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344106,
+        "parent": 0,
+        "shipId": 1,
+        "x": 9,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344002,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 11,
+        "y": 13
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344107,
+        "parent": 0,
+        "shipId": 1,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344102,
+        "parent": 0,
+        "shipId": 1,
+        "x": 23,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344305,
+        "parent": 0,
+        "shipId": 1,
+        "x": 5,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344112,
+        "parent": 0,
+        "shipId": 1,
+        "x": 18,
+        "y": 16
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 10,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344302,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 4,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344306,
+        "parent": 0,
+        "shipId": 1,
+        "x": 19,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344117,
+        "parent": 0,
+        "shipId": 1,
+        "x": 4,
+        "y": 15
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344106,
+        "parent": 0,
+        "shipId": 1,
+        "x": 4,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344103,
+        "parent": 0,
+        "shipId": 1,
+        "x": 20,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344108,
+        "parent": 0,
+        "shipId": 1,
+        "x": 6,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 15,
+        "y": 13
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344110,
+        "parent": 0,
+        "shipId": 1,
+        "x": 9,
+        "y": 20
+      }
+    ],
+    "furnitures_4": [
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344110,
+        "parent": 0,
+        "shipId": 1,
+        "x": 9,
+        "y": 20
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344001,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344109,
+        "parent": 0,
+        "shipId": 1,
+        "x": 12,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344101,
+        "parent": 0,
+        "shipId": 1,
+        "x": 22,
+        "y": 18
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344111,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 19
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344002,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344102,
+        "parent": 0,
+        "shipId": 1,
+        "x": 23,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344112,
+        "parent": 0,
+        "shipId": 1,
+        "x": 18,
+        "y": 16
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344302,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 7
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344103,
+        "parent": 0,
+        "shipId": 1,
+        "x": 20,
+        "y": 7
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 5,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 15,
+        "y": 13
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344303,
+        "parent": 0,
+        "shipId": 1,
+        "x": 7,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344115,
+        "parent": 0,
+        "shipId": 1,
+        "x": 18,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344104,
+        "parent": 0,
+        "shipId": 1,
+        "x": 17,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344114,
+        "parent": 0,
+        "shipId": 1,
+        "x": 1,
+        "y": 0
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344304,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 19
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344116,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344105,
+        "parent": 0,
+        "shipId": 1,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344106,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344305,
+        "parent": 0,
+        "shipId": 1,
+        "x": 1,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344106,
+        "parent": 0,
+        "shipId": 1,
+        "x": 8,
+        "y": 11
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 17,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 5
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344117,
+        "parent": 0,
+        "shipId": 1,
+        "x": 0,
+        "y": 15
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 22
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344107,
+        "parent": 0,
+        "shipId": 1,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "child": [],
+        "dir": 2,
+        "id": 344301,
+        "parent": 0,
+        "shipId": 1,
+        "x": 24,
+        "y": 17
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 1,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344118,
+        "parent": 0,
+        "shipId": 1,
+        "x": 8,
+        "y": 10
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344108,
+        "parent": 0,
+        "shipId": 1,
+        "x": 6,
+        "y": 4
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344306,
+        "parent": 0,
+        "shipId": 1,
+        "x": 19,
+        "y": 24
+      },
+      {
+        "child": [],
+        "dir": 1,
+        "id": 344113,
+        "parent": 0,
+        "shipId": 1,
+        "x": 11,
+        "y": 13
+      }
+    ],
+    "id": 144
+  },
   "theme_15": {
     "furnitures_1": [
       {

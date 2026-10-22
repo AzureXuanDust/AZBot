@@ -343,7 +343,7 @@
     "tip": "道具数量不足，完成活动任务可获取「拓荒的回忆」"
   },
   "activity_1024_memory": {
-    "tip": "道具数量不足，完成活动任务可获取「鬼怪故事页」"
+    "tip": "道具数量不足，完成活动任务可获取「假日故事页」"
   },
   "activity_1024_memory_get": {
     "tip": " - 已领取 -"
@@ -14149,6 +14149,9 @@
       }
     ]
   },
+  "HurricaneTreasureCoreActivityUI_subtitle_1": {
+    "tip": "飓风的藏宝地"
+  },
   "icecream_help": {
     "tip": [
       {
@@ -22355,7 +22358,13 @@
   "outpost_20250904_Sidebar4": {
     "tip": "作战准备"
   },
+  "Outpost_20250904_Sidebar4": {
+    "tip": "作战准备"
+  },
   "outpost_20250904_Sidebar5": {
+    "tip": "重樱的邀约 "
+  },
+  "Outpost_20250904_Sidebar5": {
     "tip": "重樱的邀约 "
   },
   "outpost_20250904_Sidebar6": {
@@ -28486,6 +28495,9 @@
   },
   "win_condition_display_tuoli_tip": {
     "tip": "成功到达脱离点，关卡攻略完成"
+  },
+  "windfog_skin_stroy_finish": {
+    "tip": "完成所有故事可获得"
   },
   "winter__battlepass_rewards": {
     "tip": "奖励"

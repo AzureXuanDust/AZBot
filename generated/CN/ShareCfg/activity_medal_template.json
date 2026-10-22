@@ -2254,5 +2254,101 @@
     "prefab_node": "7",
     "remake_task_id": 0,
     "task_id": 25736
+  },
+  {
+    "activity_medal_desc": "「不要从星空的倒影中，寻找往昔的答案」",
+    "activity_medal_name": "纪念贴：雾海观星台",
+    "group": 51611,
+    "id": 5161101,
+    "item": 66114,
+    "medal_asset": "ActivityMedal/5161101",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 25739
+  },
+  {
+    "activity_medal_desc": "点亮航标，向着观星台前进吧！",
+    "activity_medal_name": "纪念贴：星轨航标",
+    "group": 51611,
+    "id": 5161102,
+    "item": 66115,
+    "medal_asset": "ActivityMedal/5161102",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 25740
+  },
+  {
+    "activity_medal_desc": "你看到了吗，那条隐藏在群星间的闪烁航路",
+    "activity_medal_name": "纪念贴：接引之杖",
+    "group": 51611,
+    "id": 5161103,
+    "item": 66116,
+    "medal_asset": "ActivityMedal/5161103",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 25741
+  },
+  {
+    "activity_medal_desc": "占卜用的水晶球……也有年度限定款么？",
+    "activity_medal_name": "纪念贴：限定款水晶球",
+    "group": 51611,
+    "id": 5161104,
+    "item": 66117,
+    "medal_asset": "ActivityMedal/5161104",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 25742
+  },
+  {
+    "activity_medal_desc": "嘶——嘶嘶嘶——嘶嘶——",
+    "activity_medal_name": "纪念贴：长蛇海怪",
+    "group": 51611,
+    "id": 5161105,
+    "item": 66118,
+    "medal_asset": "ActivityMedal/5161105",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 25743
+  },
+  {
+    "activity_medal_desc": "有什么话，和这柄镰刀去说吧！",
+    "activity_medal_name": "纪念贴：巨镰",
+    "group": 51611,
+    "id": 5161106,
+    "item": 66119,
+    "medal_asset": "ActivityMedal/5161106",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 25744
+  },
+  {
+    "activity_medal_desc": "断枪重铸之日——",
+    "activity_medal_name": "纪念贴：断枪",
+    "group": 51611,
+    "id": 5161107,
+    "item": 66120,
+    "medal_asset": "ActivityMedal/5161107",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 25745
+  },
+  {
+    "activity_medal_desc": "「天球已然倒转，星轨悄然变换」",
+    "activity_medal_name": "纪念贴：星空倒转",
+    "group": 51611,
+    "id": 5161108,
+    "item": 66121,
+    "medal_asset": "ActivityMedal/5161108",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 25746
   }
 ]

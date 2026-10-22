@@ -1841,6 +1841,13 @@
     "material_num": 25
   },
   {
+    "equip_id": 151280,
+    "gold_num": 120,
+    "id": 11060,
+    "material_id": 11060,
+    "material_num": 10
+  },
+  {
     "equip_id": 2640,
     "gold_num": 1500,
     "id": 12000,

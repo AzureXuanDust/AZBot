@@ -422,5 +422,14 @@
         "coreName": "WindFogCorridorCoreActivityUI"
       }
     ]
+  },
+  {
+    "id": 51,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "WindFogCorridorCoreActivityUI"
+      }
+    ]
   }
 ]

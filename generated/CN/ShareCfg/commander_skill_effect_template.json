@@ -2052,6 +2052,107 @@
   },
   {
     "args": [
+      40610
+    ],
+    "condition": [],
+    "effect_type": "battle_buff",
+    "id": 9600811,
+    "name": "迅捷与勇气"
+  },
+  {
+    "args": [
+      40620
+    ],
+    "condition": [],
+    "effect_type": "battle_buff",
+    "id": 9600812,
+    "name": "迅捷与勇气"
+  },
+  {
+    "args": [
+      40630
+    ],
+    "condition": [
+      [
+        "vang_count",
+        1,
+        1
+      ]
+    ],
+    "effect_type": "battle_buff",
+    "id": 9600813,
+    "name": "迅捷与勇气"
+  },
+  {
+    "args": [
+      40630
+    ],
+    "condition": [
+      [
+        "count",
+        [
+          22,
+          23,
+          24
+        ],
+        1,
+        6
+      ]
+    ],
+    "effect_type": "battle_buff",
+    "id": 9600814,
+    "name": "迅捷与勇气"
+  },
+  {
+    "args": [
+      40640
+    ],
+    "condition": [
+      [
+        "count",
+        [
+          22,
+          23,
+          24
+        ],
+        1,
+        6
+      ]
+    ],
+    "effect_type": "battle_buff",
+    "id": 9600911,
+    "name": "聆听预言"
+  },
+  {
+    "args": [
+      40650
+    ],
+    "condition": [
+      [
+        "pos",
+        1
+      ]
+    ],
+    "effect_type": "battle_buff",
+    "id": 9600912,
+    "name": "聆听预言"
+  },
+  {
+    "args": [
+      40660
+    ],
+    "condition": [
+      [
+        "pos",
+        1
+      ]
+    ],
+    "effect_type": "battle_buff",
+    "id": 9600913,
+    "name": "聆听预言"
+  },
+  {
+    "args": [
       40440
     ],
     "condition": [

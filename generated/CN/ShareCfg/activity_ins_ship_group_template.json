@@ -883,6 +883,15 @@
   },
   {
     "background": "",
+    "name": "New Orleans",
+    "nationality": 1,
+    "sculpture": "xinaoerliang",
+    "sculpture_ii": "",
+    "ship_group": 10312,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Minnie.Hunter",
     "nationality": 0,
     "sculpture": "mingniabolisi",
@@ -1459,11 +1468,29 @@
   },
   {
     "background": "",
+    "name": "Crescent",
+    "nationality": 2,
+    "sculpture": "xinyue",
+    "sculpture_ii": "",
+    "ship_group": 20109,
+    "type": 1
+  },
+  {
+    "background": "",
     "name": "Cygnet",
     "nationality": 0,
     "sculpture": "xiaotiane",
     "sculpture_ii": "",
     "ship_group": 20110,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Foxhound",
+    "nationality": 2,
+    "sculpture": "huti",
+    "sculpture_ii": "",
+    "ship_group": 20111,
     "type": 1
   },
   {
@@ -5816,7 +5843,7 @@
   {
     "background": "",
     "name": "Royal Fortune",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "huangjiacaifu",
     "sculpture_ii": "",
     "ship_group": 960001,
@@ -5825,7 +5852,7 @@
   {
     "background": "",
     "name": "São Martinho",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "shengmading",
     "sculpture_ii": "",
     "ship_group": 960002,
@@ -5843,7 +5870,7 @@
   {
     "background": "",
     "name": "Mary Celeste",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "mali",
     "sculpture_ii": "",
     "ship_group": 960004,
@@ -5861,7 +5888,7 @@
   {
     "background": "",
     "name": "Adventure Galley",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "jialimaoxian",
     "sculpture_ii": "",
     "ship_group": 960006,
@@ -5955,6 +5982,51 @@
     "sculpture": "maoxianhao",
     "sculpture_ii": "",
     "ship_group": 960016,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Mercury",
+    "nationality": 10,
+    "sculpture": "shuixinghao",
+    "sculpture_ii": "",
+    "ship_group": 960017,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Jernbarden",
+    "nationality": 10,
+    "sculpture": "tiejiaohao",
+    "sculpture_ii": "",
+    "ship_group": 960018,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Selimiye",
+    "nationality": 10,
+    "sculpture": "sailimiye",
+    "sculpture_ii": "",
+    "ship_group": 960019,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Ormen Lange",
+    "nationality": 10,
+    "sculpture": "changshehao",
+    "sculpture_ii": "",
+    "ship_group": 960020,
+    "type": 1
+  },
+  {
+    "background": "",
+    "name": "Real bey",
+    "nationality": 10,
+    "sculpture": "leiyierbei",
+    "sculpture_ii": "",
+    "ship_group": 960021,
     "type": 1
   },
   {

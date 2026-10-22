@@ -4064,6 +4064,61 @@
     "t_level_1": 11
   },
   {
+    "id": 960017,
+    "name": "水星号",
+    "nation": 96,
+    "ships": [
+      960017
+    ],
+    "shiptype": 23,
+    "t_level": 2,
+    "t_level_1": 1
+  },
+  {
+    "id": 960018,
+    "name": "铁角号",
+    "nation": 96,
+    "ships": [
+      960018
+    ],
+    "shiptype": 22,
+    "t_level": 2,
+    "t_level_1": 1
+  },
+  {
+    "id": 960019,
+    "name": "塞利米耶号 ",
+    "nation": 96,
+    "ships": [
+      960019
+    ],
+    "shiptype": 24,
+    "t_level": 2,
+    "t_level_1": 1
+  },
+  {
+    "id": 960020,
+    "name": "长蛇号",
+    "nation": 96,
+    "ships": [
+      960020
+    ],
+    "shiptype": 23,
+    "t_level": 1,
+    "t_level_1": 16
+  },
+  {
+    "id": 960021,
+    "name": "雷伊尔·贝号",
+    "nation": 96,
+    "ships": [
+      960021
+    ],
+    "shiptype": 24,
+    "t_level": 2,
+    "t_level_1": 1
+  },
+  {
     "id": 970101,
     "name": "猎人·META",
     "nation": 97,

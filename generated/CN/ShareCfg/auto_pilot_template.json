@@ -11871,6 +11871,27 @@
   },
   {
     "default": 1,
+    "id": 70307,
+    "list": [
+      {
+        "index": 1,
+        "param": {
+          "X1": -15,
+          "X2": 15,
+          "Z1": 15,
+          "Z2": -15,
+          "duration": -1,
+          "moveCount": 150,
+          "stopCount": 0
+        },
+        "to": 1,
+        "type": 5
+      }
+    ],
+    "name": "原地范围随机移动"
+  },
+  {
+    "default": 1,
     "id": 75001,
     "list": [
       {
