@@ -1160,6 +1160,9 @@
   "WIND_FOG_SKIN_PAGE": {
     "act_id": 51605
   },
+  "WindFogCorridor_SkinStory_MainPage": {
+    "act_id": 51605
+  },
   "WINTER_RE_PREVIEW_ID": {
     "act_id": 224
   },
