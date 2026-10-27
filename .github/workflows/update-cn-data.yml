@@ -1,6 +1,8 @@
 name: Update CN data
 
 on:
+  push:
+    paths: ['CN/server/**']
   workflow_dispatch:
     inputs:
       force:
@@ -47,87 +49,54 @@ jobs:
             versions
           sparse-checkout-cone-mode: true
 
-      - name: Check upstream revision
-        id: upstream
-        run: |
-          current_commit="$(git -C "${GITHUB_WORKSPACE}/AzurLaneLuaScripts" rev-parse HEAD)"
-          previous_commit=""
-          if [ -f "${GITHUB_WORKSPACE}/generated/source.json" ]; then
-            previous_commit="$(sed -n 's/.*"commit": "\([^"]*\)".*/\1/p' "${GITHUB_WORKSPACE}/generated/source.json" | head -n 1)"
-          fi
-
-          echo "current_commit=${current_commit}" >> "${GITHUB_OUTPUT}"
-          echo "previous_commit=${previous_commit}" >> "${GITHUB_OUTPUT}"
-
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
-            echo "should_generate=true" >> "${GITHUB_OUTPUT}"
-            echo "Force regeneration requested."
-          elif [ -n "${previous_commit}" ] && [ "${current_commit}" = "${previous_commit}" ]; then
-            echo "should_generate=false" >> "${GITHUB_OUTPUT}"
-            echo "AzurLaneLuaScripts unchanged: ${current_commit}"
-          else
-            echo "should_generate=true" >> "${GITHUB_OUTPUT}"
-            echo "AzurLaneLuaScripts changed: ${previous_commit:-<none>} -> ${current_commit}"
-          fi
-
-      - name: Set up Node.js
-        if: steps.upstream.outputs.should_generate == 'true'
-        uses: actions/setup-node@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '24'
+          python-version: '3.13'
+
+      - name: Install exporter
+        run: python -m pip install -r requirements.txt
+
+      - name: Test exporter
+        run: python -m unittest discover -s tests
 
       - name: Generate CN data
-        if: steps.upstream.outputs.should_generate == 'true'
+        id: upstream
         run: |
-          node "azurlua2json-node/cli.mjs" \
-            --server CN \
+          python tools/generate_cn.py \
             --lua-root "${GITHUB_WORKSPACE}/AzurLaneLuaScripts" \
-            --template-root "${GITHUB_WORKSPACE}/data" \
-            --out "${GITHUB_WORKSPACE}/generated" \
-            --force \
-            --include-new \
-            --compare
-          rm -f "${GITHUB_WORKSPACE}/generated/change_report.txt"
-          cat > "${GITHUB_WORKSPACE}/generated/source.json" <<EOF
-          {
-            "AzurLaneLuaScripts": {
-              "repository": "AzurLaneTools/AzurLaneLuaScripts",
-              "server": "CN",
-              "commit": "${{ steps.upstream.outputs.current_commit }}"
-            }
-          }
-          EOF
+            --out "${GITHUB_WORKSPACE}" \
+            --force
+          echo "current_commit=$(git -C AzurLaneLuaScripts rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Show changes
-        if: steps.upstream.outputs.should_generate == 'true'
-        run: git status --short -- generated
+        run: git status --short -- CN source.json
 
       - name: Commit updated CN data
         id: commit_generated
-        if: steps.upstream.outputs.should_generate == 'true'
         env:
-          FORCE: ${{ inputs.force }}
+          FORCE: ${{ inputs.force || github.event_name == 'push' }}
         run: |
           # 数据文件（source.json 以外）有变化才触发常规发布；
-          # 强制运行（force=true）则无论 git 有无 diff 都发布，重新打包现有数据。
+          # 手写数据的 push 或 force=true 直接发布，内容以当前 CN 目录为准。
           # '^##' 过滤掉 git status --short 总会打印的分支头。
-          data_changes="$(git status --short -- generated | grep -v '^##' | grep -v 'generated/source.json$' || true)"
-          pointer_changed="$(git status --short -- generated/source.json | grep -v '^##' || true)"
+          data_changes="$(git status --short -- CN | grep -v '^##' || true)"
+          pointer_changed="$(git status --short -- source.json | grep -v '^##' || true)"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if [ -n "${data_changes}" ]; then
-            git add -A generated
-            git commit -m "Update generated CN data"
+            git add -A CN source.json
+            git commit -m "chore(data): update generated CN data"
             git push
             echo "has_changes=true" >> "${GITHUB_OUTPUT}"
           elif [ "${FORCE}" = "true" ]; then
-            echo "无数据变化，但触发了强制运行：重新发布现有数据。"
+            echo "手写数据更新或强制运行：发布当前 CN 数据。"
             # 上游指针有变则一并提交，保持变更检测准确
             if [ -n "${pointer_changed}" ]; then
-              git add -A generated
-              git commit -m "Track upstream revision (forced republish)"
+              git add -A CN source.json
+              git commit -m "chore(data): track upstream revision for republish"
               git push
             fi
             echo "has_changes=true" >> "${GITHUB_OUTPUT}"
@@ -136,8 +105,8 @@ jobs:
             echo "has_changes=false" >> "${GITHUB_OUTPUT}"
             # 仅上游指针变化：提交指针但不发布空版本
             if [ -n "${pointer_changed}" ]; then
-              git add -A generated
-              git commit -m "Track upstream revision (no data changes)"
+              git add -A CN source.json
+              git commit -m "chore(data): track upstream revision"
               git push
             fi
           fi
@@ -161,10 +130,8 @@ jobs:
       - name: Package release zip
         if: steps.commit_generated.outputs.has_changes == 'true'
         run: |
-          rm -rf release
-          mkdir -p release
-          rsync -a --delete --exclude='source.json' "generated/" "release/Resources/"
-          (cd release && zip -r "Resources-${VERSION}.zip" Resources)
+          python tools/generate_cn.py --out . --package-only \
+            --zip "release/Resources-${VERSION}.zip"
 
       - name: Publish release
         if: steps.commit_generated.outputs.has_changes == 'true'

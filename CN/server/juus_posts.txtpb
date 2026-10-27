@@ -1,0 +1,467 @@
+# Current CN automatic post queue: verified CN content or explicit placeholders.
+# User policy (2026-10-26): no EN translations or invented story content.
+# Only posts 20001/20002 have verified bodies, images and NPC trees.
+# Other entries retain CN IDs/times, with a visible placeholder and no invented media/comments.
+# See juus_posts.sources.md. Like/read values start at zero as local state.
+
+# verified-cn
+ins_message_list: {
+  id: 20001
+  time: 1774501200
+  text: "欢迎你关注啾啾热点频道！\\n这里将为你追踪港区时事热点，带来最新鲜、最有趣的新闻报道和日常杂谈，当然也接受匿名投稿~\\n啾频道将与你一起，开启这段全新的旅程！"
+  picture: "https://line3-patch-blhx.bilibiligame.net/pic/260326_OA4bigldklYOjgVP5SyeJa.png"
+  npc_discuss: {
+    id: 100001
+    time: 1774501337
+    text: "新功能啾频道上线~"
+    npc_reply: 100002
+    npc_reply: 100003
+  }
+  npc_discuss: {
+    id: 100004
+    time: 1774502057
+    text: "希望指挥官也会喜欢我们努力开发出的新功能……"
+    npc_reply: 100005
+  }
+  npc_discuss: {
+    id: 100006
+    time: 1774502357
+    text: "撒花——撒花——听说了吗？最新鲜有趣的要来啦~！"
+  }
+  npc_discuss: {
+    id: 100007
+    time: 1774502477
+    text: "哦哦——不错，发现新大陆了~"
+  }
+  npc_discuss: {
+    id: 100008
+    time: 1774502597
+    text: "功能竟然更新了？！"
+  }
+  npc_discuss: {
+    id: 100009
+    time: 1774502777
+    text: "报告！我想实名制投稿！"
+  }
+  npc_discuss: {
+    id: 100010
+    time: 1774502957
+    text: "动静这么大，这份雄心壮志还不错哦"
+  }
+  npc_discuss: {
+    id: 100011
+    time: 1774503077
+    text: "新频道啊……"
+    npc_reply: 100012
+  }
+  npc_discuss: {
+    id: 100013
+    time: 1774503377
+    text: "有乐子吗？没有的话本小姐就取关了~"
+  }
+  npc_discuss: {
+    id: 100014
+    time: 1774503617
+    text: "可以知道更多事情了吗？好期待！"
+  }
+  npc_discuss: {
+    id: 100015
+    time: 1774503797
+    text: "抚顺的手机刚被鞍山姐没收了，飞云大人继续帮她报名投稿~"
+  }
+  npc_discuss: {
+    id: 100016
+    time: 1774503917
+    text: "期待更新~"
+    npc_reply: 100017
+  }
+  npc_discuss: {
+    id: 100018
+    time: 1774504337
+    text: "打个广告！4人竞技游戏3等1，速来！"
+  }
+  npc_discuss: {
+    id: 100019
+    time: 1774504457
+    text: "话说大家吃了吗？早上吃了什么？中午吃了什么？晚上吃了什么？"
+  }
+  npc_discuss: {
+    id: 100020
+    time: 1774504697
+    text: "真的什么的都可以发嘛？！那我要发藏宝图！号召大家一起来找失落的宝藏！"
+    npc_reply: 100021
+  }
+  npc_reply: {
+    id: 100002
+    time: 1774501577
+    text: "项目完成！开始庆祝！"
+  }
+  npc_reply: {
+    id: 100003
+    time: 1774501817
+    text: "辛苦了！功能很健康，负责新功能的大家要好好休息，保持健康哦！"
+  }
+  npc_reply: {
+    id: 100005
+    time: 1774502237
+    text: "辛苦啦！接下来，沉闷~一扫而空，新闻要来了~"
+  }
+  npc_reply: {
+    id: 100012
+    time: 1774503197
+    text: "……等等，我什么时候关注的？为什么没法取消关注？"
+  }
+  npc_reply: {
+    id: 100017
+    time: 1774504157
+    text: "港区新闻同步更新了哦！欢迎大家提出看法和建议！"
+  }
+  npc_reply: {
+    id: 100021
+    time: 1774504817
+    text: "说得好！藏宝图可以先发我一下吗，我替大家探探虚实~"
+  }
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: "https://line3-patch-blhx.bilibiligame.net/pic/260326_OA4small8EQug8e3sX1bYtqN.png"
+}
+
+# verified-cn
+ins_message_list: {
+  id: 20002
+  time: 1774501500
+  text: "喜讯！近日，萨拉托加电影制片厂正式宣布，将启动影视游戏化的创新尝试！\\n据悉，这一技术革新将打破传统影视制作边界，探索互动式叙事与沉浸式体验的崭新可能。\\n制片人萨拉托加在接受采访时表示：“是的，我们做到了！”\\n她强调，此次革新不仅是对制作技术的升级，更是对内容呈现方式的全新定义。"
+  picture: "https://line3-patch-blhx.bilibiligame.net/pic/260326_OA2bigMMwdfawHI7buhdmj.png"
+  npc_discuss: {
+    id: 100034
+    time: 1774501697
+    text: "听起来很厉害呢！"
+  }
+  npc_discuss: {
+    id: 100035
+    time: 1774501817
+    text: "既然能增加互动式体验，那或许可以尝试加入更多战术推演元素？"
+    npc_reply: 100036
+  }
+  npc_discuss: {
+    id: 100037
+    time: 1774502237
+    text: "但这不就是互动影视游戏？"
+  }
+  npc_discuss: {
+    id: 100038
+    time: 1774502417
+    text: "但这不就是互动影视游戏？"
+  }
+  npc_discuss: {
+    id: 100039
+    time: 1774502597
+    text: "但这不就是互动影视游戏？"
+  }
+  npc_discuss: {
+    id: 100040
+    time: 1774502837
+    text: "《完蛋！我被十几年前的技术包围了！》"
+    npc_reply: 100041
+  }
+  npc_discuss: {
+    id: 100042
+    time: 1774503257
+    text: "拿出干劲来啊小加加！这样下去会被看扁的哦！"
+    npc_reply: 100043
+  }
+  npc_discuss: {
+    id: 100044
+    time: 1774503557
+    text: "先放个广告位招租……"
+    npc_reply: 100045
+  }
+  npc_discuss: {
+    id: 100046
+    time: 1774503917
+    text: "互动？可以和指挥官大人亲密接触的那种互动吗？那种事情……{namecode:97}已经享受到了呢~♡"
+    npc_reply: 100047
+    npc_reply: 100048
+    npc_reply: 100049
+    npc_reply: 100050
+    npc_reply: 100051
+  }
+  npc_reply: {
+    id: 100036
+    time: 1774502057
+    text: "不错的想法"
+  }
+  npc_reply: {
+    id: 100041
+    time: 1774503017
+    text: "也是一种“文艺复兴”吧……"
+  }
+  npc_reply: {
+    id: 100043
+    time: 1774503437
+    text: "干嘛啦！！！"
+  }
+  npc_reply: {
+    id: 100045
+    time: 1774503797
+    text: "需要技术支持的话，{namecode:98}可以帮忙喵！当然，收费合理的喵~"
+  }
+  npc_reply: {
+    id: 100047
+    time: 1774504037
+    text: "赞同"
+  }
+  npc_reply: {
+    id: 100048
+    time: 1774504157
+    text: "点头"
+  }
+  npc_reply: {
+    id: 100049
+    time: 1774504337
+    text: "哼……"
+  }
+  npc_reply: {
+    id: 100050
+    time: 1774504457
+    text: "嘿嘿……老师！最好了！"
+  }
+  npc_reply: {
+    id: 100051
+    time: 1774504697
+    text: "是呢~♪"
+  }
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: "https://line3-patch-blhx.bilibiligame.net/pic/260326_OA2smallzjwgEh1GPcCiOpgZ.png"
+}
+
+# placeholder
+ins_message_list: {
+  id: 20003
+  time: 1775714417
+  text: "【占位】动态 20003 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20004
+  time: 1776394817
+  text: "【占位】动态 20004 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20005
+  time: 1778727617
+  text: "【占位】动态 20005 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20006
+  time: 1779948017
+  text: "【占位】动态 20006 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20007
+  time: 1781248620
+  text: "【占位】动态 20007 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20008
+  time: 1782374400
+  text: "【占位】动态 20008 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20009
+  time: 1783566000
+  text: "【占位】动态 20009 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20010
+  time: 1784783700
+  text: "【占位】动态 20010 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20011
+  time: 1785985200
+  text: "【占位】动态 20011 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20012
+  time: 1786604400
+  text: "【占位】动态 20012 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20013
+  time: 1788501600
+  text: "【占位】动态 20013 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20014
+  time: 1789624800
+  text: "【占位】动态 20014 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20015
+  time: 1791439200
+  text: "【占位】动态 20015 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 675
+  time: 1792637700
+  text: "【占位】动态 675 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 20016
+  time: 1792648800
+  text: "【占位】动态 20016 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 674
+  time: 1792656000
+  text: "【占位】动态 674 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 676
+  time: 1792740600
+  text: "【占位】动态 676 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 677
+  time: 1792817400
+  text: "【占位】动态 677 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
+
+# placeholder
+ins_message_list: {
+  id: 678
+  time: 1792928160
+  text: "【占位】动态 678 的国服内容尚未核实。"
+  picture: ""
+  good: 0
+  is_good: 0
+  is_read: 0
+  oalist_pic: ""
+}
