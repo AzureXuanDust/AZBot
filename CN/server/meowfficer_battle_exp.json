@@ -1,0 +1,83 @@
+{
+  "_source": [
+    "https://wiki.biligame.com/blhx/index.php?title=公式合集&oldid=395828",
+    "https://wiki.biligame.com/blhx/index.php?title=指挥喵&oldid=419171"
+  ],
+  "_checked": "2026-10-26",
+  "_scope": "Published normal chapters 1-14 and hard chapters 1-12 only. Unsupported map/ship/rarity combinations receive no inferred partial EXP. Super cruisers use the heavy-cruiser term in the BWIKI fleet example. Operation Siren has a separate published corrosion-level rule and is outside this campaign table.",
+  "known_only": true,
+  "map_limits": {
+    "1": 14,
+    "2": 12
+  },
+  "ship_types": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5,
+    "6": 2,
+    "7": 3,
+    "8": 1,
+    "12": 1,
+    "13": 1,
+    "18": 2
+  },
+  "rarities": {
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 3,
+    "6": 4
+  },
+  "enemy_rates": {
+    "normal": 0.3,
+    "boss": 0.5
+  },
+  "maps": {
+    "1": [
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        11,
+        3
+      ],
+      [
+        12,
+        4
+      ]
+    ],
+    "2": [
+      [
+        1,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        11,
+        4
+      ]
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+name: Update CN data
+
+on:
+  push:
+    paths: ['CN/server/**']
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Force regeneration even when AzurLaneLuaScripts has not changed
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  actions: write
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: update-cn-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Generate CN data
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.commit_generated.outputs.has_changes }}
+      version: ${{ steps.version.outputs.version }}
+
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - name: Checkout AzurLaneLuaScripts
+        uses: actions/checkout@v5
+        with:
+          repository: AzurLaneTools/AzurLaneLuaScripts
+          path: AzurLaneLuaScripts
+          filter: blob:none
+          sparse-checkout: |
+            CN
+            versions
+          sparse-checkout-cone-mode: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install exporter
+        run: python -m pip install -r requirements.txt
+
+      - name: Test exporter
+        run: python -m unittest discover -s tests
+
+      - name: Generate CN data
+        id: upstream
+        run: |
+          python tools/generate_cn.py \
+            --lua-root "${GITHUB_WORKSPACE}/AzurLaneLuaScripts" \
+            --out "${GITHUB_WORKSPACE}" \
+            --force
+          echo "current_commit=$(git -C AzurLaneLuaScripts rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Show changes
+        run: git status --short -- CN source.json
+
+      - name: Commit updated CN data
+        id: commit_generated
+        env:
+          FORCE: ${{ inputs.force || github.event_name == 'push' }}
+        run: |
+          # 数据文件（source.json 以外）有变化才触发常规发布；
+          # 手写数据的 push 或 force=true 直接发布，内容以当前 CN 目录为准。
+          # '^##' 过滤掉 git status --short 总会打印的分支头。
+          data_changes="$(git status --short -- CN | grep -v '^##' || true)"
+          pointer_changed="$(git status --short -- source.json | grep -v '^##' || true)"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "${data_changes}" ]; then
+            git add -A CN source.json
+            git commit -m "chore(data): update generated CN data"
+            git push
+            echo "has_changes=true" >> "${GITHUB_OUTPUT}"
+          elif [ "${FORCE}" = "true" ]; then
+            echo "手写数据更新或强制运行：发布当前 CN 数据。"
+            # 上游指针有变则一并提交，保持变更检测准确
+            if [ -n "${pointer_changed}" ]; then
+              git add -A CN source.json
+              git commit -m "chore(data): track upstream revision for republish"
+              git push
+            fi
+            echo "has_changes=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "No generated data changes."
+            echo "has_changes=false" >> "${GITHUB_OUTPUT}"
+            # 仅上游指针变化：提交指针但不发布空版本
+            if [ -n "${pointer_changed}" ]; then
+              git add -A CN source.json
+              git commit -m "chore(data): track upstream revision"
+              git push
+            fi
+          fi
+
+      - name: Generate version
+        id: version
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        run: |
+          if [ -n "${{ github.ref_name }}" ] && [[ "${{ github.ref_name }}" =~ ^v[0-9] ]]; then
+            VERSION="${{ github.ref_name }}"
+          else
+            DATE_VERSION=$(TZ=Asia/Shanghai date +%Y.%m.%d-%H.%M)
+            SHORT_SHA="${{ github.sha }}"
+            SHORT_SHA="${SHORT_SHA:0:7}"
+            VERSION="v${DATE_VERSION}-${SHORT_SHA}"
+          fi
+          echo "VERSION=${VERSION}" >> "${GITHUB_ENV}"
+          echo "version=${VERSION}" >> "${GITHUB_OUTPUT}"
+          echo "Version: ${VERSION}"
+
+      - name: Package release zip
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        run: |
+          python tools/generate_cn.py --out . --package-only \
+            --zip "release/Resources-${VERSION}.zip"
+
+      - name: Publish release
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 强制重发时同名 tag 可能已存在，先删再建，保证幂等
+          gh release delete "${VERSION}" --repo "${GITHUB_REPOSITORY}" --cleanup-tag --yes 2>/dev/null || true
+          gh release create "${VERSION}" \
+            "release/Resources-${VERSION}.zip#Resources-${VERSION}.zip" \
+            --title "${VERSION}" \
+            --notes "CN data generated from AzurLaneLuaScripts ${{ steps.upstream.outputs.current_commit }}"
+
+      - name: Prune old releases (keep only latest)
+        if: steps.commit_generated.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          # 优雅路线：GitHub 上只保留当前这一个 release/tag，其余全删
+          gh release list --repo "${GITHUB_REPOSITORY}" --limit 200 --json tagName --jq '.[].tagName' \
+            | while read -r tag; do
+                if [ -n "${tag}" ] && [ "${tag}" != "${VERSION}" ]; then
+                  echo "删除旧 release: ${tag}"
+                  gh release delete "${tag}" --repo "${GITHUB_REPOSITORY}" --cleanup-tag --yes
+                fi
+              done
+
+      - name: Keep latest 5 workflow runs
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run list \
+            --repo "${GITHUB_REPOSITORY}" \
+            --workflow "update-cn-data.yml" \
+            --limit 100 \
+            --json databaseId,status,createdAt \
+            --jq 'sort_by(.createdAt) | reverse | .[5:][] | select(.status == "completed") | .databaseId' \
+            | while read -r run_id; do
+                if [ -n "${run_id}" ]; then
+                  gh run delete "${run_id}" --repo "${GITHUB_REPOSITORY}"
+                fi
+              done
+
+  upload-to-lanzou:
+    name: Upload to LanZouCloud
+    needs: update
+    if: needs.update.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download release package
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ needs.update.outputs.version }}
+        run: |
+          mkdir -p release-packages
+          gh release download "${RELEASE_TAG}" --pattern "Resources-*.zip" --dir release-packages
+          if [ ! "$(ls -A release-packages)" ]; then
+            exit 1
+          fi
+
+      - name: Checkout LanZouCloud API repository
+        uses: actions/checkout@v5
+        with:
+          repository: AzureXuanVerse/LanZouCloud-API
+          token: ${{ secrets.GH_PAT }}
+          path: lanzou-api-repo
+
+      - name: Install LanZouCloud API dependencies
+        run: |
+          pip install --quiet --upgrade pip
+          pip install --quiet requests requests_toolbelt aiohttp asyncio
+          SITE_PACKAGES=$(python -c "import site; print(site.getsitepackages()[0])")
+          cp -r lanzou-api-repo/lanzou_windfollowingheart "$SITE_PACKAGES/"
+          python -c "from lanzou_windfollowingheart.api import LanZouCloud"
+
+      - name: Prepare upload script
+        run: |
+          if [ ! -f "lanzou-api-repo/lanzou_upload_workflow.py" ]; then
+            exit 1
+          fi
+          cp lanzou-api-repo/lanzou_upload_workflow.py .
+
+      - name: Upload to LanZouCloud
+        env:
+          LANZOU_YLOGIN: ${{ secrets.LANZOU_YLOGIN }}
+          LANZOU_PHPDISK_INFO: ${{ secrets.LANZOU_PHPDISK_INFO }}
+          PROJECT_NAME: "Belfast"
+        run: python lanzou_upload_workflow.py
+
+  upload-to-r2:
+    name: Upload to Cloudflare R2
+    needs: update
+    if: needs.update.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    env:
+      R2_BUCKET: tianjg-update
+      R2_PREFIX: Azurl
+      R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
+      # 新版 aws-cli v2 默认给上传加 CRC 校验，R2 会拒；只在服务端要求时才算
+      AWS_REQUEST_CHECKSUM_CALCULATION: WHEN_REQUIRED
+      AWS_RESPONSE_CHECKSUM_VALIDATION: WHEN_REQUIRED
+
+    steps:
+      - name: Download release package
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ needs.update.outputs.version }}
+        run: |
+          mkdir -p release-packages
+          gh release download "${RELEASE_TAG}" --repo "${GITHUB_REPOSITORY}" \
+            --pattern "Resources-*.zip" --dir release-packages
+          ls -l release-packages
+
+      - name: Upload archive + latest.json, prune old
+        env:
+          VERSION: ${{ needs.update.outputs.version }}
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          files=(release-packages/Resources-*.zip)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "未找到 Resources-*.zip"; exit 1
+          fi
+          archive="${files[0]}"
+          name="$(basename "${archive}")"
+          size="$(stat -c %s "${archive}")"
+          sha="$(sha256sum "${archive}" | cut -d' ' -f1)"
+          base="s3://${R2_BUCKET}/${R2_PREFIX}"
+          echo "上传 ${name}（${size} 字节, sha256=${sha}）"
+
+          # 1) 新包：文件名带版本，URL 唯一，可长缓存
+          aws s3 cp "${archive}" "${base}/${name}" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --content-type application/zip \
+            --cache-control "public, max-age=31536000, immutable"
+
+          # 2) latest.json：固定名，短缓存，避免 CDN 缓存住旧版本
+          printf '{"version":"%s","archive":"%s","size":%s,"sha256":"%s"}\n' \
+            "${VERSION}" "${name}" "${size}" "${sha}" > latest.json
+          aws s3 cp latest.json "${base}/latest.json" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --content-type application/json \
+            --cache-control "no-cache, max-age=30"
+
+          # 3) 优雅路线：删掉同前缀下其它旧 Resources-*.zip，只留当前版本
+          aws s3 rm "${base}/" --recursive \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --exclude "*" --include "Resources-*.zip" --exclude "${name}"
+

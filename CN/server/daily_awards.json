@@ -1,0 +1,124 @@
+{
+  "_source": [
+    "https://wiki.biligame.com/blhx/index.php?title=每日挑战&oldid=412911",
+    "https://azurlane.koumakan.jp/wiki/Daily_Raid"
+  ],
+  "_checked": "2026-10-26",
+  "_scope": "Exact published counts for corresponding Daily Raid tiers; each covered stage has matching CN/EN numeric/range/chance award_display entries. CN BWIKI independently confirms Lv60 S=50/A=48 chips. Approximate coin amounts, unpublished Lv35 counts, Lv95 Fierce Assault inconsistent chances, and Lv60 B=45 outside CN 46~50 are omitted. Remaining counts are cross-region wiki evidence, not a CN packet capture.",
+  "stages": {
+    "2000": {
+      "tier_count": 5
+    },
+    "2001": {
+      "tier_count": 5
+    },
+    "2002": {
+      "tier_count": 7
+    },
+    "2003": {
+      "tier_count": 7
+    },
+    "2004": {
+      "tier_count": 9
+    },
+    "2005": {
+      "tier_count": 9
+    },
+    "2006": {
+      "tier_count": 11
+    },
+    "2007": {
+      "tier_count": 11
+    },
+    "2008": {
+      "tier_count": 13
+    },
+    "2009": {
+      "tier_count": 13
+    },
+    "2010": {
+      "tier_count": 10
+    },
+    "2011": {
+      "tier_count": 10
+    },
+    "3000": {
+      "tier_count": 3
+    },
+    "3001": {
+      "tier_count": 3
+    },
+    "3003": {
+      "tier_count": 4
+    },
+    "3004": {
+      "tier_count": 5
+    },
+    "3005": {
+      "tier_count": 5
+    },
+    "4000": {
+      "tier_count": 3
+    },
+    "4001": {
+      "tier_count": 3
+    },
+    "4003": {
+      "tier_count": 3
+    },
+    "4004": {
+      "tier_count": 3
+    },
+    "6000": {
+      "rank_counts": {
+        "15008": {
+          "S": 50,
+          "A": 48
+        }
+      }
+    },
+    "6001": {
+      "rank_counts": {
+        "15008": {
+          "S": 50,
+          "A": 48
+        }
+      }
+    },
+    "6002": {
+      "rank_counts": {
+        "15008": {
+          "S": 50,
+          "A": 48
+        }
+      }
+    },
+    "6003": {
+      "rank_counts": {
+        "15008": {
+          "S": 70,
+          "A": 68,
+          "B": 65
+        }
+      }
+    },
+    "6004": {
+      "rank_counts": {
+        "15008": {
+          "S": 70,
+          "A": 68,
+          "B": 65
+        }
+      }
+    },
+    "6005": {
+      "rank_counts": {
+        "15008": {
+          "S": 70,
+          "A": 68,
+          "B": 65
+        }
+      }
+    }
+  }
+}

@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve the exact release bytes across Windows and Linux checkouts.
+CN/** -text whitespace=cr-at-eol

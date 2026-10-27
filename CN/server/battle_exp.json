@@ -1,0 +1,51 @@
+{
+  "_source": [
+    "https://wiki.biligame.com/blhx/index.php?title=战斗评分&oldid=195045",
+    "https://wiki.biligame.com/blhx/index.php?title=心情&oldid=229324",
+    "https://wiki.biligame.com/blhx/index.php?title=公式合集&oldid=395828"
+  ],
+  "_checked": "2026-10-26",
+  "_scope": "Published ship rank/morale and commander size/rank/level-gap factors. Commander gaps multiply the rank and the result is floored. The upstream scenarioExpRate=2 remains an existing implementation assumption, not a newly verified CN universal multiplier.",
+  "ship_rank_rates": {
+    "S": 1.2,
+    "A": 1.0,
+    "B": 0.8,
+    "C": 0.1,
+    "D": 0.1
+  },
+  "ship_energy_rates": {
+    "1": 0.5,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.2
+  },
+  "player_exp": {
+    "by_ships": {
+      "2": 20,
+      "3": 27,
+      "4": 35,
+      "5": 42.5,
+      "6": 49.5,
+      "7": 57.5,
+      "8": 65,
+      "9": 72.5
+    },
+    "rank_rates": {
+      "S": 1.2,
+      "A": 1.0,
+      "B": 0.8
+    },
+    "level_gaps": [
+      {
+        "over": 40,
+        "rate": 0.1
+      },
+      {
+        "over": 20,
+        "rate": 0.5
+      }
+    ],
+    "multiply_level_gap": true,
+    "round_down": true
+  }
+}
