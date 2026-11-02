@@ -2,7 +2,12 @@ name: Update CN data
 
 on:
   push:
-    paths: ['CN/server/**']
+    paths:
+      - 'CN/server/**'
+      - 'schema/manifest.json'
+      - 'tools/generate_cn.py'
+      - 'requirements.txt'
+      - '.github/workflows/update-cn-data.yml'
   workflow_dispatch:
     inputs:
       force:
